@@ -1,38 +1,11 @@
-name: Build Telegram RSS
-on:
-  schedule:
-    - cron: "*/10 * * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-      - run: pip install -r requirements.txt
-      - name: Restore session
-        run: |
-          echo -n "$TG_SESSION_HEX" > session.hex
-          python3 - <<EOF
-from binascii import unhexlify
-data=open("session.hex").read()
-open("session_user","wb").write(unhexlify(data))
-EOF
-      - run: python3 update_rss.py
-      - run: |
-          mkdir -p public
-          cp index.html public/index.html
-          cp rss.xml public/rss.xml
-      - uses: actions/upload-pages-artifact@v2
-        with:
-          path: public
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    steps:
-      - uses: actions/deploy-pages@v2
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Telegram RSS feed</title>
+    <link>https://maksyl686.github.io/tgone/</link>
+    <description>Telegram RSS feed</description>
+    <lastBuildDate></lastBuildDate>
+
+    <!-- Items will be inserted here -->
+  </channel>
+</rss>
