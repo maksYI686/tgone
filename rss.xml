@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 09 Dec 2025 22:38:13 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 The Russian messaging app "Molniya," aimed at enhancing international cooperation, particularly w...</title>
-      <link>https://t.me/news_cryptod/3737</link>
-      <description>🇷🇺 The Russian messaging app "Molniya," aimed at enhancing international cooperation, particularly with China, is scheduled for launch in early 2026, according to TASS. "Molniya" will function as an all-in-one platform that includes communication features, social media content, payment options, cross-border trade facilitation, and various business services. For additional information, visit this link.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3737</guid>
-      <pubDate>Sun, 07 Dec 2025 17:12:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Dec 2025 23:01:11 +0000</lastBuildDate>
     <item>
       <title>🇮🇳🇷🇺 India is set to host Russian President Putin, aiming to bolster trade relations even as it navi...</title>
       <link>https://t.me/news_cryptod/3739</link>
@@ -360,6 +353,13 @@ In early December, China's Foreign Ministry called on the US to halt all communi
       <description>🇨🇭 According to SonntagsBlick, UBS could potentially reduce its workforce by another 10,000 positions by 2027.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3792</guid>
       <pubDate>Tue, 09 Dec 2025 21:42:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚡🇫🇷 BPCE, the third-largest bank in France, has initiated cryptocurrency trading.</title>
+      <link>https://t.me/news_cryptod/3793</link>
+      <description>⚡🇫🇷 BPCE, the third-largest bank in France, has initiated cryptocurrency trading.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3793</guid>
+      <pubDate>Tue, 09 Dec 2025 22:41:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
