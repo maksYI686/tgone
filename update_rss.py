@@ -1,55 +1,49 @@
 import os
 import asyncio
+from datetime import datetime, timezone
 from telethon import TelegramClient
 from feedgen.feed import FeedGenerator
-from binascii import unhexlify
-from datetime import datetime
+
+print("=== RSS GENERATOR STARTED ===")
 
 api_id = int(os.environ["API_ID"])
 api_hash = os.environ["API_HASH"]
-session_hex = os.environ.get("TG_SESSION_HEX", "")
-
-print("Starting script...")  # Лог для Actions
-
-if session_hex:
-    with open("session_user.session", "wb") as f:
-        f.write(unhexlify(session_hex))
-    print("Session loaded from hex.")
-else:
-    print("No session hex — will try to auth (but needs phone/code, skip for now).")
 
 client = TelegramClient("session_user", api_id, api_hash)
 CHANNEL = "news_cryptod"
 
 async def main():
+    print("Connecting to Telegram...")
     await client.start()
     me = await client.get_me()
-    print(f"Logged in as: {me.username or me.first_name}")  # Проверка авторизации
+    print(f"Logged in as: {me.first_name} (@{me.username or 'no username'})")
 
     fg = FeedGenerator()
     fg.title("Crypto News Mirror")
+    fg.description("Автоматическая RSS-лента из @news_cryptod")
     fg.link(href="https://maksyI686.github.io/tgone/rss.xml", rel="self")
-    fg.description("Автоматический RSS из @news_cryptod")
     fg.language("ru")
-    fg.lastBuildDate(datetime.now())
+    fg.lastBuildDate(datetime.now(timezone.utc))
 
-    message_count = 0
-    async for msg in client.iter_messages(CHANNEL, limit=50):
-        if not msg.message:
+    count = 0
+    async for message in client.iter_messages(CHANNEL, limit=50):
+        if not message.message:
             continue
-        message_count += 1
-        fe = fg.add_entry()
-        fe.id(f"https://t.me/{CHANNEL}/{msg.id}")
-        title = msg.message.split('\n', 1)[0][:120] + "..." if len(msg.message.split('\n', 1)[0]) > 120 else msg.message.split('\n', 1)[0]
-        fe.title(title)
-        fe.link(href=f"https://t.me/{CHANNEL}/{msg.id}")
-        fe.description(msg.message.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
-        fe.pubDate(msg.date)
-        print(f"Added message {message_count}: {title[:50]}...")  # Лог
+        count += 1
+        entry = fg.add_entry(order="prepend")
+        entry.id(f"https://t.me/{CHANNEL}/{message.id}")
+        title = message.message.split("\n", 1)[0][:100]
+        if len(message.message.split("\n", 1)[0]) > 100:
+            title += "..."
+        entry.title(title)
+        entry.link(href=f"https://t.me/{CHANNEL}/{message.id}")
+        entry.description(message.message.replace("&", "&").replace("<", "<").replace(">", ">"))
+        entry.pubDate(message.date.replace(tzinfo=timezone.utc))
 
     fg.rss_file("rss.xml", pretty=True)
-    print(f"RSS generated with {message_count} entries.")
+    print(f"RSS created: {count} entries, {os.path.getsize('rss.xml')} bytes")
 
     await client.disconnect()
 
-asyncio.run(main())
+if __name__ == "__main__":
+    asyncio.run(main())
