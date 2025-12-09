@@ -1,64 +1,52 @@
-name: Update RSS from Telegram
+import os
+import asyncio
+from datetime import datetime, timezone
+from telethon import TelegramClient
+from feedgen.feed import FeedGenerator
 
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-  push:
-    branches: [ main ]
+print("=== RSS GENERATOR STARTED ===")
 
-jobs:
-  update-rss:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Для пуша
+api_id = int(os.environ["API_ID"])
+api_hash = os.environ["API_HASH"]
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+client = TelegramClient("session_user", api_id, api_hash)
+CHANNEL = "news_cryptod"          # ← если хочешь другой канал — поменяй здесь
 
-      - name: Install dependencies
-        run: |
-          pip install telethon feedgen lxml
-          echo "Dependencies installed"
+async def main():
+    print("Connecting to Telegram...")
+    await client.start()
+    me = await client.get_me()
+    print(f"Successfully logged in as: {me.first_name} (@{me.username or 'no username'})")
 
-      - name: Restore session from base64 secret
-        run: |
-          echo "${{ secrets.SESSION_B64 }}" | base64 -d > session_user.session
-          chmod 600 session_user.session
-          SIZE=$(wc -c < session_user.session)
-          echo "Session restored: $SIZE bytes"
-          ls -la session_user.session || echo "LS failed"
+    fg = FeedGenerator()
+    fg.title("Crypto News Mirror")
+    fg.description("Автоматическая RSS-лента из @news_cryptod")
+    fg.link(href="https://maksyI686.github.io/tgone/rss.xml", rel="self")
+    fg.language("ru")
+    fg.lastBuildDate(datetime.now(timezone.utc))
 
-      - name: Generate RSS
-        env:
-          API_ID: ${{ secrets.API_ID }}
-          API_HASH: ${{ secrets.API_HASH }}
-        run: |
-          python update_rss.py
-          if [ -f "rss.xml" ]; then
-            SIZE=$(wc -c < rss.xml)
-            echo "RSS created: $SIZE bytes"
-            head -20 rss.xml  # Первые 20 строк RSS для лога
-          else
-            echo "ERROR: rss.xml NOT created!"
-            exit 1
-          fi
+    count = 0
+    print(f"Fetching last 50 messages from @{CHANNEL}...")
+    async for message in client.iter_messages(CHANNEL, limit=50):
+        if not message.message:
+            continue
 
-      - name: Commit & push RSS
-        run: |
-          git config user.name "RSS Bot"
-          git config user.email "bot@noreply.github.com"
-          git add rss.xml
-          STATUS=$(git status --porcelain)
-          echo "Git status: $STATUS"
-          if [ -z "$STATUS" ]; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update RSS feed $(date +'%Y-%m-%d %H:%M')"
-            git push
-            echo "Pushed successfully!"
-          fi
+        count += 1
+        entry = fg.add_entry(order="prepend")  # новые сверху
+        entry.id(f"https://t.me/{CHANNEL}/{message.id}")
+        title = message.message.split("\n", 1)[0][:100]
+        if len(message.message.split("\n", 1)[0]) > 100:
+            title += "..."
+        entry.title(title)
+        entry.link(href=f"https://t.me/{CHANNEL}/{message.id}")
+        entry.description(message.message.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+        entry.pubDate(message.date.replace(tzinfo=timezone.utc))  # ФИКС ТУТ
+
+    fg.rss_file("rss.xml", pretty=True)
+    print(f"RSS file created! {count} entries, size: {os.path.getsize('rss.xml')} bytes")
+
+    await client.disconnect()
+    print("=== RSS GENERATOR FINISHED ===")
+
+if __name__ == "__main__":
+    asyncio.run(main())
