@@ -2,7 +2,7 @@ name: Update RSS from Telegram
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # каждые 30 минут
+    - cron: '*/30 * * * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -19,18 +19,28 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install telethon feedgen
+        run: pip install telethon feedgen lxml
+
+      - name: Restore session from base64 secret
+        run: |
+          echo "${{ secrets.SESSION_B64 }}" | base64 -d > session_user.session
+          chmod 600 session_user.session
+          echo "Session file restored – $(wc -c < session_user.session) bytes"
 
       - name: Generate RSS
         env:
           API_ID: ${{ secrets.API_ID }}
           API_HASH: ${{ secrets.API_HASH }}
-          TG_SESSION_HEX: ${{ secrets.TG_SESSION_HEX }}
         run: python update_rss.py
 
-      - name: Commit & Push if changed
+      - name: Commit & push if RSS changed
         run: |
           git config user.name "RSS Bot"
           git config user.email "bot@noreply.github.com"
           git add rss.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -c commit.gpgsign=false commit -m "Update RSS feed"
+            git push
+          fi
