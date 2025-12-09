@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # Для пуша
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -19,40 +21,44 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install telethon feedgen lxml
+        run: |
+          pip install telethon feedgen lxml
+          echo "Dependencies installed"
 
       - name: Restore session from base64 secret
         run: |
           echo "${{ secrets.SESSION_B64 }}" | base64 -d > session_user.session
           chmod 600 session_user.session
-          echo "Session restored: $(wc -c < session_user.session) bytes"
-          ls -la session_user.session
+          SIZE=$(wc -c < session_user.session)
+          echo "Session restored: $SIZE bytes"
+          ls -la session_user.session || echo "LS failed"
 
       - name: Generate RSS
         env:
           API_ID: ${{ secrets.API_ID }}
           API_HASH: ${{ secrets.API_HASH }}
-        run: python update_rss.py
-
-      - name: Check RSS file
         run: |
+          python update_rss.py
           if [ -f "rss.xml" ]; then
-            echo "RSS file created: $(wc -c < rss.xml) bytes"
-            head -20 rss.xml
+            SIZE=$(wc -c < rss.xml)
+            echo "RSS created: $SIZE bytes"
+            head -20 rss.xml  # Первые 20 строк RSS для лога
           else
-            echo "ERROR: rss.xml not created!"
+            echo "ERROR: rss.xml NOT created!"
             exit 1
           fi
 
-      - name: Commit & push if changed
+      - name: Commit & push RSS
         run: |
           git config user.name "RSS Bot"
           git config user.email "bot@noreply.github.com"
           git add rss.xml
-          if git diff --staged --quiet; then
-            echo "No changes in RSS"
+          STATUS=$(git status --porcelain)
+          echo "Git status: $STATUS"
+          if [ -z "$STATUS" ]; then
+            echo "No changes to commit"
           else
-            git commit -m "Update RSS feed [$(date +%Y-%m-%d %H:%M)]"
+            git commit -m "Update RSS feed $(date +'%Y-%m-%d %H:%M')"
             git push
-            echo "Pushed RSS to repo!"
+            echo "Pushed successfully!"
           fi
