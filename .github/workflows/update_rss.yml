@@ -1,37 +1,36 @@
-name: Update Telegram RSS
+name: Update RSS from Telegram
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: '*/30 * * * *'   # каждые 30 минут
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
-  build:
+  update-rss:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: '3.11'
 
-      - name: Install deps
-        run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install telethon feedgen
 
-      - name: Run updater
+      - name: Generate RSS
+        env:
+          API_ID: ${{ secrets.API_ID }}
+          API_HASH: ${{ secrets.API_HASH }}
+          TG_SESSION_HEX: ${{ secrets.TG_SESSION_HEX }}
         run: python update_rss.py
 
-      - name: Commit changes
+      - name: Commit & Push if changed
         run: |
-          git config --global user.email "bot@example.com"
-          git config --global user.name "GitHub Actions"
+          git config user.name "RSS Bot"
+          git config user.email "bot@noreply.github.com"
           git add rss.xml
-          git commit -m "Auto update RSS" || echo "Nothing to commit"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.8.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update RSS feed" && git push)
