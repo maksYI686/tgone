@@ -2,7 +2,7 @@ name: Update RSS from Telegram
 
 on:
   schedule:
-    - cron: '*/30 * * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -25,7 +25,8 @@ jobs:
         run: |
           echo "${{ secrets.SESSION_B64 }}" | base64 -d > session_user.session
           chmod 600 session_user.session
-          echo "Session file restored – $(wc -c < session_user.session) bytes"
+          echo "Session restored: $(wc -c < session_user.session) bytes"
+          ls -la session_user.session
 
       - name: Generate RSS
         env:
@@ -33,14 +34,25 @@ jobs:
           API_HASH: ${{ secrets.API_HASH }}
         run: python update_rss.py
 
-      - name: Commit & push if RSS changed
+      - name: Check RSS file
+        run: |
+          if [ -f "rss.xml" ]; then
+            echo "RSS file created: $(wc -c < rss.xml) bytes"
+            head -20 rss.xml
+          else
+            echo "ERROR: rss.xml not created!"
+            exit 1
+          fi
+
+      - name: Commit & push if changed
         run: |
           git config user.name "RSS Bot"
           git config user.email "bot@noreply.github.com"
           git add rss.xml
           if git diff --staged --quiet; then
-            echo "No changes"
+            echo "No changes in RSS"
           else
-            git commit -c commit.gpgsign=false commit -m "Update RSS feed"
+            git commit -m "Update RSS feed [$(date +%Y-%m-%d %H:%M)]"
             git push
+            echo "Pushed RSS to repo!"
           fi
