@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 10 Dec 2025 13:09:13 +0000</lastBuildDate>
-    <item>
-      <title>✴️🇺🇸 CNBC has formed an exclusive multi-year partnership with prediction platform Kalshi, allowing t...</title>
-      <link>https://t.me/news_cryptod/3753</link>
-      <description>✴️🇺🇸 CNBC has formed an exclusive multi-year partnership with prediction platform Kalshi, allowing the incorporation of Kalshi's real-time market prediction data across CNBC's television, digital, and subscription platforms, set to launch in 2026.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3753</guid>
-      <pubDate>Mon, 08 Dec 2025 08:46:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 13:52:35 +0000</lastBuildDate>
     <item>
       <title>💵 According to a UBS report, the global count of dollar billionaires has risen by almost 9% in the p...</title>
       <link>https://t.me/news_cryptod/3754</link>
@@ -360,6 +353,13 @@ In early December, China's Foreign Ministry called on the US to halt all communi
       <description>🇺🇸 According to a consensus forecast from Goldman Sachs, the U.S. economy is expected to grow by 2.5% in 2026.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3807</guid>
       <pubDate>Wed, 10 Dec 2025 12:17:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌕🇨🇳 China maintains its gold purchasing trend for the 13th month in a row, despite soaring prices. I...</title>
+      <link>https://t.me/news_cryptod/3808</link>
+      <description>🌕🇨🇳 China maintains its gold purchasing trend for the 13th month in a row, despite soaring prices. In September, reports indicated that India is offloading U.S. government bonds while simultaneously acquiring gold at unprecedented rates. To learn more about China’s strategy, check out the full article here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3808</guid>
+      <pubDate>Wed, 10 Dec 2025 13:16:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
