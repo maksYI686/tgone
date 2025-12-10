@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 10 Dec 2025 14:11:54 +0000</lastBuildDate>
-    <item>
-      <title>💵 According to a UBS report, the global count of dollar billionaires has risen by almost 9% in the p...</title>
-      <link>https://t.me/news_cryptod/3754</link>
-      <description>💵 According to a UBS report, the global count of dollar billionaires has risen by almost 9% in the past year, totaling 2,919 individuals. Notably, day traders were not included on this list.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3754</guid>
-      <pubDate>Mon, 08 Dec 2025 09:44:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 14:45:36 +0000</lastBuildDate>
     <item>
       <title>🌟 The CEO of Ripple forecasts that the price of BTC will hit $180,000 by the close of 2026.</title>
       <link>https://t.me/news_cryptod/3755</link>
@@ -360,6 +353,13 @@ In early December, China's Foreign Ministry called on the US to halt all communi
       <description>🌕🇨🇳 China maintains its gold purchasing trend for the 13th month in a row, despite soaring prices. In September, reports indicated that India is offloading U.S. government bonds while simultaneously acquiring gold at unprecedented rates. To learn more about China’s strategy, check out the full article here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3808</guid>
       <pubDate>Wed, 10 Dec 2025 13:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🧠 Here's a roundup of the biggest venture funding rounds in AI for November, brought to you by AI-al...</title>
+      <link>https://t.me/news_cryptod/3809</link>
+      <description>🧠 Here's a roundup of the biggest venture funding rounds in AI for November, brought to you by AI-alpha. Leading the pack is Jeff Bezos's startup, Project Prometeus, which is yet to launch its website.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3809</guid>
+      <pubDate>Wed, 10 Dec 2025 14:14:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
