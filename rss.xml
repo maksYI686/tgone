@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 10 Dec 2025 16:01:53 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇸 The SP500 is approaching all-time highs, yet the "fear and greed" index indicates a state of "fea...</title>
-      <link>https://t.me/news_cryptod/3756</link>
-      <description>🇺🇸 The SP500 is approaching all-time highs, yet the "fear and greed" index indicates a state of "fear." Experts suggest that this combination has historically preceded further rallies, although outcomes are not guaranteed.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3756</guid>
-      <pubDate>Mon, 08 Dec 2025 11:41:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 16:48:28 +0000</lastBuildDate>
     <item>
       <title>📰 Today, ambassadors from the European Union will convene to discuss the European Commission's propo...</title>
       <link>https://t.me/news_cryptod/3757</link>
@@ -360,6 +353,13 @@ In early December, China's Foreign Ministry called on the US to halt all communi
       <description>🇺🇸 This week, U.S. companies will be releasing their earnings reports.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3810</guid>
       <pubDate>Wed, 10 Dec 2025 15:12:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>In the upcoming weeks, Iranian Foreign Minister Abbas Araghchi is set to travel to Russia and Belaru...</title>
+      <link>https://t.me/news_cryptod/3811</link>
+      <description>In the upcoming weeks, Iranian Foreign Minister Abbas Araghchi is set to travel to Russia and Belarus.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3811</guid>
+      <pubDate>Wed, 10 Dec 2025 16:11:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
