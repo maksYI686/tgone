@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 10 Dec 2025 04:22:34 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺🇨🇳 The head of the government debt department announced that the Russian Finance Ministry intends ...</title>
-      <link>https://t.me/news_cryptod/3742</link>
-      <description>🇷🇺🇨🇳 The head of the government debt department announced that the Russian Finance Ministry intends to issue federal loan bonds denominated in Chinese yuan each year, maintaining a similar volume.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3742</guid>
-      <pubDate>Sun, 07 Dec 2025 22:04:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 04:49:47 +0000</lastBuildDate>
     <item>
       <title>✴️🇺🇸 BitMine, a subsidiary of Tom Lee's Fundstrat, has increased its holdings by 30,278 ETH. Tom Lee...</title>
       <link>https://t.me/news_cryptod/3743</link>
@@ -360,6 +353,13 @@ In early December, China's Foreign Ministry called on the US to halt all communi
       <description>🎉 Texas has etched its name in history by becoming the first U.S. state to acquire BTC, as announced by Lieutenant Governor Dan Patrick. He voiced his support for Trump and emphasized his goal of positioning Texas as the center of America's digital future. Find out more here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3798</guid>
       <pubDate>Wed, 10 Dec 2025 03:32:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>✴️ Western Union is set to introduce a "stable card" designed to safeguard users in countries experi...</title>
+      <link>https://t.me/news_cryptod/3799</link>
+      <description>✴️ Western Union is set to introduce a "stable card" designed to safeguard users in countries experiencing high inflation, as part of its strategy for stablecoins. Additionally, the company has announced plans to roll out its own stablecoin. For further information, check out the announcement.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3799</guid>
+      <pubDate>Wed, 10 Dec 2025 04:31:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
