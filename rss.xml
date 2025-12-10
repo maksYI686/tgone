@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 10 Dec 2025 09:17:56 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇸 A Reuters poll indicates that analysts anticipate the Federal Reserve will reduce the interest ra...</title>
-      <link>https://t.me/news_cryptod/3749</link>
-      <description>🇺🇸 A Reuters poll indicates that analysts anticipate the Federal Reserve will reduce the interest rate by 0.25% during its meeting on December 10.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3749</guid>
-      <pubDate>Mon, 08 Dec 2025 04:52:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 09:42:30 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 The Office of Foreign Assets Control (OFAC) has granted an extension for Lukoil's foreign gas sta...</title>
       <link>https://t.me/news_cryptod/3750</link>
@@ -360,6 +353,13 @@ In early December, China's Foreign Ministry called on the US to halt all communi
       <description>✴️🇺🇸 SEC Chairman Paul Atkins declared that tokenization will shift all US markets to blockchain technology within the next two years.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3803</guid>
       <pubDate>Wed, 10 Dec 2025 08:24:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥🇺🇸 The M2 money supply in the United States is reaching unprecedented heights.</title>
+      <link>https://t.me/news_cryptod/3804</link>
+      <description>💥🇺🇸 The M2 money supply in the United States is reaching unprecedented heights.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3804</guid>
+      <pubDate>Wed, 10 Dec 2025 09:22:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
