@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 10 Dec 2025 16:48:28 +0000</lastBuildDate>
-    <item>
-      <title>📰 Today, ambassadors from the European Union will convene to discuss the European Commission's propo...</title>
-      <link>https://t.me/news_cryptod/3757</link>
-      <description>📰 Today, ambassadors from the European Union will convene to discuss the European Commission's proposal regarding the expropriation of frozen Russian assets. Simultaneously, NATO foreign ministers are gathering, while Russian President Putin is on an official visit to India that will last until December 5. French President Macron is wrapping up his trip to China. Throughout the day, key economic indicators such as inflation and consumer sentiment data will be released in the U.S. Additionally, Russia's Ministry of Finance and Central Bank have plans to boost currency sales. For more information, click here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3757</guid>
-      <pubDate>Mon, 08 Dec 2025 12:39:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Dec 2025 17:12:33 +0000</lastBuildDate>
     <item>
       <title>🌎 The exchange rates of the US dollar have experienced fluctuations in the global market. Currently,...</title>
       <link>https://t.me/news_cryptod/3758</link>
@@ -360,6 +353,13 @@ In early December, China's Foreign Ministry called on the US to halt all communi
       <description>In the upcoming weeks, Iranian Foreign Minister Abbas Araghchi is set to travel to Russia and Belarus.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3811</guid>
       <pubDate>Wed, 10 Dec 2025 16:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 SberCIB's baseline projection for 2026 indicates that the ruble is expected to depreciate further...</title>
+      <link>https://t.me/news_cryptod/3812</link>
+      <description>🇷🇺 SberCIB's baseline projection for 2026 indicates that the ruble is expected to depreciate further, hitting 14.7 RUB per yuan and 100 RUB per dollar. This outlook is influenced by several factors, including a decrease in the key interest rate, anticipated reductions in foreign currency sales by the Central Bank, and a possible decline in currency sales by exporters resulting from low oil prices.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3812</guid>
+      <pubDate>Wed, 10 Dec 2025 17:09:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
