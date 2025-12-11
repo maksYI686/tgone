@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 11 Dec 2025 10:01:26 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇸🇷🇺 Former President Trump shared a post on Truth Social featuring a Fox News article that claims U...</title>
-      <link>https://t.me/news_cryptod/3776</link>
-      <description>🇺🇸🇷🇺 Former President Trump shared a post on Truth Social featuring a Fox News article that claims U.S. actions towards Venezuela act as a warning to Putin. The piece argues that the U.S. will work to weaken Russia's allies on a global scale if Putin persists in his attempts to reclaim all of Ukraine, while avoiding direct conflict to prevent escalating into a world war.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3776</guid>
-      <pubDate>Tue, 09 Dec 2025 07:07:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Dec 2025 10:46:11 +0000</lastBuildDate>
     <item>
       <title>🛢 India has cut back on its imports of Russian oil but has no plans to cease them entirely. U.S. tar...</title>
       <link>https://t.me/news_cryptod/3777</link>
@@ -360,6 +353,13 @@ In early December, China's Foreign Ministry called on the US to halt all communi
       <description>🇷🇺 A recent analysis by RIA Novosti, utilizing data from EMISS, reveals that alcohol consumption in Russia has reached its lowest point in 30 years.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3829</guid>
       <pubDate>Thu, 11 Dec 2025 09:41:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 U.S. Treasury Secretary Bessent has announced that the nation is projected to conclude the year w...</title>
+      <link>https://t.me/news_cryptod/3830</link>
+      <description>🇺🇸 U.S. Treasury Secretary Bessent has announced that the nation is projected to conclude the year with a GDP growth of 3%. Meanwhile, Commerce Secretary Latnik expects the growth rate to exceed 4% in 2026. In contrast, a consensus forecast from Goldman Sachs predicts a 2.5% GDP growth for the U.S. in the same year.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3830</guid>
+      <pubDate>Thu, 11 Dec 2025 10:39:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
