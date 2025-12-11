@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 11 Dec 2025 11:37:23 +0000</lastBuildDate>
-    <item>
-      <title>🛢 India has cut back on its imports of Russian oil but has no plans to cease them entirely. U.S. tar...</title>
-      <link>https://t.me/news_cryptod/3777</link>
-      <description>🛢 India has cut back on its imports of Russian oil but has no plans to cease them entirely. U.S. tariffs have not been effective in stopping trade between Russia and India. The two nations may return to earlier supply levels by utilizing new trading intermediaries — BBG.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3777</guid>
-      <pubDate>Tue, 09 Dec 2025 08:06:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Dec 2025 12:01:50 +0000</lastBuildDate>
     <item>
       <title>Hungarian Prime Minister Viktor Orban has revealed that a Hungarian business delegation will be visi...</title>
       <link>https://t.me/news_cryptod/3778</link>
@@ -360,6 +353,13 @@ In early December, China's Foreign Ministry called on the US to halt all communi
       <description>🇺🇸 U.S. Treasury Secretary Bessent has announced that the nation is projected to conclude the year with a GDP growth of 3%. Meanwhile, Commerce Secretary Latnik expects the growth rate to exceed 4% in 2026. In contrast, a consensus forecast from Goldman Sachs predicts a 2.5% GDP growth for the U.S. in the same year.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3830</guid>
       <pubDate>Thu, 11 Dec 2025 10:39:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Investors are exhibiting heightened concern regarding Oracle's future. According to Bloomberg, th...</title>
+      <link>https://t.me/news_cryptod/3831</link>
+      <description>⚠️ Investors are exhibiting heightened concern regarding Oracle's future. According to Bloomberg, the company's five-year CDS, which reflects the cost of default insurance, has reached a 16-year peak. This trend is not observed among other firms. Earlier, Morgan highlighted Oracle's substantial investments in AI and its increasing debt levels.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3831</guid>
+      <pubDate>Thu, 11 Dec 2025 11:37:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
