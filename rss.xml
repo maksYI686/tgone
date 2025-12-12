@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 12 Dec 2025 20:41:03 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 SberCIB's baseline projection for 2026 indicates that the ruble is expected to depreciate further...</title>
-      <link>https://t.me/news_cryptod/3812</link>
-      <description>🇷🇺 SberCIB's baseline projection for 2026 indicates that the ruble is expected to depreciate further, hitting 14.7 RUB per yuan and 100 RUB per dollar. This outlook is influenced by several factors, including a decrease in the key interest rate, anticipated reductions in foreign currency sales by the Central Bank, and a possible decline in currency sales by exporters resulting from low oil prices.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3812</guid>
-      <pubDate>Wed, 10 Dec 2025 17:09:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Dec 2025 21:01:10 +0000</lastBuildDate>
     <item>
       <title>⚠️ In a dramatic turn of events, Netflix's stock fell to a seven-month low following its announcemen...</title>
       <link>https://t.me/news_cryptod/3813</link>
@@ -358,6 +351,13 @@
       <description>⚠️ According to Axios, citing Ukrainian and American officials, the United States is intensifying its pressure on Zelensky to pursue a peace agreement, whereas Europe is urging him not to make any concessions.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3869</guid>
       <pubDate>Fri, 12 Dec 2025 19:42:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ According to the office of UK Prime Minister Starmer, European Union nations are close to reachin...</title>
+      <link>https://t.me/news_cryptod/3870</link>
+      <description>⚠️ According to the office of UK Prime Minister Starmer, European Union nations are close to reaching an agreement to use Russian assets to finance Ukraine. An announcement regarding the confiscation of frozen Russian assets is anticipated from the EU either this week or next. This initiative aims to secure £100 billion ($133 billion) for Ukraine from these assets. The European Commission is aiming for a decision on expropriating €210 billion at the summit scheduled for December 18-19, with €185 billion currently held at Euroclear in Belgium.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3870</guid>
+      <pubDate>Fri, 12 Dec 2025 20:41:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
