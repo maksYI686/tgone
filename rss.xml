@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 12 Dec 2025 22:01:17 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Thailand is evacuating residents close to the Cambodian border amid concerns of potential renewed...</title>
-      <link>https://t.me/news_cryptod/3814</link>
-      <description>⚠️ Thailand is evacuating residents close to the Cambodian border amid concerns of potential renewed clashes.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3814</guid>
-      <pubDate>Wed, 10 Dec 2025 19:06:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Dec 2025 22:40:33 +0000</lastBuildDate>
     <item>
       <title>🗓 This week features significant events, including the Bank of Japan's annual meeting on December 8-...</title>
       <link>https://t.me/news_cryptod/3815</link>
@@ -358,6 +351,13 @@
       <description>🇯🇵🇷🇺 According to Politico, Japan has turned down the European Union's suggestion to seize $30 billion in frozen Russian assets held in Japan.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3871</guid>
       <pubDate>Fri, 12 Dec 2025 21:39:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Reports suggest that Cambodia has commenced artillery fire aimed at Thai territory utilizing mult...</title>
+      <link>https://t.me/news_cryptod/3872</link>
+      <description>⚠️ Reports suggest that Cambodia has commenced artillery fire aimed at Thai territory utilizing multiple rocket launch systems.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3872</guid>
+      <pubDate>Fri, 12 Dec 2025 22:37:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
