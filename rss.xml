@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 13 Dec 2025 13:01:08 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 A recent analysis by RIA Novosti, utilizing data from EMISS, reveals that alcohol consumption in ...</title>
-      <link>https://t.me/news_cryptod/3829</link>
-      <description>🇷🇺 A recent analysis by RIA Novosti, utilizing data from EMISS, reveals that alcohol consumption in Russia has reached its lowest point in 30 years.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3829</guid>
-      <pubDate>Thu, 11 Dec 2025 09:41:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 13:40:45 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 U.S. Treasury Secretary Bessent has announced that the nation is projected to conclude the year w...</title>
       <link>https://t.me/news_cryptod/3830</link>
@@ -358,6 +351,13 @@
       <description>🌟 The crypto-ETF market is relatively calm, with slight inflows observed in spot ETH ETFs, while BTC ETFs show minimal fluctuations. Since the introduction of the first spot SOL ETF in November, there have only been three instances of daily outflows. Notably, SOL ETF inflows have continued even amidst significant outflows from BTC ETFs, as reported by Farside data. max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3886</guid>
       <pubDate>Sat, 13 Dec 2025 12:14:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚀 XRP is currently facing challenges around the $2 threshold, but bullish sentiment remains strong, ...</title>
+      <link>https://t.me/news_cryptod/3887</link>
+      <description>🚀 XRP is currently facing challenges around the $2 threshold, but bullish sentiment remains strong, according to Santiment. This $2 mark is emerging as a significant "psychological level," akin to the $0.25 level in 2019-2021 and $0.50 in 2023-2024. For further information, visit max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3887</guid>
+      <pubDate>Sat, 13 Dec 2025 13:12:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
