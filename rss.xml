@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 13 Dec 2025 12:01:38 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ JPMorgan CEO Jamie Dimon has expressed worries about the economic situation in Europe, noting, "E...</title>
-      <link>https://t.me/news_cryptod/3828</link>
-      <description>⚠️ JPMorgan CEO Jamie Dimon has expressed worries about the economic situation in Europe, noting, "Europe is confronting serious challenges. They have stifled business, investment, and innovation."</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3828</guid>
-      <pubDate>Thu, 11 Dec 2025 08:42:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 13:01:08 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 A recent analysis by RIA Novosti, utilizing data from EMISS, reveals that alcohol consumption in ...</title>
       <link>https://t.me/news_cryptod/3829</link>
@@ -358,6 +351,13 @@
       <description>🇺🇸 Former President Trump is anticipated to sign an executive order on Monday, December 15, that will reclassify marijuana and notably reduce federal restrictions, as reported by CNBC. On December 12, cannabis company stocks experienced a significant boost, with the ETF #MSOS climbing nearly 60% on Friday. Read more here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3885</guid>
       <pubDate>Sat, 13 Dec 2025 11:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌟 The crypto-ETF market is relatively calm, with slight inflows observed in spot ETH ETFs, while BTC...</title>
+      <link>https://t.me/news_cryptod/3886</link>
+      <description>🌟 The crypto-ETF market is relatively calm, with slight inflows observed in spot ETH ETFs, while BTC ETFs show minimal fluctuations. Since the introduction of the first spot SOL ETF in November, there have only been three instances of daily outflows. Notably, SOL ETF inflows have continued even amidst significant outflows from BTC ETFs, as reported by Farside data. max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3886</guid>
+      <pubDate>Sat, 13 Dec 2025 12:14:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
