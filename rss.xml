@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 13 Dec 2025 15:01:13 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Investors are exhibiting heightened concern regarding Oracle's future. According to Bloomberg, th...</title>
-      <link>https://t.me/news_cryptod/3831</link>
-      <description>⚠️ Investors are exhibiting heightened concern regarding Oracle's future. According to Bloomberg, the company's five-year CDS, which reflects the cost of default insurance, has reached a 16-year peak. This trend is not observed among other firms. Earlier, Morgan highlighted Oracle's substantial investments in AI and its increasing debt levels.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3831</guid>
-      <pubDate>Thu, 11 Dec 2025 11:37:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 15:35:35 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 The U.S. Navy's Phelan has revealed that Trump has given the green light for the establishment of...</title>
       <link>https://t.me/news_cryptod/3832</link>
@@ -358,6 +351,13 @@
       <description>📈 According to BBG, Binance maintains its dominance in the cryptocurrency exchange market, commanding a significant portion of global BTC trading.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3888</guid>
       <pubDate>Sat, 13 Dec 2025 14:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 The Trump administration is set to release a $1 coin featuring Trump's likeness next year in hono...</title>
+      <link>https://t.me/news_cryptod/3889</link>
+      <description>🇺🇸 The Trump administration is set to release a $1 coin featuring Trump's likeness next year in honor of America's 250th anniversary celebration.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3889</guid>
+      <pubDate>Sat, 13 Dec 2025 15:09:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
