@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 13 Dec 2025 07:01:17 +0000</lastBuildDate>
-    <item>
-      <title>❗️ During a conference in Doha, Donald Trump Jr. suggested that the United States could cease its su...</title>
-      <link>https://t.me/news_cryptod/3823</link>
-      <description>❗️ During a conference in Doha, Donald Trump Jr. suggested that the United States could cease its support for Ukraine. Meanwhile, his father, Donald Trump, has not dismissed the possibility of pulling out of the negotiation process, according to a report by The Guardian.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3823</guid>
-      <pubDate>Thu, 11 Dec 2025 03:51:14 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Dec 2025 07:36:33 +0000</lastBuildDate>
     <item>
       <title>⚠️ Sources indicate a growing divide between the U.S. and Europe regarding Ukraine, with leaks revea...</title>
       <link>https://t.me/news_cryptod/3824</link>
@@ -358,6 +351,13 @@
       <description>⚠️ The Japanese Ministry of Finance has denied a report from Politico that stated Japan rejected the EU's proposal to seize $30 billion in frozen Russian assets within its borders to aid Ukraine.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3880</guid>
       <pubDate>Sat, 13 Dec 2025 06:24:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 Ukrainian President Zelensky has warned that he may undermine the U.S. peace initiative unless te...</title>
+      <link>https://t.me/news_cryptod/3881</link>
+      <description>🇺🇦 Ukrainian President Zelensky has warned that he may undermine the U.S. peace initiative unless territorial concessions are offered, as reported by The Daily Telegraph.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3881</guid>
+      <pubDate>Sat, 13 Dec 2025 07:22:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
