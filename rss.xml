@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 14 Dec 2025 23:01:09 +0000</lastBuildDate>
-    <item>
-      <title>🌟 BitMine, an American company spearheaded by Tom Lee of Fundstrat, increased its holdings by purcha...</title>
-      <link>https://t.me/news_cryptod/3857</link>
-      <description>🌟 BitMine, an American company spearheaded by Tom Lee of Fundstrat, increased its holdings by purchasing an additional 138,452 ETH last week. With this acquisition, the firm now controls 3.2% of the total ETH supply. Tom Lee is optimistic, asserting that ETH has entered a "super cycle" projected to last between 10 to 15 years.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3857</guid>
-      <pubDate>Fri, 12 Dec 2025 10:57:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Dec 2025 23:34:28 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 JetLend Group reported its operational and financial results for November 2025, with revenues tot...</title>
       <link>https://t.me/news_cryptod/3858</link>
@@ -362,6 +355,13 @@ Erdogan claims that peace is within reach.</description>
       <description>🌟 Jack Mallers, the CEO of Twenty One, confidently forecasts that Bitcoin's (BTC) market capitalization will soar to $200 trillion.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3909</guid>
       <pubDate>Sun, 14 Dec 2025 22:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌐 The inaugural crypto options decentralized exchange (Dex) has officially launched on the TON block...</title>
+      <link>https://t.me/news_cryptod/3910</link>
+      <description>🌐 The inaugural crypto options decentralized exchange (Dex) has officially launched on the TON blockchain. This project is fully executed on-chain using smart contracts. The Dex has successfully secured initial investments and provides traders with access to popular crypto pairs, as well as Vault pools for investors.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3910</guid>
+      <pubDate>Sun, 14 Dec 2025 23:04:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
