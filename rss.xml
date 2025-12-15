@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 15 Dec 2025 07:41:26 +0000</lastBuildDate>
-    <item>
-      <title>🌍 Ukrainian President Volodymyr Zelensky stated that new peace plan proposals will be submitted to t...</title>
-      <link>https://t.me/news_cryptod/3863</link>
-      <description>🌍 Ukrainian President Volodymyr Zelensky stated that new peace plan proposals will be submitted to the United States on December 9, according to RTRS.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3863</guid>
-      <pubDate>Fri, 12 Dec 2025 14:51:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 08:01:45 +0000</lastBuildDate>
     <item>
       <title>✴️ According to Cryptorank, institutional and corporate entities, as well as ETFs, sovereign funds, ...</title>
       <link>https://t.me/news_cryptod/3864</link>
@@ -364,6 +357,13 @@ Erdogan claims that peace is within reach.</description>
 max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3918</guid>
       <pubDate>Mon, 15 Dec 2025 06:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>📈 The Abu Dhabi National Oil Company (ADNOC) is set to start accepting AECoin, a Dirham stablecoin, ...</title>
+      <link>https://t.me/news_cryptod/3919</link>
+      <description>📈 The Abu Dhabi National Oil Company (ADNOC) is set to start accepting AECoin, a Dirham stablecoin, at its gas stations across the UAE, Saudi Arabia, and Egypt. max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3919</guid>
+      <pubDate>Mon, 15 Dec 2025 07:49:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
