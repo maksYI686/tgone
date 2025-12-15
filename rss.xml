@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 15 Dec 2025 15:13:59 +0000</lastBuildDate>
-    <item>
-      <title>🇯🇵🇷🇺 According to Politico, Japan has turned down the European Union's suggestion to seize $30 billi...</title>
-      <link>https://t.me/news_cryptod/3871</link>
-      <description>🇯🇵🇷🇺 According to Politico, Japan has turned down the European Union's suggestion to seize $30 billion in frozen Russian assets held in Japan.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3871</guid>
-      <pubDate>Fri, 12 Dec 2025 21:39:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 15:44:26 +0000</lastBuildDate>
     <item>
       <title>⚠️ Reports suggest that Cambodia has commenced artillery fire aimed at Thai territory utilizing mult...</title>
       <link>https://t.me/news_cryptod/3872</link>
@@ -364,6 +357,13 @@ max</description>
       <description>⚠️🇯🇵 Analysts indicate that the Bank of Japan may raise interest rates for the first time in 11 months at the upcoming meeting on December 19. max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3926</guid>
       <pubDate>Mon, 15 Dec 2025 14:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 The total Bitcoin holdings of public and private companies have skyrocketed from 197,000 BTC to 1,...</title>
+      <link>https://t.me/news_cryptod/3927</link>
+      <description>📰 The total Bitcoin holdings of public and private companies have skyrocketed from 197,000 BTC to 1,080,000 BTC, reflecting a remarkable 450% increase since January 2023, based on data from Glassnode. Experts highlight that corporations are playing an increasingly crucial role in driving Bitcoin demand. max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3927</guid>
+      <pubDate>Mon, 15 Dec 2025 15:36:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
