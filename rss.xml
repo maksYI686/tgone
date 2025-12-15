@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 15 Dec 2025 17:15:25 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇺🇸 Toll Brothers' stock drops 3.5% after earnings announcement.</title>
-      <link>https://t.me/news_cryptod/3873</link>
-      <description>⚠️🇺🇸 Toll Brothers' stock drops 3.5% after earnings announcement.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3873</guid>
-      <pubDate>Fri, 12 Dec 2025 23:36:15 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 17:44:43 +0000</lastBuildDate>
     <item>
       <title>⚠️ According to Russian Navy Commander Admiral Alexander Moiseev, Western nations are boosting their...</title>
       <link>https://t.me/news_cryptod/3876</link>
@@ -364,6 +357,13 @@ max</description>
       <description>📰 Whitkoff announced that there has been "significant progress" in discussions with the Ukrainian delegation in Berlin. Negotiations are set to resume tomorrow.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3928</guid>
       <pubDate>Mon, 15 Dec 2025 16:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🗓Today, EU representatives are expected to approve a 20th sanctions package against Russia. Ukrainia...</title>
+      <link>https://t.me/news_cryptod/3929</link>
+      <description>🗓Today, EU representatives are expected to approve a 20th sanctions package against Russia. Ukrainian President Zelensky is scheduled to meet with EU and NATO leaders in Berlin, while Witkoff and Kushner continue discussions with the Ukrainian team. Significant economic updates include China's industrial production figures, the Eurozone's industrial output, Canada's consumer inflation rates, and the US NY Empire State Manufacturing Index. Additionally, the CBOE will introduce perpetual futures trading for BTC and ETH, and Trump may consider relaxing regulations for the cannabis industry. Norilsk Nickel is set to publish a report on commodity markets.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3929</guid>
+      <pubDate>Mon, 15 Dec 2025 17:32:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
