@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 15 Dec 2025 02:51:11 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 JetLend Group reported its operational and financial results for November 2025, with revenues tot...</title>
-      <link>https://t.me/news_cryptod/3858</link>
-      <description>🇷🇺 JetLend Group reported its operational and financial results for November 2025, with revenues totaling 37.2 million rubles, reflecting a 13.9% decline compared to the same month last year. The lending volume for the month was 469 million rubles, down 22% year-on-year. Furthermore, the selection volume amounted to 5,547 million rubles, indicating a 22.3% decrease from the previous year.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3858</guid>
-      <pubDate>Fri, 12 Dec 2025 11:56:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚠️ The Elysée Palace has revealed that a trilateral meeting involving Zelensky facilitated ongoing c...</title>
-      <link>https://t.me/news_cryptod/3859</link>
-      <description>⚠️ The Elysée Palace has revealed that a trilateral meeting involving Zelensky facilitated ongoing collaboration on a U.S. initiative. Efforts will be ramped up to deliver robust security guarantees to Ukraine and to strategize for its recovery. In the meantime, Merz has voiced skepticism about Trump's proposal.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3859</guid>
-      <pubDate>Fri, 12 Dec 2025 12:54:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 03:58:08 +0000</lastBuildDate>
     <item>
       <title>🇺🇦 U.S. Ambassador to NATO Matthew Whitaker remarked that Trump knows how to apply pressure on both ...</title>
       <link>https://t.me/news_cryptod/3860</link>
@@ -362,6 +348,20 @@ Erdogan claims that peace is within reach.</description>
       <description>🌐 The inaugural crypto options decentralized exchange (Dex) has officially launched on the TON blockchain. This project is fully executed on-chain using smart contracts. The Dex has successfully secured initial investments and provides traders with access to popular crypto pairs, as well as Vault pools for investors.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3910</guid>
       <pubDate>Sun, 14 Dec 2025 23:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>✴️ BitMine, under the leadership of Tom Lee from Fundstrat, has acquired an extra 14,959 ETH, bringi...</title>
+      <link>https://t.me/news_cryptod/3914</link>
+      <description>✴️ BitMine, under the leadership of Tom Lee from Fundstrat, has acquired an extra 14,959 ETH, bringing its total holdings to over 3% of the entire ETH supply. Tom Lee is optimistic that ETH has entered a "super-cycle" anticipated to last between 10 to 15 years.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3914</guid>
+      <pubDate>Mon, 15 Dec 2025 02:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇸🇾 Following the fatalities of U.S. military personnel in Syria, Trump pledged to take "very serious...</title>
+      <link>https://t.me/news_cryptod/3915</link>
+      <description>🇸🇾 Following the fatalities of U.S. military personnel in Syria, Trump pledged to take "very serious" measures against ISIS. In a post on Truth Social, he characterized the attack as an affront not only to the U.S. but also to Syria. Trump highlighted that the Palmyra region continues to be extremely perilous and is not entirely under the control of the Syrian government.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3915</guid>
+      <pubDate>Mon, 15 Dec 2025 03:56:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
