@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 15 Dec 2025 22:01:35 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦 Ukrainian President Zelensky has warned that he may undermine the U.S. peace initiative unless te...</title>
-      <link>https://t.me/news_cryptod/3881</link>
-      <description>🇺🇦 Ukrainian President Zelensky has warned that he may undermine the U.S. peace initiative unless territorial concessions are offered, as reported by The Daily Telegraph.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3881</guid>
-      <pubDate>Sat, 13 Dec 2025 07:22:54 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Dec 2025 22:41:18 +0000</lastBuildDate>
     <item>
       <title>⚠️🇻🇪 Former President Donald Trump has declared a looming confrontation with drug trafficking from L...</title>
       <link>https://t.me/news_cryptod/3882</link>
@@ -364,6 +357,13 @@ max</description>
       <description>🇺🇸 Former President Donald Trump asserted that he fully eradicated inflation in the United States while in office.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3934</guid>
       <pubDate>Mon, 15 Dec 2025 21:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 BofA reports that the latter half of December has historically been the second strongest time of ...</title>
+      <link>https://t.me/news_cryptod/3935</link>
+      <description>🇺🇸 BofA reports that the latter half of December has historically been the second strongest time of the year for U.S. stocks. For more information, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3935</guid>
+      <pubDate>Mon, 15 Dec 2025 22:24:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
