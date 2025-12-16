@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 16 Dec 2025 19:35:23 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦 Witkoff and Kushner have landed in Berlin to meet with Zelensky and European leaders.</title>
-      <link>https://t.me/news_cryptod/3902</link>
-      <description>🇺🇦 Witkoff and Kushner have landed in Berlin to meet with Zelensky and European leaders.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3902</guid>
-      <pubDate>Sun, 14 Dec 2025 15:17:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Dec 2025 20:01:24 +0000</lastBuildDate>
     <item>
       <title>🎄 Elvira Nabiullina is said to be in discussions with the Central Bank of Russia regarding a potenti...</title>
       <link>https://t.me/news_cryptod/3903</link>
@@ -360,6 +353,13 @@ max</description>
       <description>✴️ The SEC has released a guide aimed at retail investors on crypto custody. This resource covers different types of crypto wallets, their advantages and disadvantages, as well as best practices for digital hygiene, among other subjects. For additional information, click here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3957</guid>
       <pubDate>Tue, 16 Dec 2025 18:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇷🇺 At the beginning of December, prices for Russian thermal coal in Asian markets were under press...</title>
+      <link>https://t.me/news_cryptod/3958</link>
+      <description>⚠️🇷🇺 At the beginning of December, prices for Russian thermal coal in Asian markets were under pressure due to weak demand, even with winter underway. Chinese companies have built up their inventories and are asking for shipment postponements. A market recovery in the first quarter seems unlikely as industrial activity slows, which could result in additional price declines. — Ъ max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3958</guid>
+      <pubDate>Tue, 16 Dec 2025 19:47:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
