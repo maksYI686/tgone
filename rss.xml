@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 16 Dec 2025 03:51:14 +0000</lastBuildDate>
-    <item>
-      <title>🌟 The crypto-ETF market is relatively calm, with slight inflows observed in spot ETH ETFs, while BTC...</title>
-      <link>https://t.me/news_cryptod/3886</link>
-      <description>🌟 The crypto-ETF market is relatively calm, with slight inflows observed in spot ETH ETFs, while BTC ETFs show minimal fluctuations. Since the introduction of the first spot SOL ETF in November, there have only been three instances of daily outflows. Notably, SOL ETF inflows have continued even amidst significant outflows from BTC ETFs, as reported by Farside data. max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3886</guid>
-      <pubDate>Sat, 13 Dec 2025 12:14:34 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Dec 2025 04:24:28 +0000</lastBuildDate>
     <item>
       <title>🚀 XRP is currently facing challenges around the $2 threshold, but bullish sentiment remains strong, ...</title>
       <link>https://t.me/news_cryptod/3887</link>
@@ -364,6 +357,13 @@ max</description>
       <description>🇪🇺 France has asked the European Union to delay the signing of a trade agreement with the Southern Common Market ("Mercosur"). The French government feels that the current circumstances are not appropriate for the EU to proceed with a vote on the agreement with Mercosur.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3941</guid>
       <pubDate>Tue, 16 Dec 2025 03:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌟 In the past 90 days, just 10% of the top 100 tokens have experienced positive growth, with the res...</title>
+      <link>https://t.me/news_cryptod/3942</link>
+      <description>🌟 In the past 90 days, just 10% of the top 100 tokens have experienced positive growth, with the rest reporting losses. max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3942</guid>
+      <pubDate>Tue, 16 Dec 2025 04:14:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
