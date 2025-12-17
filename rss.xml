@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 17 Dec 2025 07:13:18 +0000</lastBuildDate>
-    <item>
-      <title>🇸🇾 Following the fatalities of U.S. military personnel in Syria, Trump pledged to take "very serious...</title>
-      <link>https://t.me/news_cryptod/3915</link>
-      <description>🇸🇾 Following the fatalities of U.S. military personnel in Syria, Trump pledged to take "very serious" measures against ISIS. In a post on Truth Social, he characterized the attack as an affront not only to the U.S. but also to Syria. Trump highlighted that the Palmyra region continues to be extremely perilous and is not entirely under the control of the Syrian government.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3915</guid>
-      <pubDate>Mon, 15 Dec 2025 03:56:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 07:40:04 +0000</lastBuildDate>
     <item>
       <title>🇺🇸🇻🇪🇨🇺 According to the NYT, U.S. Secretary of State Rubio sees Venezuela as crucial for bringing do...</title>
       <link>https://t.me/news_cryptod/3916</link>
@@ -360,6 +353,13 @@ max</description>
       <description>🇮🇳 In its base scenario, JPMorgan predicts that the Indian NIFTY 50 index will reach 30,000 by the end of 2026, as reported by max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3969</guid>
       <pubDate>Wed, 17 Dec 2025 06:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇬🇧 On Thursday, five European central banks will reveal their rate decisions. However, investors exp...</title>
+      <link>https://t.me/news_cryptod/3970</link>
+      <description>🇬🇧 On Thursday, five European central banks will reveal their rate decisions. However, investors expect that only the Bank of England will reduce rates in line with the Federal Reserve's actions, as reported by the WSJ. For further details, visit max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3970</guid>
+      <pubDate>Wed, 17 Dec 2025 07:27:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
