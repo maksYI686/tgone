@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 17 Dec 2025 06:01:28 +0000</lastBuildDate>
-    <item>
-      <title>✴️ BitMine, under the leadership of Tom Lee from Fundstrat, has acquired an extra 14,959 ETH, bringi...</title>
-      <link>https://t.me/news_cryptod/3914</link>
-      <description>✴️ BitMine, under the leadership of Tom Lee from Fundstrat, has acquired an extra 14,959 ETH, bringing its total holdings to over 3% of the entire ETH supply. Tom Lee is optimistic that ETH has entered a "super-cycle" anticipated to last between 10 to 15 years.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3914</guid>
-      <pubDate>Mon, 15 Dec 2025 02:57:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 06:52:31 +0000</lastBuildDate>
     <item>
       <title>🇸🇾 Following the fatalities of U.S. military personnel in Syria, Trump pledged to take "very serious...</title>
       <link>https://t.me/news_cryptod/3915</link>
@@ -360,6 +353,13 @@ max</description>
       <description>⚠️ According to F2Pool data, the Bitcoin hash rate has experienced a significant decline of 17% in the last week, indicating a historically bearish trend. For further information on this development, click here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3968</guid>
       <pubDate>Wed, 17 Dec 2025 05:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇮🇳 In its base scenario, JPMorgan predicts that the Indian NIFTY 50 index will reach 30,000 by the e...</title>
+      <link>https://t.me/news_cryptod/3969</link>
+      <description>🇮🇳 In its base scenario, JPMorgan predicts that the Indian NIFTY 50 index will reach 30,000 by the end of 2026, as reported by max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3969</guid>
+      <pubDate>Wed, 17 Dec 2025 06:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
