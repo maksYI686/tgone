@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 17 Dec 2025 15:43:27 +0000</lastBuildDate>
-    <item>
-      <title>🚨 A meeting between Ukrainian and U.S. teams focused on peace proposals in Berlin extended for more ...</title>
-      <link>https://t.me/news_cryptod/3924</link>
-      <description>🚨 A meeting between Ukrainian and U.S. teams focused on peace proposals in Berlin extended for more than five hours and will continue tomorrow, as reported by a presidential advisor. For additional details, visit max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3924</guid>
-      <pubDate>Mon, 15 Dec 2025 12:41:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 16:12:47 +0000</lastBuildDate>
     <item>
       <title>⚠️🇺🇸 Wall Street is anticipating a looming "AI bubble" and is positioning itself for its potential c...</title>
       <link>https://t.me/news_cryptod/3925</link>
@@ -358,6 +351,13 @@
       <description>🇷🇺 Sberbank analysts anticipate that the Bank of Russia's key interest rate may drop to 12% by the close of 2026. Find out more</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3978</guid>
       <pubDate>Wed, 17 Dec 2025 15:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 According to Morgan, slight softening in U.S. labor market data may result in a boost for stocks,...</title>
+      <link>https://t.me/news_cryptod/3979</link>
+      <description>🇺🇸 According to Morgan, slight softening in U.S. labor market data may result in a boost for stocks, as expectations for more significant Fed rate cuts grow. November Nonfarm Payrolls will be published on Tuesday due to schedule changes caused by the shutdown. For further details, visit max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3979</guid>
+      <pubDate>Wed, 17 Dec 2025 16:12:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
