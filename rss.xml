@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 17 Dec 2025 20:01:18 +0000</lastBuildDate>
-    <item>
-      <title>📰 Whitkoff announced that there has been "significant progress" in discussions with the Ukrainian de...</title>
-      <link>https://t.me/news_cryptod/3928</link>
-      <description>📰 Whitkoff announced that there has been "significant progress" in discussions with the Ukrainian delegation in Berlin. Negotiations are set to resume tomorrow.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3928</guid>
-      <pubDate>Mon, 15 Dec 2025 16:34:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 20:42:39 +0000</lastBuildDate>
     <item>
       <title>🗓Today, EU representatives are expected to approve a 20th sanctions package against Russia. Ukrainia...</title>
       <link>https://t.me/news_cryptod/3929</link>
@@ -358,6 +351,13 @@
       <description>🇮🇪 Ireland is contemplating membership in NATO, as reported by Euractiv. For further information, click here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3982</guid>
       <pubDate>Wed, 17 Dec 2025 19:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 CIAN has announced the commencement of mandatory ADR conversion.</title>
+      <link>https://t.me/news_cryptod/3983</link>
+      <description>🇷🇺 CIAN has announced the commencement of mandatory ADR conversion.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3983</guid>
+      <pubDate>Wed, 17 Dec 2025 20:06:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
