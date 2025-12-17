@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 17 Dec 2025 18:51:41 +0000</lastBuildDate>
-    <item>
-      <title>📰 The total Bitcoin holdings of public and private companies have skyrocketed from 197,000 BTC to 1,...</title>
-      <link>https://t.me/news_cryptod/3927</link>
-      <description>📰 The total Bitcoin holdings of public and private companies have skyrocketed from 197,000 BTC to 1,080,000 BTC, reflecting a remarkable 450% increase since January 2023, based on data from Glassnode. Experts highlight that corporations are playing an increasingly crucial role in driving Bitcoin demand. max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3927</guid>
-      <pubDate>Mon, 15 Dec 2025 15:36:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 19:11:02 +0000</lastBuildDate>
     <item>
       <title>📰 Whitkoff announced that there has been "significant progress" in discussions with the Ukrainian de...</title>
       <link>https://t.me/news_cryptod/3928</link>
@@ -358,6 +351,13 @@
       <description>⚠️ The EU does not endorse financing Ukraine via eurobonds, leaving the "reparations loan" as the sole alternative. Securing approval from Belgium is crucial for utilizing Russian assets for this loan, despite the support from most EU member states. - Kallas max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3981</guid>
       <pubDate>Wed, 17 Dec 2025 18:09:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇮🇪 Ireland is contemplating membership in NATO, as reported by Euractiv. For further information, cl...</title>
+      <link>https://t.me/news_cryptod/3982</link>
+      <description>🇮🇪 Ireland is contemplating membership in NATO, as reported by Euractiv. For further information, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3982</guid>
+      <pubDate>Wed, 17 Dec 2025 19:07:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
