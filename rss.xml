@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 17 Dec 2025 21:01:39 +0000</lastBuildDate>
-    <item>
-      <title>🗓Today, EU representatives are expected to approve a 20th sanctions package against Russia. Ukrainia...</title>
-      <link>https://t.me/news_cryptod/3929</link>
-      <description>🗓Today, EU representatives are expected to approve a 20th sanctions package against Russia. Ukrainian President Zelensky is scheduled to meet with EU and NATO leaders in Berlin, while Witkoff and Kushner continue discussions with the Ukrainian team. Significant economic updates include China's industrial production figures, the Eurozone's industrial output, Canada's consumer inflation rates, and the US NY Empire State Manufacturing Index. Additionally, the CBOE will introduce perpetual futures trading for BTC and ETH, and Trump may consider relaxing regulations for the cannabis industry. Norilsk Nickel is set to publish a report on commodity markets.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3929</guid>
-      <pubDate>Mon, 15 Dec 2025 17:32:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 21:38:43 +0000</lastBuildDate>
     <item>
       <title>🌎 The foreign exchange market indicates that USDCNY is trading at 7.05, while USDTRUB stands at 80.</title>
       <link>https://t.me/news_cryptod/3930</link>
@@ -358,6 +351,13 @@
       <description>🇷🇺 CIAN has announced the commencement of mandatory ADR conversion.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3983</guid>
       <pubDate>Wed, 17 Dec 2025 20:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 The Kremlin has characterized the establishment of deadlines for resolving the Ukraine situation ...</title>
+      <link>https://t.me/news_cryptod/3984</link>
+      <description>🇺🇦 The Kremlin has characterized the establishment of deadlines for resolving the Ukraine situation as an ungrateful task. According to the Kremlin, the matter of a legally binding agreement preventing Kyiv from joining NATO is a key element of the negotiations. Additionally, the Kremlin stated that Russia is not engaging in discussions with the U.S. regarding the negotiation process in Berlin related to the Ukrainian settlement. max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3984</guid>
+      <pubDate>Wed, 17 Dec 2025 21:04:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
