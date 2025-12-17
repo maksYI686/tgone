@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 17 Dec 2025 11:01:26 +0000</lastBuildDate>
-    <item>
-      <title>📈 The Abu Dhabi National Oil Company (ADNOC) is set to start accepting AECoin, a Dirham stablecoin, ...</title>
-      <link>https://t.me/news_cryptod/3919</link>
-      <description>📈 The Abu Dhabi National Oil Company (ADNOC) is set to start accepting AECoin, a Dirham stablecoin, at its gas stations across the UAE, Saudi Arabia, and Egypt. max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3919</guid>
-      <pubDate>Mon, 15 Dec 2025 07:49:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Dec 2025 11:37:50 +0000</lastBuildDate>
     <item>
       <title>⚠️🇷🇺 Projections indicate that Russia's oil and gas export revenue is set to drop to its lowest leve...</title>
       <link>https://t.me/news_cryptod/3920</link>
@@ -358,6 +351,13 @@
       <description>✴️🇶🇦 In a pioneering initiative, Doha Bank has introduced its inaugural digital bonds via Euroclear's DLT platform. To learn more, click here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3973</guid>
       <pubDate>Wed, 17 Dec 2025 10:22:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸🇰🇿 Beeline Kazakhstan has successfully conducted tests, marking the first voice call through the a...</title>
+      <link>https://t.me/news_cryptod/3974</link>
+      <description>🇺🇸🇰🇿 Beeline Kazakhstan has successfully conducted tests, marking the first voice call through the app and sending text messages via Starlink in Central Asia. max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3974</guid>
+      <pubDate>Wed, 17 Dec 2025 11:21:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
