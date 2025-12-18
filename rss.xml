@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 18 Dec 2025 06:01:24 +0000</lastBuildDate>
-    <item>
-      <title>🔥 The British Treasury has revealed that extensive regulation of cryptocurrencies in the UK will com...</title>
-      <link>https://t.me/news_cryptod/3936</link>
-      <description>🔥 The British Treasury has revealed that extensive regulation of cryptocurrencies in the UK will commence in 2027.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3936</guid>
-      <pubDate>Mon, 15 Dec 2025 23:22:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Dec 2025 06:52:10 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 As reported by Izvestia, Wildberries is considering launching a taxi service in 2026. For more in...</title>
       <link>https://t.me/news_cryptod/3939</link>
@@ -358,6 +351,13 @@
       <description>🚫🛢️🇷🇺 According to Kommersant, reports suggest that Russia may prolong its gasoline export ban until the end of February 2026.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3993</guid>
       <pubDate>Thu, 18 Dec 2025 05:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 According to TASS, Russia has increased its pipeline gas exports to Turkey by 14% over the past te...</title>
+      <link>https://t.me/news_cryptod/3994</link>
+      <description>🛢 According to TASS, Russia has increased its pipeline gas exports to Turkey by 14% over the past ten months. source</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3994</guid>
+      <pubDate>Thu, 18 Dec 2025 06:47:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
