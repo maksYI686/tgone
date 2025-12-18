@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 18 Dec 2025 07:39:04 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 As reported by Izvestia, Wildberries is considering launching a taxi service in 2026. For more in...</title>
-      <link>https://t.me/news_cryptod/3939</link>
-      <description>🇷🇺 As reported by Izvestia, Wildberries is considering launching a taxi service in 2026. For more information, you can visit this link.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3939</guid>
-      <pubDate>Tue, 16 Dec 2025 02:17:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Dec 2025 08:01:16 +0000</lastBuildDate>
     <item>
       <title>🇪🇺 France has asked the European Union to delay the signing of a trade agreement with the Southern C...</title>
       <link>https://t.me/news_cryptod/3940</link>
@@ -358,6 +351,13 @@
       <description>🛢 According to TASS, Russia has increased its pipeline gas exports to Turkey by 14% over the past ten months. source</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/3994</guid>
       <pubDate>Thu, 18 Dec 2025 06:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥 EU foreign ministers have greenlit new sanctions against Russia, focusing on nine individuals link...</title>
+      <link>https://t.me/news_cryptod/3995</link>
+      <description>🔥 EU foreign ministers have greenlit new sanctions against Russia, focusing on nine individuals linked to the Russian shadow fleet, as stated in an announcement. For more details, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/3995</guid>
+      <pubDate>Thu, 18 Dec 2025 07:46:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
