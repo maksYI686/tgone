@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 19 Dec 2025 10:43:58 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ According to F2Pool data, the Bitcoin hash rate has experienced a significant decline of 17% in t...</title>
-      <link>https://t.me/news_cryptod/3968</link>
-      <description>⚠️ According to F2Pool data, the Bitcoin hash rate has experienced a significant decline of 17% in the last week, indicating a historically bearish trend. For further information on this development, click here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3968</guid>
-      <pubDate>Wed, 17 Dec 2025 05:31:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 11:01:11 +0000</lastBuildDate>
     <item>
       <title>🇮🇳 In its base scenario, JPMorgan predicts that the Indian NIFTY 50 index will reach 30,000 by the e...</title>
       <link>https://t.me/news_cryptod/3969</link>
@@ -360,6 +353,13 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>🛢️ A tanker transporting Russian naphtha to Venezuela has reversed course after the U.S. confiscated a Venezuelan oil shipment. This development comes in the wake of an October report from BBG, which highlighted that the U.S. has lost its position as the leading naphtha supplier, with Russia now taking the lead in the petrochemical market. For more information, click here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4023</guid>
       <pubDate>Fri, 19 Dec 2025 10:01:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 According to Axios journalist Barak Ravid, an American official has reported that the meeting betw...</title>
+      <link>https://t.me/news_cryptod/4024</link>
+      <description>📰 According to Axios journalist Barak Ravid, an American official has reported that the meeting between Steve Witkoff and Zelensky was productive—though there is a caveat.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4024</guid>
+      <pubDate>Fri, 19 Dec 2025 10:59:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
