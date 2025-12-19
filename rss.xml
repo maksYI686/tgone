@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 19 Dec 2025 15:41:36 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇸🇰🇿 Beeline Kazakhstan has successfully conducted tests, marking the first voice call through the a...</title>
-      <link>https://t.me/news_cryptod/3974</link>
-      <description>🇺🇸🇰🇿 Beeline Kazakhstan has successfully conducted tests, marking the first voice call through the app and sending text messages via Starlink in Central Asia. max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3974</guid>
-      <pubDate>Wed, 17 Dec 2025 11:21:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 16:01:17 +0000</lastBuildDate>
     <item>
       <title>📉 The European Commission plans to recommend a complete ban on Russian oil imports to the European U...</title>
       <link>https://t.me/news_cryptod/3975</link>
@@ -360,6 +353,13 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>⚠️🇺🇦 In a joint press conference with Scholz, following discussions between Washington and Kyiv, Zelensky characterized territorial matters as a sensitive topic. Although the tone was optimistic, it appears that Ukraine and the U.S. are still quite distant from reaching a comprehensive agreement. A journalist from The Guardian noted that the primary point of contention revolves around territorial issues, as indicated by conversations with U.S. officials.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4029</guid>
       <pubDate>Fri, 19 Dec 2025 14:52:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 The "analysts' consensus index" indicates that BTC is currently facing the highest level of bearis...</title>
+      <link>https://t.me/news_cryptod/4030</link>
+      <description>📰 The "analysts' consensus index" indicates that BTC is currently facing the highest level of bearish sentiment in this cycle.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4030</guid>
+      <pubDate>Fri, 19 Dec 2025 15:51:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
