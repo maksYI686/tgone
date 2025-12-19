@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 19 Dec 2025 16:47:45 +0000</lastBuildDate>
-    <item>
-      <title>📉 The European Commission plans to recommend a complete ban on Russian oil imports to the European U...</title>
-      <link>https://t.me/news_cryptod/3975</link>
-      <description>📉 The European Commission plans to recommend a complete ban on Russian oil imports to the European Union beginning in 2026, as stated by the EU Energy Commissioner, according to TASS. To learn more, visit the source.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3975</guid>
-      <pubDate>Wed, 17 Dec 2025 12:19:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 17:09:38 +0000</lastBuildDate>
     <item>
       <title>⚠️🇩🇪 For the first time in 88 years, Volkswagen is preparing to shut down its factory in Germany. Th...</title>
       <link>https://t.me/news_cryptod/3976</link>
@@ -360,6 +353,13 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>📰 The "analysts' consensus index" indicates that BTC is currently facing the highest level of bearish sentiment in this cycle.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4030</guid>
       <pubDate>Fri, 19 Dec 2025 15:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>❗️ Former President Trump claimed that both Russia and Ukraine are eager to conclude the war at this...</title>
+      <link>https://t.me/news_cryptod/4031</link>
+      <description>❗️ Former President Trump claimed that both Russia and Ukraine are eager to conclude the war at this moment, but they could "suddenly" reconsider their positions.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4031</guid>
+      <pubDate>Fri, 19 Dec 2025 16:49:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
