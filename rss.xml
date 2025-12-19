@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 19 Dec 2025 12:01:17 +0000</lastBuildDate>
-    <item>
-      <title>🇬🇧 On Thursday, five European central banks will reveal their rate decisions. However, investors exp...</title>
-      <link>https://t.me/news_cryptod/3970</link>
-      <description>🇬🇧 On Thursday, five European central banks will reveal their rate decisions. However, investors expect that only the Bank of England will reduce rates in line with the Federal Reserve's actions, as reported by the WSJ. For further details, visit max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3970</guid>
-      <pubDate>Wed, 17 Dec 2025 07:27:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇷🇺 Analysts anticipate that the central bank will lower the interest rate by 0.5%, resulting in a ra...</title>
-      <link>https://t.me/news_cryptod/3971</link>
-      <description>🇷🇺 Analysts anticipate that the central bank will lower the interest rate by 0.5%, resulting in a rate of 16% during the meeting on December 19, as reported in a survey conducted by RBK. source</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3971</guid>
-      <pubDate>Wed, 17 Dec 2025 08:26:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 13:06:18 +0000</lastBuildDate>
     <item>
       <title>⚠️✴️ Jesse Pollak, co-founder of Base, has expressed support for a meme token created by rapper Soul...</title>
       <link>https://t.me/news_cryptod/3972</link>
@@ -360,6 +346,20 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>🚨 Russian President Vladimir Putin has officially ratified a law that solidifies an agreement with India regarding the presence of military personnel and equipment on each other's territories. This development represents a noteworthy advancement in defense collaboration between the two countries. For further details, click here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4025</guid>
       <pubDate>Fri, 19 Dec 2025 11:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚨 In approximately 1 to 1.5 hours, a White House press conference will be held regarding the peace t...</title>
+      <link>https://t.me/news_cryptod/4026</link>
+      <description>🚨 In approximately 1 to 1.5 hours, a White House press conference will be held regarding the peace talks between Russia and Ukraine. max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4026</guid>
+      <pubDate>Fri, 19 Dec 2025 12:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇺🇦 During discussions with Ukraine, the US indicated that Kyiv should pull back troops from the Do...</title>
+      <link>https://t.me/news_cryptod/4027</link>
+      <description>⚠️🇺🇦 During discussions with Ukraine, the US indicated that Kyiv should pull back troops from the Donetsk region to facilitate a peace agreement, as reported by RTRS. A US official emphasized that the ultimate decision regarding the territory rests with Ukraine, and Trump has stated that he does not intend to exert pressure on Ukraine, according to Sky/Guardian. max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4027</guid>
+      <pubDate>Fri, 19 Dec 2025 12:56:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
