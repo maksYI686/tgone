@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 19 Dec 2025 11:35:34 +0000</lastBuildDate>
-    <item>
-      <title>🇮🇳 In its base scenario, JPMorgan predicts that the Indian NIFTY 50 index will reach 30,000 by the e...</title>
-      <link>https://t.me/news_cryptod/3969</link>
-      <description>🇮🇳 In its base scenario, JPMorgan predicts that the Indian NIFTY 50 index will reach 30,000 by the end of 2026, as reported by max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3969</guid>
-      <pubDate>Wed, 17 Dec 2025 06:29:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Dec 2025 12:01:17 +0000</lastBuildDate>
     <item>
       <title>🇬🇧 On Thursday, five European central banks will reveal their rate decisions. However, investors exp...</title>
       <link>https://t.me/news_cryptod/3970</link>
@@ -360,6 +353,13 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>📰 According to Axios journalist Barak Ravid, an American official has reported that the meeting between Steve Witkoff and Zelensky was productive—though there is a caveat.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4024</guid>
       <pubDate>Fri, 19 Dec 2025 10:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚨 Russian President Vladimir Putin has officially ratified a law that solidifies an agreement with I...</title>
+      <link>https://t.me/news_cryptod/4025</link>
+      <description>🚨 Russian President Vladimir Putin has officially ratified a law that solidifies an agreement with India regarding the presence of military personnel and equipment on each other's territories. This development represents a noteworthy advancement in defense collaboration between the two countries. For further details, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4025</guid>
+      <pubDate>Fri, 19 Dec 2025 11:57:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
