@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 07:01:25 +0000</lastBuildDate>
-    <item>
-      <title>🌫 Norilsk Nickel has published a new overview of the metal market. The global nickel market is proje...</title>
-      <link>https://t.me/news_cryptod/3992</link>
-      <description>🌫 Norilsk Nickel has published a new overview of the metal market. The global nickel market is projected to remain in surplus, exceeding 200,000 tons of nickel (Ni) in both 2025 and 2026. Meanwhile, the copper market is expected to shift back into a deficit by 2026. The future of palladium will largely hinge on the dynamics of investment activities in that year.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3992</guid>
-      <pubDate>Thu, 18 Dec 2025 04:51:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>🚫🛢️🇷🇺 According to Kommersant, reports suggest that Russia may prolong its gasoline export ban until...</title>
-      <link>https://t.me/news_cryptod/3993</link>
-      <description>🚫🛢️🇷🇺 According to Kommersant, reports suggest that Russia may prolong its gasoline export ban until the end of February 2026.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3993</guid>
-      <pubDate>Thu, 18 Dec 2025 05:49:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 07:33:28 +0000</lastBuildDate>
     <item>
       <title>🛢 According to TASS, Russia has increased its pipeline gas exports to Turkey by 14% over the past te...</title>
       <link>https://t.me/news_cryptod/3994</link>
@@ -360,6 +346,20 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>⚠️🇩🇪 According to the PMI data reported by RTRS, Germany's business activity growth continues to slow down in December.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4046</guid>
       <pubDate>Sat, 20 Dec 2025 06:26:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>✴️ The global blockchain network TON has chosen OpenPayd as its partner to manage fiat currency tran...</title>
+      <link>https://t.me/news_cryptod/4047</link>
+      <description>✴️ The global blockchain network TON has chosen OpenPayd as its partner to manage fiat currency transactions across the globe.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4047</guid>
+      <pubDate>Sat, 20 Dec 2025 07:24:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>📊 A December survey conducted by Bank of America among global managers reveals that cash levels in p...</title>
+      <link>https://t.me/news_cryptod/4048</link>
+      <description>📊 A December survey conducted by Bank of America among global managers reveals that cash levels in portfolios have hit a record low of 3.3%, coinciding with the highest allocation to risky assets. Investments in stocks and commodities are at their peak since February 2022. The Bull &amp; Bear indicator has risen to 7.9, approaching a sell signal. Long positions in the "magnificent seven" stocks continue to be the favored trade, while concerns about the "AI bubble" are viewed as the primary market risk.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4048</guid>
+      <pubDate>Sat, 20 Dec 2025 07:24:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
