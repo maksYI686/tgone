@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 12:01:13 +0000</lastBuildDate>
-    <item>
-      <title>💥 The Arbitration Court of the Kaliningrad Region has accepted a lawsuit from RUSAL against Rio Tint...</title>
-      <link>https://t.me/news_cryptod/3997</link>
-      <description>💥 The Arbitration Court of the Kaliningrad Region has accepted a lawsuit from RUSAL against Rio Tinto and its affiliates, demanding the recovery of 104.75 billion rubles. Find out more.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3997</guid>
-      <pubDate>Thu, 18 Dec 2025 09:42:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 13:00:58 +0000</lastBuildDate>
     <item>
       <title>⚠️ Hungary is against Europe's push to declare war on Russia by confiscating its frozen assets, as s...</title>
       <link>https://t.me/news_cryptod/3998</link>
@@ -360,6 +353,13 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>⚠️ According to The Block, the number of active BTC wallets has fallen to its lowest point this year, a trend that is typically seen as bearish.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4052</guid>
       <pubDate>Sat, 20 Dec 2025 11:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 According to The Information, Apple intends to increase its smartphone lineup from 5 to 7 models ...</title>
+      <link>https://t.me/news_cryptod/4053</link>
+      <description>🇺🇸 According to The Information, Apple intends to increase its smartphone lineup from 5 to 7 models by the fall of 2027.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4053</guid>
+      <pubDate>Sat, 20 Dec 2025 12:16:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
