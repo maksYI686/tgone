@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 21:00:41 +0000</lastBuildDate>
-    <item>
-      <title>🔍 According to Euractiv, seven EU nations are now against the confiscation of Russian assets. Belgiu...</title>
-      <link>https://t.me/news_cryptod/4007</link>
-      <description>🔍 According to Euractiv, seven EU nations are now against the confiscation of Russian assets. Belgium, Hungary, and Slovakia are joined by Italy, Bulgaria, Malta, and the Czech Republic in this stance. Any attempts to implement this decision could lead to a major divide within the EU. Politico notes that Ukraine's aspirations for "reparations credit" from the frozen Russian assets are fading, as the European Commission has no alternative strategies in place. max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4007</guid>
-      <pubDate>Thu, 18 Dec 2025 18:27:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 21:32:40 +0000</lastBuildDate>
     <item>
       <title>🎉 Visa has introduced an advisory service focused on stablecoins to remain at the forefront of indus...</title>
       <link>https://t.me/news_cryptod/4008</link>
@@ -362,6 +355,13 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
 Fitch Ratings has announced that Euroclear is now on Rating Watch Negative. This decision comes in light of the company's plans to transfer a loan to Ukraine utilizing Russian assets. For more information, visit Fitch Ratings.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4061</guid>
       <pubDate>Sat, 20 Dec 2025 20:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Amazon intends to invest more than $10 billion in OpenAI.</title>
+      <link>https://t.me/news_cryptod/4062</link>
+      <description>🇺🇸 Amazon intends to invest more than $10 billion in OpenAI.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4062</guid>
+      <pubDate>Sat, 20 Dec 2025 21:01:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
