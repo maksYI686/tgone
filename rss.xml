@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 05:01:17 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 ACRA has confirmed MTS Bank's credit rating at A(RU) and assigned a stable outlook.</title>
-      <link>https://t.me/news_cryptod/3986</link>
-      <description>🇷🇺 ACRA has confirmed MTS Bank's credit rating at A(RU) and assigned a stable outlook.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3986</guid>
-      <pubDate>Wed, 17 Dec 2025 23:01:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 05:39:53 +0000</lastBuildDate>
     <item>
       <title>🚫🛢🇪🇺🇷🇺 European Commissioner Jørgensen has confirmed that the ban on gas imports from Russia to the ...</title>
       <link>https://t.me/news_cryptod/3990</link>
@@ -360,6 +353,13 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>⚠️ The Indian rupee has reached an all-time low in value compared to the US dollar.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4043</guid>
       <pubDate>Sat, 20 Dec 2025 04:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 The German firm Uniper intends to divest its 20% interest in the onshore segment of the Nord Stre...</title>
+      <link>https://t.me/news_cryptod/4044</link>
+      <description>🇩🇪 The German firm Uniper intends to divest its 20% interest in the onshore segment of the Nord Stream pipeline in Germany, referred to as the OPAL pipeline.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4044</guid>
+      <pubDate>Sat, 20 Dec 2025 05:27:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
