@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 13:00:58 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Hungary is against Europe's push to declare war on Russia by confiscating its frozen assets, as s...</title>
-      <link>https://t.me/news_cryptod/3998</link>
-      <description>⚠️ Hungary is against Europe's push to declare war on Russia by confiscating its frozen assets, as stated by Orban. For more information, visit max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3998</guid>
-      <pubDate>Thu, 18 Dec 2025 10:41:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 13:41:04 +0000</lastBuildDate>
     <item>
       <title>⚠️ According to Ukrainian media, President Zelensky is allegedly pretending to be prepared for elect...</title>
       <link>https://t.me/news_cryptod/3999</link>
@@ -360,6 +353,13 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>🇺🇸 According to The Information, Apple intends to increase its smartphone lineup from 5 to 7 models by the fall of 2027.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4053</guid>
       <pubDate>Sat, 20 Dec 2025 12:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Morgan Stanley forecasts that Tesla will greatly increase its robotaxi fleet by 2026, as it reach...</title>
+      <link>https://t.me/news_cryptod/4054</link>
+      <description>🇺🇸 Morgan Stanley forecasts that Tesla will greatly increase its robotaxi fleet by 2026, as it reaches key technical and regulatory milestones. Numerous analysts anticipate that the robotaxi industry will generate significant profits for Tesla.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4054</guid>
+      <pubDate>Sat, 20 Dec 2025 13:14:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
