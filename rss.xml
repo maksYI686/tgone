@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 02:25:37 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 CIAN has announced the commencement of mandatory ADR conversion.</title>
-      <link>https://t.me/news_cryptod/3983</link>
-      <description>🇷🇺 CIAN has announced the commencement of mandatory ADR conversion.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3983</guid>
-      <pubDate>Wed, 17 Dec 2025 20:06:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦 The Kremlin has characterized the establishment of deadlines for resolving the Ukraine situation ...</title>
-      <link>https://t.me/news_cryptod/3984</link>
-      <description>🇺🇦 The Kremlin has characterized the establishment of deadlines for resolving the Ukraine situation as an ungrateful task. According to the Kremlin, the matter of a legally binding agreement preventing Kyiv from joining NATO is a key element of the negotiations. Additionally, the Kremlin stated that Russia is not engaging in discussions with the U.S. regarding the negotiation process in Berlin related to the Ukrainian settlement. max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3984</guid>
-      <pubDate>Wed, 17 Dec 2025 21:04:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 03:34:24 +0000</lastBuildDate>
     <item>
       <title>🇺🇦 According to a report by Bild, Ukraine is contemplating the possibility of conducting elections w...</title>
       <link>https://t.me/news_cryptod/3985</link>
@@ -360,6 +346,20 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>📰 Australia's Manufacturing PMI increased to 52.2, up from 51.6. In contrast, the Services PMI dropped to 51 from 52.8, while the Composite PMI fell to 51.1, down from 52.6, based on the latest data.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4038</guid>
       <pubDate>Fri, 19 Dec 2025 23:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇪🇺🇷🇺 In a recent interview with Rete4, Italian Deputy Prime Minister Matteo Salvini voiced doubts ab...</title>
+      <link>https://t.me/news_cryptod/4041</link>
+      <description>🇪🇺🇷🇺 In a recent interview with Rete4, Italian Deputy Prime Minister Matteo Salvini voiced doubts about the ability of European leaders such as Kaja Kallas and Emmanuel Macron to subdue Moscow—something even Hitler and Napoleon could not accomplish. He argued that the 19 rounds of sanctions imposed on Russia have instead harmed European economies, resulting in increased energy costs for Italians.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4041</guid>
+      <pubDate>Sat, 20 Dec 2025 02:32:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 A recent long-term forecast indicates that the Russian government expects to continue running a b...</title>
+      <link>https://t.me/news_cryptod/4042</link>
+      <description>🇷🇺 A recent long-term forecast indicates that the Russian government expects to continue running a budget deficit until 2042. For further information, check out the Vedomosti article.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4042</guid>
+      <pubDate>Sat, 20 Dec 2025 03:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
