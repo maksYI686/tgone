@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 20 Dec 2025 14:01:13 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ According to Ukrainian media, President Zelensky is allegedly pretending to be prepared for elect...</title>
-      <link>https://t.me/news_cryptod/3999</link>
-      <description>⚠️ According to Ukrainian media, President Zelensky is allegedly pretending to be prepared for elections due to pressure from Trump. For more information, visit their website.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/3999</guid>
-      <pubDate>Thu, 18 Dec 2025 11:39:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 20 Dec 2025 14:38:03 +0000</lastBuildDate>
     <item>
       <title>⚠️ Ukrainian media claims that President Zelensky, facing pressure from Trump, is pretending to be p...</title>
       <link>https://t.me/news_cryptod/4000</link>
@@ -360,6 +353,13 @@ Canada is scheduled to release its Consumer Price Index (CPI) for November at 16
       <description>🇺🇸 Morgan Stanley forecasts that Tesla will greatly increase its robotaxi fleet by 2026, as it reaches key technical and regulatory milestones. Numerous analysts anticipate that the robotaxi industry will generate significant profits for Tesla.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4054</guid>
       <pubDate>Sat, 20 Dec 2025 13:14:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ The United States has warned of potential retaliatory actions against European Union companies re...</title>
+      <link>https://t.me/news_cryptod/4055</link>
+      <description>⚠️ The United States has warned of potential retaliatory actions against European Union companies related to the digital tax, as stated by US Trade Representative Greer. Earlier, Trump had signaled that he might impose sanctions or tariffs on nations that target US Big Tech. For more details, check out this Bloomberg article.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4055</guid>
+      <pubDate>Sat, 20 Dec 2025 14:12:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
