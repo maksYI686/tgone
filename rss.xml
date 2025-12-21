@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 21 Dec 2025 21:01:06 +0000</lastBuildDate>
-    <item>
-      <title>📰 Australia's Manufacturing PMI increased to 52.2, up from 51.6. In contrast, the Services PMI dropp...</title>
-      <link>https://t.me/news_cryptod/4038</link>
-      <description>📰 Australia's Manufacturing PMI increased to 52.2, up from 51.6. In contrast, the Services PMI dropped to 51 from 52.8, while the Composite PMI fell to 51.1, down from 52.6, based on the latest data.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4038</guid>
-      <pubDate>Fri, 19 Dec 2025 23:37:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Dec 2025 21:34:36 +0000</lastBuildDate>
     <item>
       <title>🇪🇺🇷🇺 In a recent interview with Rete4, Italian Deputy Prime Minister Matteo Salvini voiced doubts ab...</title>
       <link>https://t.me/news_cryptod/4041</link>
@@ -360,6 +353,13 @@ Fitch Ratings has announced that Euroclear is now on Rating Watch Negative. This
       <description>✴️ Coinbase is broadening its reach by venturing into the stock market, prediction markets, and Solana DEX trading via Jupiter. To learn more, visit the full article.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4092</guid>
       <pubDate>Sun, 21 Dec 2025 20:21:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Shares of Micron Technology soared by 8% after the release of their earnings report.</title>
+      <link>https://t.me/news_cryptod/4093</link>
+      <description>🇺🇸 Shares of Micron Technology soared by 8% after the release of their earnings report.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4093</guid>
+      <pubDate>Sun, 21 Dec 2025 21:20:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
