@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 21 Dec 2025 05:41:03 +0000</lastBuildDate>
-    <item>
-      <title>🇨🇦 Canada has released its Consumer Price Index (CPI) for November. On a month-over-month basis, the...</title>
-      <link>https://t.me/news_cryptod/4017</link>
-      <description>🇨🇦 Canada has released its Consumer Price Index (CPI) for November. On a month-over-month basis, the CPI increased by 0.1%, in line with expectations and a decrease from the previous month's rise of 0.2%. Year-over-year, the CPI is at 2.2%, slightly below the expected 2.3% and consistent with the previous reading. The core CPI remains unchanged at 2.9%, matching both forecasts and earlier data.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4017</guid>
-      <pubDate>Fri, 19 Dec 2025 04:11:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Dec 2025 06:01:19 +0000</lastBuildDate>
     <item>
       <title>📉🇺🇸 In December, the NY Empire State Manufacturing Index in the United States decreased to -3.9, com...</title>
       <link>https://t.me/news_cryptod/4018</link>
@@ -360,6 +353,13 @@ Fitch Ratings has announced that Euroclear is now on Rating Watch Negative. This
       <description>⚠️ According to a source from RIA Novosti, EU representatives are set to conclude talks today in a morning meeting regarding the use of Russian assets for Kyiv. Hungarian Prime Minister Orban has emphasized that Hungary will not back the confiscation of frozen Russian assets under any circumstances. EU leaders may reach a consensus on the language for asset confiscation during the summit on December 18, while leaving technical details for further examination by the EU Council and European Parliament, as reported by Politico. MT in MAX</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4071</guid>
       <pubDate>Sun, 21 Dec 2025 04:47:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🛢 A report from RTRS indicates that the increasing exports of Russian naphtha to Venezuela may be ...</title>
+      <link>https://t.me/news_cryptod/4072</link>
+      <description>⚠️🛢 A report from RTRS indicates that the increasing exports of Russian naphtha to Venezuela may be jeopardized following Trump’s directive to block sanctioned tankers.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4072</guid>
+      <pubDate>Sun, 21 Dec 2025 05:46:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
