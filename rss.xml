@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Dec 2025 16:01:08 +0000</lastBuildDate>
-    <item>
-      <title>🌍 Current foreign exchange rates show the US dollar at 7.044 compared to the Chinese yuan and 79.80 ...</title>
-      <link>https://t.me/news_cryptod/4059</link>
-      <description>🌍 Current foreign exchange rates show the US dollar at 7.044 compared to the Chinese yuan and 79.80 against the Russian ruble.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4059</guid>
-      <pubDate>Sat, 20 Dec 2025 18:06:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Dec 2025 16:47:06 +0000</lastBuildDate>
     <item>
       <title>❗️⚠️🇻🇪 Trump has designated Venezuela's current government as a foreign terrorist organization, alle...</title>
       <link>https://t.me/news_cryptod/4060</link>
@@ -372,6 +365,13 @@ Financial reports:
       <description>🔥🇯🇵 Japan's central bank has raised interest rates to a 30-year peak of 0.75%, as anticipated, marking the first increase since January 2025. The yield on 10-year Japanese bonds has reached 2%, the highest level since 2006, amid ongoing inflation that exceeds targets. The bank indicates a potential for gradual further rate increases. Read more</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4112</guid>
       <pubDate>Mon, 22 Dec 2025 15:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>📈 The Central Bank of Russia is set to implement a slight decrease in the key interest rate in light...</title>
+      <link>https://t.me/news_cryptod/4113</link>
+      <description>📈 The Central Bank of Russia is set to implement a slight decrease in the key interest rate in light of worries that an increase in VAT could trigger higher inflation. During today's meeting, the CBR is expected to lower the rate by 0.5%, bringing it down to 16%. Notably, inflation is decreasing more rapidly than the CBR had anticipated, as reported by Bloomberg. MT in MAX</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4113</guid>
+      <pubDate>Mon, 22 Dec 2025 16:46:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
