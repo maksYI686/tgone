@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Dec 2025 18:01:30 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇪🇺 Euroclear Under Negative Rating Watch</title>
-      <link>https://t.me/news_cryptod/4061</link>
-      <description>⚠️🇪🇺 Euroclear Under Negative Rating Watch
-
-Fitch Ratings has announced that Euroclear is now on Rating Watch Negative. This decision comes in light of the company's plans to transfer a loan to Ukraine utilizing Russian assets. For more information, visit Fitch Ratings.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4061</guid>
-      <pubDate>Sat, 20 Dec 2025 20:02:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Dec 2025 18:50:01 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 Amazon intends to invest more than $10 billion in OpenAI.</title>
       <link>https://t.me/news_cryptod/4062</link>
@@ -372,6 +363,13 @@ Financial reports:
       <description>🔔 Russian President Vladimir Putin will host a live Q&amp;A session at 12:00 MSK today, reflecting on the outcomes of 2025. He will respond to a variety of questions from Russian citizens and international media, including inquiries from countries considered unfriendly. You can watch the broadcast.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4114</guid>
       <pubDate>Mon, 22 Dec 2025 17:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 Marina Chekurova, the head of the rating agency "Expert RA," stated in an interview with RIA Novo...</title>
+      <link>https://t.me/news_cryptod/4115</link>
+      <description>🇷🇺 Marina Chekurova, the head of the rating agency "Expert RA," stated in an interview with RIA Novosti that the Russian Central Bank's key interest rate is expected to drop to between 11% and 12% by the end of 2026, down from the current rate of 16.5%. She predicts that the regulator will begin actively lowering the rate in the latter half of 2026.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4115</guid>
+      <pubDate>Mon, 22 Dec 2025 18:42:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
