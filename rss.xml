@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Dec 2025 13:49:09 +0000</lastBuildDate>
-    <item>
-      <title>⚡️🇺🇸 Sources indicate that former President Trump is set to announce the successful resolution of th...</title>
-      <link>https://t.me/news_cryptod/4056</link>
-      <description>⚡️🇺🇸 Sources indicate that former President Trump is set to announce the successful resolution of the Dolina apartment conflict during a national address scheduled for tomorrow.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4056</guid>
-      <pubDate>Sat, 20 Dec 2025 15:11:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Dec 2025 14:01:13 +0000</lastBuildDate>
     <item>
       <title>💥 Tesla's stock reached a record high, fueled by successful test results and an optimistic outlook f...</title>
       <link>https://t.me/news_cryptod/4057</link>
@@ -372,6 +365,13 @@ Financial reports:
 🇺🇸 Conagra and Carnival will announce their earnings today.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4109</guid>
       <pubDate>Mon, 22 Dec 2025 12:52:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌎 In the foreign exchange market, the US Dollar is trading at 7.041 against the Chinese Yuan (USDCNY...</title>
+      <link>https://t.me/news_cryptod/4110</link>
+      <description>🌎 In the foreign exchange market, the US Dollar is trading at 7.041 against the Chinese Yuan (USDCNY) and at 80.30 against the Russian Ruble (USDTRUB).</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4110</guid>
+      <pubDate>Mon, 22 Dec 2025 13:51:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
