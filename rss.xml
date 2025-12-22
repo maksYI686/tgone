@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Dec 2025 06:01:45 +0000</lastBuildDate>
-    <item>
-      <title>✴️ The global blockchain network TON has chosen OpenPayd as its partner to manage fiat currency tran...</title>
-      <link>https://t.me/news_cryptod/4047</link>
-      <description>✴️ The global blockchain network TON has chosen OpenPayd as its partner to manage fiat currency transactions across the globe.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4047</guid>
-      <pubDate>Sat, 20 Dec 2025 07:24:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Dec 2025 06:53:41 +0000</lastBuildDate>
     <item>
       <title>📊 A December survey conducted by Bank of America among global managers reveals that cash levels in p...</title>
       <link>https://t.me/news_cryptod/4048</link>
@@ -360,6 +353,13 @@ Fitch Ratings has announced that Euroclear is now on Rating Watch Negative. This
       <description>⚠️ According to Bessent, the US Treasury is set to introduce further sanctions on Russia next week. For more details, check out MT in MAX.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4101</guid>
       <pubDate>Mon, 22 Dec 2025 05:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 Rutte announced that the United States, Hungary, and Slovakia will reject Ukraine's bid for NATO ...</title>
+      <link>https://t.me/news_cryptod/4102</link>
+      <description>🇺🇦 Rutte announced that the United States, Hungary, and Slovakia will reject Ukraine's bid for NATO membership. As a result, Europe is now considering the potential for Ukraine to join NATO, according to sources. MT in MAX</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4102</guid>
+      <pubDate>Mon, 22 Dec 2025 06:04:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
