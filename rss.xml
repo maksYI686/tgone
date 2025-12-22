@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Dec 2025 04:37:08 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇩🇪 According to the PMI data reported by RTRS, Germany's business activity growth continues to slo...</title>
-      <link>https://t.me/news_cryptod/4046</link>
-      <description>⚠️🇩🇪 According to the PMI data reported by RTRS, Germany's business activity growth continues to slow down in December.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4046</guid>
-      <pubDate>Sat, 20 Dec 2025 06:26:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Dec 2025 05:14:58 +0000</lastBuildDate>
     <item>
       <title>✴️ The global blockchain network TON has chosen OpenPayd as its partner to manage fiat currency tran...</title>
       <link>https://t.me/news_cryptod/4047</link>
@@ -360,6 +353,13 @@ Fitch Ratings has announced that Euroclear is now on Rating Watch Negative. This
       <description>✴️ The Ministry of Justice in Taiwan has declared the seizure of 210.5 BTC, marking a notable achievement that embodies true joy. To learn more, visit MT in MAX.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4100</guid>
       <pubDate>Mon, 22 Dec 2025 04:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ According to Bessent, the US Treasury is set to introduce further sanctions on Russia next week. ...</title>
+      <link>https://t.me/news_cryptod/4101</link>
+      <description>⚠️ According to Bessent, the US Treasury is set to introduce further sanctions on Russia next week. For more details, check out MT in MAX.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4101</guid>
+      <pubDate>Mon, 22 Dec 2025 05:06:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
