@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 22 Dec 2025 23:37:13 +0000</lastBuildDate>
-    <item>
-      <title>🌍 CNBC reports that UK inflation fell significantly to 3.2% in November, raising the chances of an i...</title>
-      <link>https://t.me/news_cryptod/4069</link>
-      <description>🌍 CNBC reports that UK inflation fell significantly to 3.2% in November, raising the chances of an interest rate cut before Christmas.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4069</guid>
-      <pubDate>Sun, 21 Dec 2025 02:51:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 00:43:15 +0000</lastBuildDate>
     <item>
       <title>🛢️ According to sources from RTRS, Russian oil deliveries to India in December and January may surpa...</title>
       <link>https://t.me/news_cryptod/4070</link>
@@ -370,6 +363,13 @@ Financial reports:
       <description>💎 Vladimir Zboykov, Executive Director of the Russian Jewelers' Guild Association, stressed the necessity of distinctly differentiating between the markets for synthetic and natural diamonds. For more information, you can read the complete statement here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4120</guid>
       <pubDate>Mon, 22 Dec 2025 23:34:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 The event has begun in Russia. You can watch the broadcast by following this link.</title>
+      <link>https://t.me/news_cryptod/4121</link>
+      <description>📰 The event has begun in Russia. You can watch the broadcast by following this link.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4121</guid>
+      <pubDate>Tue, 23 Dec 2025 00:32:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
