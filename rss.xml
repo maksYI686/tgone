@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 23 Dec 2025 18:01:15 +0000</lastBuildDate>
-    <item>
-      <title>📰 The United States has expressed its opposition to the European Union's decision to seize Russian a...</title>
-      <link>https://t.me/news_cryptod/4086</link>
-      <description>📰 The United States has expressed its opposition to the European Union's decision to seize Russian assets, cautioning that this action could lead to the EU and the UK needing to return those funds to Russia. Washington is concerned that such measures might prolong the conflict in Ukraine and diminish Western influence over Moscow. According to Politico, the U.S. is pressuring the EU to refrain from utilizing Russian assets for Ukraine. Additionally, The Washington Post reports that the U.S. plans to allocate $100 billion of frozen Russian assets to aid Ukraine’s recovery, with the remainder set aside for a Russian-American investment fund aimed at promoting peace. MT in MAX</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4086</guid>
-      <pubDate>Sun, 21 Dec 2025 15:29:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 18:50:33 +0000</lastBuildDate>
     <item>
       <title>📰 According to The Times, the United States is against the European Union's plans to seize Russian a...</title>
       <link>https://t.me/news_cryptod/4087</link>
@@ -372,6 +365,13 @@ Beginning December 20, the Moscow Exchange will broaden the selection of securit
       <description>📰 The crypto-ETF market experiences a slowdown: spot BTC ETF flows remain flat, outflows from spot ETH ETFs have restarted, while spot SOL ETFs continue to attract inflows, as reported by Farside data.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4139</guid>
       <pubDate>Tue, 23 Dec 2025 17:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇪🇺🇺🇦 According to Politico, EU nations will incur €3 billion annually in interest on a loan to Ukrai...</title>
+      <link>https://t.me/news_cryptod/4140</link>
+      <description>🇪🇺🇺🇦 According to Politico, EU nations will incur €3 billion annually in interest on a loan to Ukraine. During a summit in Brussels on December 8, EU leaders agreed to provide Ukraine with an interest-free loan of €90 billion for the years 2026-2027. For further details, check out MT in MAX.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4140</guid>
+      <pubDate>Tue, 23 Dec 2025 18:02:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
