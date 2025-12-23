@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 23 Dec 2025 16:48:06 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇻🇪 The U.S. House of Representatives has turned down two resolutions put forward by Democrats that...</title>
-      <link>https://t.me/news_cryptod/4085</link>
-      <description>⚠️🇻🇪 The U.S. House of Representatives has turned down two resolutions put forward by Democrats that aimed to stop strikes on vessels in the Caribbean and military actions directed at Venezuela. The first resolution aimed to limit Trump's military initiatives in the Western Hemisphere without Congressional approval. The second called for an end to U.S. military operations related to Venezuela unless Congress authorized them. Trump has previously indicated that he would not dismiss the possibility of air, sea, and ground operations against Venezuela. Find out more on MT in MAX</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4085</guid>
-      <pubDate>Sun, 21 Dec 2025 14:31:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 17:10:44 +0000</lastBuildDate>
     <item>
       <title>📰 The United States has expressed its opposition to the European Union's decision to seize Russian a...</title>
       <link>https://t.me/news_cryptod/4086</link>
@@ -372,6 +365,13 @@ Beginning December 20, the Moscow Exchange will broaden the selection of securit
       <description>⚠️ Today's reports concentrate on the real estate sector in Russia. For more information, visit MT в MAX.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4138</guid>
       <pubDate>Tue, 23 Dec 2025 16:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 The crypto-ETF market experiences a slowdown: spot BTC ETF flows remain flat, outflows from spot E...</title>
+      <link>https://t.me/news_cryptod/4139</link>
+      <description>📰 The crypto-ETF market experiences a slowdown: spot BTC ETF flows remain flat, outflows from spot ETH ETFs have restarted, while spot SOL ETFs continue to attract inflows, as reported by Farside data.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4139</guid>
+      <pubDate>Tue, 23 Dec 2025 17:04:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
