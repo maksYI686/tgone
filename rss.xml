@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 23 Dec 2025 00:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 02:46:56 +0000</lastBuildDate>
     <item>
       <title>🛢️ According to sources from RTRS, Russian oil deliveries to India in December and January may surpa...</title>
       <link>https://t.me/news_cryptod/4070</link>
@@ -365,11 +365,13 @@ Financial reports:
       <pubDate>Mon, 22 Dec 2025 23:34:26 +0000</pubDate>
     </item>
     <item>
-      <title>📰 The event has begun in Russia. You can watch the broadcast by following this link.</title>
-      <link>https://t.me/news_cryptod/4121</link>
-      <description>📰 The event has begun in Russia. You can watch the broadcast by following this link.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4121</guid>
-      <pubDate>Tue, 23 Dec 2025 00:32:45 +0000</pubDate>
+      <title>🇷🇺 Moscow Exchange to Extend Trading Hours</title>
+      <link>https://t.me/news_cryptod/4123</link>
+      <description>🇷🇺 Moscow Exchange to Extend Trading Hours
+
+Beginning December 20, the Moscow Exchange will broaden the selection of securities available for weekend trading, in addition to morning and evening sessions. Stocks of DOMRF will be available for trading on weekends, as well as during morning and evening hours. For further information, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4123</guid>
+      <pubDate>Tue, 23 Dec 2025 02:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
