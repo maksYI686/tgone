@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 23 Dec 2025 20:40:34 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Friedrich Merz stated that "they" intend to utilize Russian assets to finance the Ukrainian Armed...</title>
-      <link>https://t.me/news_cryptod/4089</link>
-      <description>⚠️ Friedrich Merz stated that "they" intend to utilize Russian assets to finance the Ukrainian Armed Forces for a minimum of two years, aiming to bring a swift conclusion to the war. MT in MAX</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4089</guid>
-      <pubDate>Sun, 21 Dec 2025 17:26:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Dec 2025 21:01:15 +0000</lastBuildDate>
     <item>
       <title>🇪🇺🇷🇺 Politico reports that EU leaders are unlikely to reach a consensus on using frozen Russian asse...</title>
       <link>https://t.me/news_cryptod/4090</link>
@@ -372,6 +365,13 @@ Beginning December 20, the Moscow Exchange will broaden the selection of securit
       <description>🔍 Santiment indicates an increase in long-term bearish sentiment for BTC and ETH. This trend may set the stage for a potential crypto rebound, as markets frequently react in opposition to prevailing crowd expectations. MT in MAX</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4142</guid>
       <pubDate>Tue, 23 Dec 2025 19:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>✴️ Recent data from Santiment reveals a substantial rise in the number of new wallets on the ETH net...</title>
+      <link>https://t.me/news_cryptod/4143</link>
+      <description>✴️ Recent data from Santiment reveals a substantial rise in the number of new wallets on the ETH network over the past month, suggesting a potential increase in market buying activity. For more information, visit MT in MAX.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4143</guid>
+      <pubDate>Tue, 23 Dec 2025 20:57:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
