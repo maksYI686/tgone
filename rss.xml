@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 24 Dec 2025 19:01:15 +0000</lastBuildDate>
-    <item>
-      <title>🔥🇯🇵 Japan's central bank has raised interest rates to a 30-year peak of 0.75%, as anticipated, marki...</title>
-      <link>https://t.me/news_cryptod/4112</link>
-      <description>🔥🇯🇵 Japan's central bank has raised interest rates to a 30-year peak of 0.75%, as anticipated, marking the first increase since January 2025. The yield on 10-year Japanese bonds has reached 2%, the highest level since 2006, amid ongoing inflation that exceeds targets. The bank indicates a potential for gradual further rate increases. Read more</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4112</guid>
-      <pubDate>Mon, 22 Dec 2025 15:47:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Dec 2025 19:31:37 +0000</lastBuildDate>
     <item>
       <title>📈 The Central Bank of Russia is set to implement a slight decrease in the key interest rate in light...</title>
       <link>https://t.me/news_cryptod/4113</link>
@@ -360,6 +353,13 @@ Beginning December 20, the Moscow Exchange will broaden the selection of securit
       <description>🇺🇸 President Trump has officially signed a memorandum detailing U.S. strategies aimed at securing a leading position in the development of 6G networks.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4165</guid>
       <pubDate>Wed, 24 Dec 2025 18:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚨🌟 Grayscale has indicated that the current volume of tokenized assets (RWA) is minimal, making up a...</title>
+      <link>https://t.me/news_cryptod/4166</link>
+      <description>🚨🌟 Grayscale has indicated that the current volume of tokenized assets (RWA) is minimal, making up about 0.01% of the global stock and bond markets. However, by 2030, this volume is projected to grow by nearly 1000 times as advancements in blockchain infrastructure and regulations take shape. Tokenization is being recognized as the future, with significant implications for sectors like real estate, stocks, bonds, and more, as highlighted by the CEOs of Coinbase and BlackRock. MT in MAX</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4166</guid>
+      <pubDate>Wed, 24 Dec 2025 19:19:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
