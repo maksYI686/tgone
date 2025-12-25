@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Dec 2025 23:01:15 +0000</lastBuildDate>
-    <item>
-      <title>📰 The crypto-ETF market experiences a slowdown: spot BTC ETF flows remain flat, outflows from spot E...</title>
-      <link>https://t.me/news_cryptod/4139</link>
-      <description>📰 The crypto-ETF market experiences a slowdown: spot BTC ETF flows remain flat, outflows from spot ETH ETFs have restarted, while spot SOL ETFs continue to attract inflows, as reported by Farside data.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4139</guid>
-      <pubDate>Tue, 23 Dec 2025 17:04:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 23:37:11 +0000</lastBuildDate>
     <item>
       <title>🇪🇺🇺🇦 According to Politico, EU nations will incur €3 billion annually in interest on a loan to Ukrai...</title>
       <link>https://t.me/news_cryptod/4140</link>
@@ -358,6 +351,13 @@
       <description>⚠️✴️ In a noteworthy update, CryptoQuant has observed a decline in capital inflow into Bitcoin (BTC) for the first time in 2.5 years of continuous growth. Earlier, CryptoQuant analysts indicated the beginning of a bear market for BTC, while Fundstrat cautioned about the potential for a significant correction in early 2026.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4195</guid>
       <pubDate>Thu, 25 Dec 2025 22:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 According to Rostec, the SU-57 aircraft has completed its first flight featuring the cutting-edge...</title>
+      <link>https://t.me/news_cryptod/4196</link>
+      <description>🇷🇺 According to Rostec, the SU-57 aircraft has completed its first flight featuring the cutting-edge 5th-generation engine referred to as "item 177."</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4196</guid>
+      <pubDate>Thu, 25 Dec 2025 23:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
