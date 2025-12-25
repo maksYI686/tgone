@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Dec 2025 15:38:59 +0000</lastBuildDate>
-    <item>
-      <title>❗️According to the Financial Times, the UK will not seize Russian assets after the EU summit did not...</title>
-      <link>https://t.me/news_cryptod/4132</link>
-      <description>❗️According to the Financial Times, the UK will not seize Russian assets after the EU summit did not achieve its objectives.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4132</guid>
-      <pubDate>Tue, 23 Dec 2025 11:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 16:01:16 +0000</lastBuildDate>
     <item>
       <title>📄 CBS reports that documents pertaining to the Epstein case could be released in the U.S. today at a...</title>
       <link>https://t.me/news_cryptod/4133</link>
@@ -358,6 +351,13 @@
       <description>🗓 Key events planned for December 22, 2025, feature China's LPR announcement at 04:15 MSK, the UK's Q3 GDP release at 10:00 MSK, and the Chicago Fed National Activity Index in the US at 16:30 MSK. The US PCE Price Index is expected to be released at 18:00 MSK, although this timing is tentative. Additionally, Trump will hold a conversation with Hegset, accompanied by Rubio, at 00:30 MSK. Furthermore, DOM.RF shares will commence trading on the Moscow Exchange.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4187</guid>
       <pubDate>Thu, 25 Dec 2025 14:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌍 The latest update on the foreign exchange market shows the current rates, with USDCNY at 7.04 and ...</title>
+      <link>https://t.me/news_cryptod/4188</link>
+      <description>🌍 The latest update on the foreign exchange market shows the current rates, with USDCNY at 7.04 and USDTRUB at 80.60, reflecting changes in the dollar's value against the Chinese yuan and Russian ruble.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4188</guid>
+      <pubDate>Thu, 25 Dec 2025 15:45:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
