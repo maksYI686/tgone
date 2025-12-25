@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Dec 2025 16:01:16 +0000</lastBuildDate>
-    <item>
-      <title>📄 CBS reports that documents pertaining to the Epstein case could be released in the U.S. today at a...</title>
-      <link>https://t.me/news_cryptod/4133</link>
-      <description>📄 CBS reports that documents pertaining to the Epstein case could be released in the U.S. today at approximately 3 p.m. Eastern Time.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4133</guid>
-      <pubDate>Tue, 23 Dec 2025 12:12:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 16:45:42 +0000</lastBuildDate>
     <item>
       <title>⚠️ The United States has initiated airstrikes against ISIS in Syria. According to Hegseth, this oper...</title>
       <link>https://t.me/news_cryptod/4134</link>
@@ -358,6 +351,13 @@
       <description>🌍 The latest update on the foreign exchange market shows the current rates, with USDCNY at 7.04 and USDTRUB at 80.60, reflecting changes in the dollar's value against the Chinese yuan and Russian ruble.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4188</guid>
       <pubDate>Thu, 25 Dec 2025 15:45:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 China has kept its loan prime rates steady for the seventh month in a row, with the 1-year rate at...</title>
+      <link>https://t.me/news_cryptod/4189</link>
+      <description>📰 China has kept its loan prime rates steady for the seventh month in a row, with the 1-year rate at 3% and the 5-year rate at 3.50%. This decision comes in light of disappointing economic data, as reported by CNBC.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4189</guid>
+      <pubDate>Thu, 25 Dec 2025 16:44:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
