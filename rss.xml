@@ -8,16 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Dec 2025 06:51:54 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 Moscow Exchange to Extend Trading Hours</title>
-      <link>https://t.me/news_cryptod/4123</link>
-      <description>🇷🇺 Moscow Exchange to Extend Trading Hours
-
-Beginning December 20, the Moscow Exchange will broaden the selection of securities available for weekend trading, in addition to morning and evening sessions. Stocks of DOMRF will be available for trading on weekends, as well as during morning and evening hours. For further information, click here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4123</guid>
-      <pubDate>Tue, 23 Dec 2025 02:29:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Dec 2025 07:12:45 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 According to Автостат, sales of new Sollers vehicles fell by 25% in November, totaling 909 units.</title>
       <link>https://t.me/news_cryptod/4124</link>
@@ -360,6 +351,13 @@ Beginning December 20, the Moscow Exchange will broaden the selection of securit
       <description>🇫🇷 According to the Financial Times, Macron has allegedly betrayed Merz regarding the use of frozen Russian assets.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4178</guid>
       <pubDate>Thu, 25 Dec 2025 06:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇬🇧 In an unexpected development, UK Finance Minister Rachel Reeves has allegedly been banned from he...</title>
+      <link>https://t.me/news_cryptod/4179</link>
+      <description>🇬🇧 In an unexpected development, UK Finance Minister Rachel Reeves has allegedly been banned from her beloved pub, the Marsh Inn, as a result of rising taxes in the country.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4179</guid>
+      <pubDate>Thu, 25 Dec 2025 06:59:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
