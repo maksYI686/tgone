@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 26 Dec 2025 05:12:10 +0000</lastBuildDate>
-    <item>
-      <title>✴️ Recent data from Santiment reveals a substantial rise in the number of new wallets on the ETH net...</title>
-      <link>https://t.me/news_cryptod/4143</link>
-      <description>✴️ Recent data from Santiment reveals a substantial rise in the number of new wallets on the ETH network over the past month, suggesting a potential increase in market buying activity. For more information, visit MT in MAX.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4143</guid>
-      <pubDate>Tue, 23 Dec 2025 20:57:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Dec 2025 05:41:59 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 The behavior of U.S. stocks during Trump's presidency mirrors trends from his initial term. After...</title>
       <link>https://t.me/news_cryptod/4144</link>
@@ -358,6 +351,13 @@
       <description>🔵 Top cryptocurrency analysts and investment firms anticipate that Bitcoin could climb to between $200,000 and $250,000 by the end of 2025. As of now, Bitcoin is valued at $88,000, based on tracking data. For additional information, check out MT in MAX.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4201</guid>
       <pubDate>Fri, 26 Dec 2025 04:22:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇪🇺🇺🇸 Italy has imposed a fine of 98 million euros on Apple.</title>
+      <link>https://t.me/news_cryptod/4202</link>
+      <description>⚠️🇪🇺🇺🇸 Italy has imposed a fine of 98 million euros on Apple.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4202</guid>
+      <pubDate>Fri, 26 Dec 2025 05:21:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
