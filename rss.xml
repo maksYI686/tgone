@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 26 Dec 2025 16:01:25 +0000</lastBuildDate>
-    <item>
-      <title>✨ The Ethereum Foundation has revealed a change in focus, prioritizing security over network speed f...</title>
-      <link>https://t.me/news_cryptod/4155</link>
-      <description>✨ The Ethereum Foundation has revealed a change in focus, prioritizing security over network speed for ETH.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4155</guid>
-      <pubDate>Wed, 24 Dec 2025 08:37:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Dec 2025 16:43:53 +0000</lastBuildDate>
     <item>
       <title>In the Russian real estate market, Wildberries has noted a remarkable six-fold increase in sales of ...</title>
       <link>https://t.me/news_cryptod/4156</link>
@@ -358,6 +351,13 @@
       <description>🌟 Lithuania's central bank has declared that the deadline for crypto asset service providers to secure their licenses will be December 31, 2025.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4212</guid>
       <pubDate>Fri, 26 Dec 2025 15:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌎 Global inflows into equity ETFs have soared to nearly $1.4 trillion this year, marking a new recor...</title>
+      <link>https://t.me/news_cryptod/4213</link>
+      <description>🌎 Global inflows into equity ETFs have soared to nearly $1.4 trillion this year, marking a new record. Last week alone, inflows into global stock ETFs reached an unprecedented $145 billion, with 54% of these investments allocated to U.S. equities. According to BofA, investors are entering the stock market at an all-time high pace.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4213</guid>
+      <pubDate>Fri, 26 Dec 2025 16:02:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
