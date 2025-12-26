@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 26 Dec 2025 19:31:52 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 Russian banks have begun to mandate evidence of family ties for significant money transfers, acco...</title>
-      <link>https://t.me/news_cryptod/4159</link>
-      <description>🇷🇺 Russian banks have begun to mandate evidence of family ties for significant money transfers, according to a report by RIA. Additional information can be found on MT in MAX.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4159</guid>
-      <pubDate>Wed, 24 Dec 2025 12:31:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Dec 2025 20:01:07 +0000</lastBuildDate>
     <item>
       <title>⚠️ Reports indicate that the terms suggested by Ukrainian and European officials do not facilitate o...</title>
       <link>https://t.me/news_cryptod/4160</link>
@@ -358,6 +351,13 @@
       <description>🌎 In foreign exchange updates, the US dollar is currently valued at 7.029 against the Chinese yuan and 79.30 against the Russian ruble.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4216</guid>
       <pubDate>Fri, 26 Dec 2025 18:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌕 Gold futures have broken the $4,500 barrier, achieving a new record. Silver futures have also soar...</title>
+      <link>https://t.me/news_cryptod/4217</link>
+      <description>🌕 Gold futures have broken the $4,500 barrier, achieving a new record. Silver futures have also soared past $70, reaching a historic high. Additionally, platinum has hit its highest point in 17 years. For more information, visit MT at MAX.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4217</guid>
+      <pubDate>Fri, 26 Dec 2025 19:56:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
