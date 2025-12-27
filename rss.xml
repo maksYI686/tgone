@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 27 Dec 2025 10:01:08 +0000</lastBuildDate>
-    <item>
-      <title>🇫🇷 According to the Financial Times, Macron has allegedly betrayed Merz regarding the use of frozen ...</title>
-      <link>https://t.me/news_cryptod/4178</link>
-      <description>🇫🇷 According to the Financial Times, Macron has allegedly betrayed Merz regarding the use of frozen Russian assets.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4178</guid>
-      <pubDate>Thu, 25 Dec 2025 06:01:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Dec 2025 10:41:08 +0000</lastBuildDate>
     <item>
       <title>🇬🇧 In an unexpected development, UK Finance Minister Rachel Reeves has allegedly been banned from he...</title>
       <link>https://t.me/news_cryptod/4179</link>
@@ -358,6 +351,13 @@
       <description>🇷🇺 TASS reports that the Russian stock market has risen in response to the release of the Central Bank's cryptocurrency regulation concept.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4233</guid>
       <pubDate>Sat, 27 Dec 2025 09:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 On December 24, the Russian Ministry of Finance will conduct auctions for the issuance of OFZ bon...</title>
+      <link>https://t.me/news_cryptod/4234</link>
+      <description>🇷🇺 On December 24, the Russian Ministry of Finance will conduct auctions for the issuance of OFZ bonds 26252 and 26250.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4234</guid>
+      <pubDate>Sat, 27 Dec 2025 10:31:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
