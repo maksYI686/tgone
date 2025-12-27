@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 27 Dec 2025 23:01:14 +0000</lastBuildDate>
-    <item>
-      <title>📰 China has kept its loan prime rates steady for the seventh month in a row, with the 1-year rate at...</title>
-      <link>https://t.me/news_cryptod/4189</link>
-      <description>📰 China has kept its loan prime rates steady for the seventh month in a row, with the 1-year rate at 3% and the 5-year rate at 3.50%. This decision comes in light of disappointing economic data, as reported by CNBC.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4189</guid>
-      <pubDate>Thu, 25 Dec 2025 16:44:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Dec 2025 23:36:07 +0000</lastBuildDate>
     <item>
       <title>🌕 Gold futures have hit an all-time high, while silver futures have also achieved a new record. Addi...</title>
       <link>https://t.me/news_cryptod/4190</link>
@@ -364,6 +357,13 @@ A "cyclical bottom" in BTC typically occurs when the BCMI indicator drops below 
 mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4246</guid>
       <pubDate>Sat, 27 Dec 2025 22:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 According to Tokarev, Transneft anticipates that oil transportation in 2026 will align with the l...</title>
+      <link>https://t.me/news_cryptod/4247</link>
+      <description>🇷🇺 According to Tokarev, Transneft anticipates that oil transportation in 2026 will align with the levels expected in 2025.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4247</guid>
+      <pubDate>Sat, 27 Dec 2025 23:09:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
