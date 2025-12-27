@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 27 Dec 2025 12:15:37 +0000</lastBuildDate>
-    <item>
-      <title>🛢🇺🇸 Gasoline prices in the United States have fallen to their lowest level in four years. This issue...</title>
-      <link>https://t.me/news_cryptod/4180</link>
-      <description>🛢🇺🇸 Gasoline prices in the United States have fallen to their lowest level in four years. This issue is a significant concern for American voters, and Trump keeps a close eye on any changes. MT in MAX</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4180</guid>
-      <pubDate>Thu, 25 Dec 2025 07:57:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Dec 2025 13:02:48 +0000</lastBuildDate>
     <item>
       <title>🎁 Today, President Lukashenko presented Putin with a painting showcasing the scenic views of Valaam....</title>
       <link>https://t.me/news_cryptod/4181</link>
@@ -358,6 +351,13 @@
       <description>🚹 Pavel Durov has pledged to pay for IVF treatments for women interested in having his children, according to the Wall Street Journal. Reports indicate that some women are asking, "Is it just IVF?"</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4235</guid>
       <pubDate>Sat, 27 Dec 2025 11:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 Bitcoin's price falls below $87,000.</title>
+      <link>https://t.me/news_cryptod/4236</link>
+      <description>📰 Bitcoin's price falls below $87,000.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4236</guid>
+      <pubDate>Sat, 27 Dec 2025 12:27:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
