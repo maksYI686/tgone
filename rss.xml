@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 27 Dec 2025 14:01:20 +0000</lastBuildDate>
-    <item>
-      <title>🎁 Today, President Lukashenko presented Putin with a painting showcasing the scenic views of Valaam....</title>
-      <link>https://t.me/news_cryptod/4181</link>
-      <description>🎁 Today, President Lukashenko presented Putin with a painting showcasing the scenic views of Valaam. In contrast, Polish President Nawrocki gifted Zelensky a book that discusses the Volyn massacre. MT в MAX</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4181</guid>
-      <pubDate>Thu, 25 Dec 2025 08:56:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Dec 2025 14:38:46 +0000</lastBuildDate>
     <item>
       <title>⚠️✴️ Fundstrat has issued a warning regarding the possibility of a major correction in the cryptocur...</title>
       <link>https://t.me/news_cryptod/4182</link>
@@ -358,6 +351,13 @@
       <description>📰 Bitcoin's price falls below $87,000.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4236</guid>
       <pubDate>Sat, 27 Dec 2025 12:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 The Finance Ministry conducted an auction for OFZ 26252 bonds, successfully raising 64.57 billion...</title>
+      <link>https://t.me/news_cryptod/4238</link>
+      <description>🇷🇺 The Finance Ministry conducted an auction for OFZ 26252 bonds, successfully raising 64.57 billion rubles from a demand of 86.36 billion rubles. The weighted average yield was set at 14.90% per year.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4238</guid>
+      <pubDate>Sat, 27 Dec 2025 14:24:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
