@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 28 Dec 2025 12:15:44 +0000</lastBuildDate>
-    <item>
-      <title>🥚 According to the Russian Ministry of Agriculture, the domestic market is experiencing an oversuppl...</title>
-      <link>https://t.me/news_cryptod/4205</link>
-      <description>🥚 According to the Russian Ministry of Agriculture, the domestic market is experiencing an oversupply of eggs. For more information, visit MT in MAX.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4205</guid>
-      <pubDate>Fri, 26 Dec 2025 08:16:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 13:03:55 +0000</lastBuildDate>
     <item>
       <title>✴️🇬🇭 Ghana has enacted legislation to officially permit the extensive use of cryptocurrency. Learn m...</title>
       <link>https://t.me/news_cryptod/4207</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>🛢 U.S. Oil Update: The EIA Inventory Report is expected at 18:30 MSK.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4261</guid>
       <pubDate>Sun, 28 Dec 2025 11:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 Rovshan Aliyev, the CEO of Erion, the ecosystem holding company of PJSC MTS, expressed his belief...</title>
+      <link>https://t.me/news_cryptod/4262</link>
+      <description>🇷🇺 Rovshan Aliyev, the CEO of Erion, the ecosystem holding company of PJSC MTS, expressed his belief that favorable conditions for an IPO could emerge in the fall of 2026, according to IF.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4262</guid>
+      <pubDate>Sun, 28 Dec 2025 12:46:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
