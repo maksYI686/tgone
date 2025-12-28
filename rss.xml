@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 28 Dec 2025 16:01:12 +0000</lastBuildDate>
-    <item>
-      <title>🔮 A study reveals that predictions made on the Kalshi platform, influenced by user bets, are signifi...</title>
-      <link>https://t.me/news_cryptod/4210</link>
-      <description>🔮 A study reveals that predictions made on the Kalshi platform, influenced by user bets, are significantly more accurate than those from Wall Street analysts. You can read more about it in this article.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4210</guid>
-      <pubDate>Fri, 26 Dec 2025 13:07:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 16:44:17 +0000</lastBuildDate>
     <item>
       <title>⚠️✴️🇺🇸 Recent updates regarding ETH showcase ETHZilla's latest endeavors. The firm, recognized for i...</title>
       <link>https://t.me/news_cryptod/4211</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>📰 Wall Street achieved a significant milestone with the S&amp;P 500 reaching a record high, reflecting strong investor confidence and robust performance in the U.S. stock market.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4265</guid>
       <pubDate>Sun, 28 Dec 2025 15:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 The U.S. Department of Justice stated that the complete release of Epstein's documents may requir...</title>
+      <link>https://t.me/news_cryptod/4266</link>
+      <description>🇺🇸 The U.S. Department of Justice stated that the complete release of Epstein's documents may require "a few more weeks."</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4266</guid>
+      <pubDate>Sun, 28 Dec 2025 16:39:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
