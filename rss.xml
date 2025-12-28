@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 28 Dec 2025 19:31:19 +0000</lastBuildDate>
-    <item>
-      <title>🌎 Global inflows into equity ETFs have soared to nearly $1.4 trillion this year, marking a new recor...</title>
-      <link>https://t.me/news_cryptod/4213</link>
-      <description>🌎 Global inflows into equity ETFs have soared to nearly $1.4 trillion this year, marking a new record. Last week alone, inflows into global stock ETFs reached an unprecedented $145 billion, with 54% of these investments allocated to U.S. equities. According to BofA, investors are entering the stock market at an all-time high pace.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4213</guid>
-      <pubDate>Fri, 26 Dec 2025 16:02:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 20:00:55 +0000</lastBuildDate>
     <item>
       <title>⚠️✴️ BTC has hit its lowest point of the day.</title>
       <link>https://t.me/news_cryptod/4214</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>⚠️ As of January 1, up to 15 million citizens in Russia could be deprived of access to microloans. This change comes as Microfinance Organizations (MFOs) will no longer be permitted to utilize their current methods for assessing borrowers' debt burdens, as reported by Vedomosti.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4268</guid>
       <pubDate>Sun, 28 Dec 2025 18:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚗 According to Vedomosti, the Russian government has outlined an updated automotive strategy that ai...</title>
+      <link>https://t.me/news_cryptod/4269</link>
+      <description>🚗 According to Vedomosti, the Russian government has outlined an updated automotive strategy that aims to nearly double the sales of new cars in the country by 2030.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4269</guid>
+      <pubDate>Sun, 28 Dec 2025 19:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
