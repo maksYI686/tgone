@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 28 Dec 2025 20:00:55 +0000</lastBuildDate>
-    <item>
-      <title>⚠️✴️ BTC has hit its lowest point of the day.</title>
-      <link>https://t.me/news_cryptod/4214</link>
-      <description>⚠️✴️ BTC has hit its lowest point of the day.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4214</guid>
-      <pubDate>Fri, 26 Dec 2025 17:01:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Dec 2025 20:40:38 +0000</lastBuildDate>
     <item>
       <title>🌕 Gold prices are drawing interest as markets fluctuate amid ongoing economic uncertainties. Investo...</title>
       <link>https://t.me/news_cryptod/4215</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>🚗 According to Vedomosti, the Russian government has outlined an updated automotive strategy that aims to nearly double the sales of new cars in the country by 2030.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4269</guid>
       <pubDate>Sun, 28 Dec 2025 19:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 Russia's Energy Ministry has presented three possible scenarios for the development of the coal i...</title>
+      <link>https://t.me/news_cryptod/4270</link>
+      <description>🇷🇺 Russia's Energy Ministry has presented three possible scenarios for the development of the coal industry up to 2050: stress, baseline, and optimistic. For further information, visit Ъ.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4270</guid>
+      <pubDate>Sun, 28 Dec 2025 20:32:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
