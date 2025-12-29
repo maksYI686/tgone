@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 29 Dec 2025 17:39:39 +0000</lastBuildDate>
-    <item>
-      <title>📰 Bitcoin's price falls below $87,000.</title>
-      <link>https://t.me/news_cryptod/4236</link>
-      <description>📰 Bitcoin's price falls below $87,000.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4236</guid>
-      <pubDate>Sat, 27 Dec 2025 12:27:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 18:01:32 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 The Finance Ministry conducted an auction for OFZ 26252 bonds, successfully raising 64.57 billion...</title>
       <link>https://t.me/news_cryptod/4238</link>
@@ -366,6 +359,13 @@ mt in max</description>
       <description>🌎 According to ICI data, total assets in global money market funds are hitting record highs, nearing $7.5 trillion.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4291</guid>
       <pubDate>Mon, 29 Dec 2025 16:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️✴️ A recent study by Memento Research reveals that just 15% of altcoins launched in 2025 are curre...</title>
+      <link>https://t.me/news_cryptod/4292</link>
+      <description>⚠️✴️ A recent study by Memento Research reveals that just 15% of altcoins launched in 2025 are currently trading above their initial offering price.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4292</guid>
+      <pubDate>Mon, 29 Dec 2025 17:56:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
