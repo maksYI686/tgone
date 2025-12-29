@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 29 Dec 2025 16:46:08 +0000</lastBuildDate>
-    <item>
-      <title>🚹 Pavel Durov has pledged to pay for IVF treatments for women interested in having his children, acc...</title>
-      <link>https://t.me/news_cryptod/4235</link>
-      <description>🚹 Pavel Durov has pledged to pay for IVF treatments for women interested in having his children, according to the Wall Street Journal. Reports indicate that some women are asking, "Is it just IVF?"</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4235</guid>
-      <pubDate>Sat, 27 Dec 2025 11:29:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 17:08:31 +0000</lastBuildDate>
     <item>
       <title>📰 Bitcoin's price falls below $87,000.</title>
       <link>https://t.me/news_cryptod/4236</link>
@@ -366,6 +359,13 @@ mt in max</description>
       <description>🌍 During a business meeting, Russian President Vladimir Putin disclosed that Russia and the United States are in talks about jointly managing the Zaporizhzhia Nuclear Power Plant, excluding Ukraine from the discussions. He also highlighted U.S. interest in establishing mining operations at the facility. For further information, visit Kommersant and mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4290</guid>
       <pubDate>Mon, 29 Dec 2025 15:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌎 According to ICI data, total assets in global money market funds are hitting record highs, nearing...</title>
+      <link>https://t.me/news_cryptod/4291</link>
+      <description>🌎 According to ICI data, total assets in global money market funds are hitting record highs, nearing $7.5 trillion.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4291</guid>
+      <pubDate>Mon, 29 Dec 2025 16:57:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
