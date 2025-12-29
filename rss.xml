@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 29 Dec 2025 21:36:21 +0000</lastBuildDate>
-    <item>
-      <title>🛢️ Europe is experiencing an increase in gas prices as forecasts predict colder weather during the h...</title>
-      <link>https://t.me/news_cryptod/4241</link>
-      <description>🛢️ Europe is experiencing an increase in gas prices as forecasts predict colder weather during the holiday season, according to RTRS. Likewise, natural gas prices in the U.S. have risen in response to anticipated low temperatures, as noted by the WSJ. For further insights, check out MT in MAX.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4241</guid>
-      <pubDate>Sat, 27 Dec 2025 17:19:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 29 Dec 2025 22:01:15 +0000</lastBuildDate>
     <item>
       <title>🗞️ Japan's Metaplanet has approved a plan to increase its Bitcoin holdings on the balance sheet.</title>
       <link>https://t.me/news_cryptod/4242</link>
@@ -366,6 +359,13 @@ mt in max</description>
       <description>🇺🇦 Trump and Zelensky are scheduled to meet on Sunday, December 28, at 11:00 PM Moscow time in Palm Beach. Trump has declared that he will be the one setting the terms for Zelensky, emphasizing that any plans from Zelensky hold no value without his endorsement. CNN reports that the EU is worried about possible adverse outcomes from this meeting.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4295</guid>
       <pubDate>Mon, 29 Dec 2025 20:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Former President Trump has urged the US Department of Justice to disclose names from the Epstein ...</title>
+      <link>https://t.me/news_cryptod/4296</link>
+      <description>🇺🇸 Former President Trump has urged the US Department of Justice to disclose names from the Epstein files, asserting that it was Democrats who were involved with Epstein, not Republicans. He also noted the revelation of an extra 1,000,000 pages connected to the Epstein case.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4296</guid>
+      <pubDate>Mon, 29 Dec 2025 21:49:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
