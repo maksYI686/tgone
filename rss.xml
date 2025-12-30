@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 30 Dec 2025 19:08:50 +0000</lastBuildDate>
-    <item>
-      <title>📰 Wall Street achieved a significant milestone with the S&amp;P 500 reaching a record high, reflecting s...</title>
-      <link>https://t.me/news_cryptod/4265</link>
-      <description>📰 Wall Street achieved a significant milestone with the S&amp;P 500 reaching a record high, reflecting strong investor confidence and robust performance in the U.S. stock market.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4265</guid>
-      <pubDate>Sun, 28 Dec 2025 15:41:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 19:32:39 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 The U.S. Department of Justice stated that the complete release of Epstein's documents may requir...</title>
       <link>https://t.me/news_cryptod/4266</link>
@@ -360,6 +353,13 @@ mt in max</description>
       <description>⚠️ According to CNN reports, Israeli Prime Minister Netanyahu is expected to request U.S. approval for a new military operation in Gaza during his meeting with President Trump today.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4318</guid>
       <pubDate>Tue, 30 Dec 2025 18:14:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇷🇺 The General Electric Machine Corporation (GEMC) has revealed plans for an additional share issu...</title>
+      <link>https://t.me/news_cryptod/4319</link>
+      <description>⚠️🇷🇺 The General Electric Machine Corporation (GEMC) has revealed plans for an additional share issuance via a private placement, with a share price established at 766.20 rubles.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4319</guid>
+      <pubDate>Tue, 30 Dec 2025 19:12:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
