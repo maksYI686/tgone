@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 30 Dec 2025 18:01:13 +0000</lastBuildDate>
-    <item>
-      <title>✴️ The crypto project backed by venture capital and co-founded by investors is gaining traction as i...</title>
-      <link>https://t.me/news_cryptod/4264</link>
-      <description>✴️ The crypto project backed by venture capital and co-founded by investors is gaining traction as it prepares for its anticipated ICO in 2026. For more than a year, it has received support from the TON Keeper team and consistently represents 0.3–1% of daily transactions on the TON network. Currently in the early funding stage, MontanaAM is providing exclusive opportunities for early investors. Ring in the New Year by checking out the post.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4264</guid>
-      <pubDate>Sun, 28 Dec 2025 14:43:12 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 18:50:27 +0000</lastBuildDate>
     <item>
       <title>📰 Wall Street achieved a significant milestone with the S&amp;P 500 reaching a record high, reflecting s...</title>
       <link>https://t.me/news_cryptod/4265</link>
@@ -360,6 +353,13 @@ mt in max</description>
       <description>⚠️🇮🇷 According to The Washington Post, Netanyahu is expected to request U.S. approval for new strikes on Iran during a meeting with Trump today.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4317</guid>
       <pubDate>Tue, 30 Dec 2025 17:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ According to CNN reports, Israeli Prime Minister Netanyahu is expected to request U.S. approval f...</title>
+      <link>https://t.me/news_cryptod/4318</link>
+      <description>⚠️ According to CNN reports, Israeli Prime Minister Netanyahu is expected to request U.S. approval for a new military operation in Gaza during his meeting with President Trump today.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4318</guid>
+      <pubDate>Tue, 30 Dec 2025 18:14:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
