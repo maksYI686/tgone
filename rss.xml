@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 30 Dec 2025 08:01:09 +0000</lastBuildDate>
-    <item>
-      <title>📰 Coming Up: The United States is set to release Initial Jobless Claims data at 16:30 Moscow time.</title>
-      <link>https://t.me/news_cryptod/4253</link>
-      <description>📰 Coming Up: The United States is set to release Initial Jobless Claims data at 16:30 Moscow time.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4253</guid>
-      <pubDate>Sun, 28 Dec 2025 04:59:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>📊 The most recent economic report from the United States indicates that initial jobless claims have ...</title>
-      <link>https://t.me/news_cryptod/4254</link>
-      <description>📊 The most recent economic report from the United States indicates that initial jobless claims have reached 214,000, exceeding the anticipated 224,000 and aligning with the prior figure of 224,000. Meanwhile, continuing jobless claims total 1.923 million, slightly higher than the projected 1.900 million, and up from the revised previous count of 1.885 million.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4254</guid>
-      <pubDate>Sun, 28 Dec 2025 05:57:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 08:48:42 +0000</lastBuildDate>
     <item>
       <title>⚠️ The Central Bank reports an increase in inflation expectations in Russia.</title>
       <link>https://t.me/news_cryptod/4255</link>
@@ -360,6 +346,20 @@ mt in max</description>
       <description>⚠️🇩🇪 Germany may encounter significant economic difficulties, as the Federation of German Employers' Associations in the Metal and Electrical Engineering Industries, Gesamtmetall, predicts a decline of tens of thousands of jobs in these sectors by 2026.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4306</guid>
       <pubDate>Tue, 30 Dec 2025 07:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 According to Gas Infrastructure Europe (GIE), as reported by Gazprom, Europe is currently facing a...</title>
+      <link>https://t.me/news_cryptod/4307</link>
+      <description>🛢 According to Gas Infrastructure Europe (GIE), as reported by Gazprom, Europe is currently facing an unprecedented withdrawal of gas from its storage facilities. As of December 25, the region has 66.3 billion cubic meters of gas stored, which is 9.9 billion cubic meters lower than the same time last year. Germany's gas reserves have fallen below 60%, reflecting levels usually observed later in the season, and the only Baltic storage facility is at half capacity.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4307</guid>
+      <pubDate>Tue, 30 Dec 2025 08:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 According to Gas Infrastructure Europe (GIE), as referenced by Gazprom, Europe is facing an unprec...</title>
+      <link>https://t.me/news_cryptod/4308</link>
+      <description>🛢 According to Gas Infrastructure Europe (GIE), as referenced by Gazprom, Europe is facing an unprecedented gas withdrawal from its storage facilities. As of December 25, the continent had 66.3 billion cubic meters of gas in reserve, which is 9.9 billion cubic meters lower than the same time last year. Germany's gas reserves have fallen below 60%, reaching levels usually observed later in the season, and the only Baltic storage facility is currently at half capacity.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4308</guid>
+      <pubDate>Tue, 30 Dec 2025 08:31:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
