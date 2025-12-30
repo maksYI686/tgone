@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 30 Dec 2025 09:14:18 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ The Central Bank reports an increase in inflation expectations in Russia.</title>
-      <link>https://t.me/news_cryptod/4255</link>
-      <description>⚠️ The Central Bank reports an increase in inflation expectations in Russia.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4255</guid>
-      <pubDate>Sun, 28 Dec 2025 06:56:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 09:43:02 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 Russia is increasing its grain export quota for the end of the season due to rising prices. For m...</title>
       <link>https://t.me/news_cryptod/4256</link>
@@ -360,6 +353,13 @@ mt in max</description>
       <description>🛢 According to Gas Infrastructure Europe (GIE), as referenced by Gazprom, Europe is facing an unprecedented gas withdrawal from its storage facilities. As of December 25, the continent had 66.3 billion cubic meters of gas in reserve, which is 9.9 billion cubic meters lower than the same time last year. Germany's gas reserves have fallen below 60%, reaching levels usually observed later in the season, and the only Baltic storage facility is currently at half capacity.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4308</guid>
       <pubDate>Tue, 30 Dec 2025 08:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥✴️ Binance CEO Richard Teng revealed that the exchange's user base has skyrocketed to 275 million, ...</title>
+      <link>https://t.me/news_cryptod/4309</link>
+      <description>💥✴️ Binance CEO Richard Teng revealed that the exchange's user base has skyrocketed to 275 million, up from 170 million in just 1.5 years. He emphasized that this rapid expansion signifies a heightened global awareness and acceptance of cryptocurrencies.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4309</guid>
+      <pubDate>Tue, 30 Dec 2025 09:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
