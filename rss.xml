@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 30 Dec 2025 22:01:13 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ As of January 1, up to 15 million citizens in Russia could be deprived of access to microloans. T...</title>
-      <link>https://t.me/news_cryptod/4268</link>
-      <description>⚠️ As of January 1, up to 15 million citizens in Russia could be deprived of access to microloans. This change comes as Microfinance Organizations (MFOs) will no longer be permitted to utilize their current methods for assessing borrowers' debt burdens, as reported by Vedomosti.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4268</guid>
-      <pubDate>Sun, 28 Dec 2025 18:36:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 30 Dec 2025 22:40:40 +0000</lastBuildDate>
     <item>
       <title>🚗 According to Vedomosti, the Russian government has outlined an updated automotive strategy that ai...</title>
       <link>https://t.me/news_cryptod/4269</link>
@@ -360,6 +353,13 @@ mt in max</description>
       <description>📰 Russian President Vladimir Putin held a meeting to discuss the current situation in the Special Military Operation zone. General Gerasimov reported that Russian forces are achieving successful progress across the entire frontline.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4321</guid>
       <pubDate>Tue, 30 Dec 2025 21:09:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇺🇦 Russian President Putin has directed ongoing efforts in 2026 to expand the security zone along ...</title>
+      <link>https://t.me/news_cryptod/4322</link>
+      <description>⚠️🇺🇦 Russian President Putin has directed ongoing efforts in 2026 to expand the security zone along the Russia-Ukraine border. On December 17, Belousov emphasized that sustaining and accelerating the current pace of progress is a key objective for 2026. mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4322</guid>
+      <pubDate>Tue, 30 Dec 2025 22:07:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
