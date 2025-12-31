@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 31 Dec 2025 07:40:25 +0000</lastBuildDate>
-    <item>
-      <title>🏠 According to Khusnullin, Russia is projected to finish approximately 107 million square meters of ...</title>
-      <link>https://t.me/news_cryptod/4277</link>
-      <description>🏠 According to Khusnullin, Russia is projected to finish approximately 107 million square meters of housing by 2025. He noted that the construction sector has shown robust growth, with expectations for an expansion exceeding 3% this year. "The country is continuing its building efforts," he emphasized, forecasting a slight decrease in housing completions compared to last year, but still aiming for the 107 million square meter target.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4277</guid>
-      <pubDate>Mon, 29 Dec 2025 03:21:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 08:01:20 +0000</lastBuildDate>
     <item>
       <title>⚠️🇷🇺 From January to October, Russian coal companies reported a net loss of 327.9 billion rubles, a ...</title>
       <link>https://t.me/news_cryptod/4278</link>
@@ -360,6 +353,13 @@ mt in max</description>
       <description>💥 SoftBank is set to acquire data center firm DigitalBridge for $4 billion, leading to a 10% surge in DigitalBridge's value following the announcement.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4331</guid>
       <pubDate>Wed, 31 Dec 2025 06:52:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>The board of Russian Railways has authorized the investment program for 2026, which totals 713.6 bil...</title>
+      <link>https://t.me/news_cryptod/4332</link>
+      <description>The board of Russian Railways has authorized the investment program for 2026, which totals 713.6 billion rubles.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4332</guid>
+      <pubDate>Wed, 31 Dec 2025 07:51:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
