@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 31 Dec 2025 09:42:44 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 The Russian Finance Ministry has evaluated the initial outcomes of the 2025 tax reform, indicatin...</title>
-      <link>https://t.me/news_cryptod/4279</link>
-      <description>🇷🇺 The Russian Finance Ministry has evaluated the initial outcomes of the 2025 tax reform, indicating that increasing the corporate profit tax to 25% has produced an additional revenue of 1.7 to 1.75 trillion rubles. For more information, click here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4279</guid>
-      <pubDate>Mon, 29 Dec 2025 05:17:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 31 Dec 2025 10:01:11 +0000</lastBuildDate>
     <item>
       <title>🌟 Tokenization is paving the way for innovative financial tools. MosnarBank has transformed the St. ...</title>
       <link>https://t.me/news_cryptod/4280</link>
@@ -360,6 +353,13 @@ mt in max</description>
       <description>⚠️ Gold has declined by 3%, silver is down 8%, platinum has dropped by 12%, and palladium has seen a 15% decrease. For more information, visit mt в max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4333</guid>
       <pubDate>Wed, 31 Dec 2025 08:49:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔔 Multiple monitoring services indicate that BlackRock is once again moving BTC to exchanges, sugges...</title>
+      <link>https://t.me/news_cryptod/4334</link>
+      <description>🔔 Multiple monitoring services indicate that BlackRock is once again moving BTC to exchanges, suggesting that clients are divesting from the BTC ETF.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4334</guid>
+      <pubDate>Wed, 31 Dec 2025 09:47:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
