@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 01 Jan 2026 19:33:10 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦 The meeting between Trump and Zelensky has been moved to 1:00 PM ET, which is 9:00 PM MSK.</title>
-      <link>https://t.me/news_cryptod/4312</link>
-      <description>🇺🇦 The meeting between Trump and Zelensky has been moved to 1:00 PM ET, which is 9:00 PM MSK.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4312</guid>
-      <pubDate>Tue, 30 Dec 2025 12:25:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 20:00:46 +0000</lastBuildDate>
     <item>
       <title>✴️ Uniswap has burned 100 million UNI tokens, representing a major development in the cryptocurrency...</title>
       <link>https://t.me/news_cryptod/4313</link>
@@ -358,6 +351,13 @@
       <description>🇷🇺 The Ministry of Finance has surpassed its revenue goal from privatization, bringing in 112 billion rubles in 2025. Siluanov stated on Russia-24 that there are plans to either meet or exceed this success in the coming year.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4368</guid>
       <pubDate>Thu, 01 Jan 2026 18:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 Finance Minister Anton Siluanov has announced that the Russian government will create a list of s...</title>
+      <link>https://t.me/news_cryptod/4369</link>
+      <description>🇷🇺 Finance Minister Anton Siluanov has announced that the Russian government will create a list of state-owned companies preparing to enter the stock market. He confirmed on Russia-24 that these companies will proceed with their market listings.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4369</guid>
+      <pubDate>Thu, 01 Jan 2026 19:49:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
