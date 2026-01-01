@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 01 Jan 2026 12:17:27 +0000</lastBuildDate>
-    <item>
-      <title>🚫 The Russian government has prolonged the temporary ban on exporting gasoline, diesel, and other fu...</title>
-      <link>https://t.me/news_cryptod/4305</link>
-      <description>🚫 The Russian government has prolonged the temporary ban on exporting gasoline, diesel, and other fuels until February 28, 2026.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4305</guid>
-      <pubDate>Tue, 30 Dec 2025 06:34:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 13:06:51 +0000</lastBuildDate>
     <item>
       <title>⚠️🇩🇪 Germany may encounter significant economic difficulties, as the Federation of German Employers'...</title>
       <link>https://t.me/news_cryptod/4306</link>
@@ -358,6 +351,13 @@
       <description>📅🇷🇺 The Moscow Exchange has announced its trading schedule for the holiday days in 2026. Find out more here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4361</guid>
       <pubDate>Thu, 01 Jan 2026 12:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>📅🇷🇺 New Year 2026 Trading Schedule: The Moscow Exchange will be closed for trading on December 31, 2...</title>
+      <link>https://t.me/news_cryptod/4362</link>
+      <description>📅🇷🇺 New Year 2026 Trading Schedule: The Moscow Exchange will be closed for trading on December 31, 2025, and on January 1-2 and January 7, 2026. In contrast, the SPB Exchange will remain open and operate continuously during the holiday season.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4362</guid>
+      <pubDate>Thu, 01 Jan 2026 13:01:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
