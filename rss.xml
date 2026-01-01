@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 01 Jan 2026 03:00:37 +0000</lastBuildDate>
-    <item>
-      <title>🇬🇧🇺🇸 According to The Times, London is planning visits for King Charles III and Prince William to th...</title>
-      <link>https://t.me/news_cryptod/4294</link>
-      <description>🇬🇧🇺🇸 According to The Times, London is planning visits for King Charles III and Prince William to the United States in 2026 as part of a "charm offensive" in response to a deadlock in trade deal negotiations.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4294</guid>
-      <pubDate>Mon, 29 Dec 2025 19:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦 Trump and Zelensky are scheduled to meet on Sunday, December 28, at 11:00 PM Moscow time in Palm ...</title>
-      <link>https://t.me/news_cryptod/4295</link>
-      <description>🇺🇦 Trump and Zelensky are scheduled to meet on Sunday, December 28, at 11:00 PM Moscow time in Palm Beach. Trump has declared that he will be the one setting the terms for Zelensky, emphasizing that any plans from Zelensky hold no value without his endorsement. CNN reports that the EU is worried about possible adverse outcomes from this meeting.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4295</guid>
-      <pubDate>Mon, 29 Dec 2025 20:51:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 01 Jan 2026 04:30:13 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 Former President Trump has urged the US Department of Justice to disclose names from the Epstein ...</title>
       <link>https://t.me/news_cryptod/4296</link>
@@ -358,6 +344,20 @@
       <description>🇷🇺 In an interview with "Russia 24," Siluanov predicts a budget deficit for 2025, which is expected to correspond to the planned 2.6% of GDP.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4348</guid>
       <pubDate>Wed, 31 Dec 2025 23:24:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🤖 Elon Musk envisions a future where humanoid robots are everywhere, with China possibly taking the ...</title>
+      <link>https://t.me/news_cryptod/4352</link>
+      <description>🤖 Elon Musk envisions a future where humanoid robots are everywhere, with China possibly taking the lead in making this dream a reality.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4352</guid>
+      <pubDate>Thu, 01 Jan 2026 03:17:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 According to a consensus forecast from Interfax, derived from evaluations by analysts at Russian b...</title>
+      <link>https://t.me/news_cryptod/4353</link>
+      <description>🛢 According to a consensus forecast from Interfax, derived from evaluations by analysts at Russian banks and investment firms, the average price of Brent crude oil is projected to reach $63 per barrel in 2026, with Urals crude anticipated to average $50 per barrel.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4353</guid>
+      <pubDate>Thu, 01 Jan 2026 04:16:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
