@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 02 Jan 2026 04:34:00 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇷🇺 The General Electric Machine Corporation (GEMC) has revealed plans for an additional share issu...</title>
-      <link>https://t.me/news_cryptod/4319</link>
-      <description>⚠️🇷🇺 The General Electric Machine Corporation (GEMC) has revealed plans for an additional share issuance via a private placement, with a share price established at 766.20 rubles.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4319</guid>
-      <pubDate>Tue, 30 Dec 2025 19:12:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 05:15:55 +0000</lastBuildDate>
     <item>
       <title>✴️ Last week, MicroStrategy added 1,229 BTC to its holdings.</title>
       <link>https://t.me/news_cryptod/4320</link>
@@ -358,6 +351,13 @@
       <description>🛢 According to delegates cited by Reuters, OPEC+ countries are anticipated to keep oil production steady during their meeting on January 4.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4377</guid>
       <pubDate>Fri, 02 Jan 2026 03:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🎄 According to the Kremlin, Russian President Vladimir Putin has sent New Year wishes to former U.S....</title>
+      <link>https://t.me/news_cryptod/4378</link>
+      <description>🎄 According to the Kremlin, Russian President Vladimir Putin has sent New Year wishes to former U.S. President Donald Trump.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4378</guid>
+      <pubDate>Fri, 02 Jan 2026 04:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
