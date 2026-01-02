@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 02 Jan 2026 06:01:22 +0000</lastBuildDate>
-    <item>
-      <title>📰 Russian President Vladimir Putin held a meeting to discuss the current situation in the Special Mi...</title>
-      <link>https://t.me/news_cryptod/4321</link>
-      <description>📰 Russian President Vladimir Putin held a meeting to discuss the current situation in the Special Military Operation zone. General Gerasimov reported that Russian forces are achieving successful progress across the entire frontline.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4321</guid>
-      <pubDate>Tue, 30 Dec 2025 21:09:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 02 Jan 2026 06:53:15 +0000</lastBuildDate>
     <item>
       <title>⚠️🇺🇦 Russian President Putin has directed ongoing efforts in 2026 to expand the security zone along ...</title>
       <link>https://t.me/news_cryptod/4322</link>
@@ -358,6 +351,13 @@
       <description>🇺🇸 Meta has purchased the AI startup Manus for $2 billion to strengthen its artificial intelligence initiatives. Learn more about this acquisition.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4379</guid>
       <pubDate>Fri, 02 Jan 2026 05:32:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 The credit rating agency ACRA has maintained AFK Sistema's rating and that of its bonds at the AA...</title>
+      <link>https://t.me/news_cryptod/4380</link>
+      <description>🇷🇺 The credit rating agency ACRA has maintained AFK Sistema's rating and that of its bonds at the AA-(RU)* level, with a negative outlook.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4380</guid>
+      <pubDate>Fri, 02 Jan 2026 06:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
