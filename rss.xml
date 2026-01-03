@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 03 Jan 2026 10:41:26 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Gold and silver prices have declined due to increased margin requirements set by CME, as detailed...</title>
-      <link>https://t.me/news_cryptod/4354</link>
-      <description>⚠️ Gold and silver prices have declined due to increased margin requirements set by CME, as detailed by the WSJ. Analysts at Bogdanoff Market Research suggest that this is only a small part of a larger narrative. For further insights, visit mt in max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4354</guid>
-      <pubDate>Thu, 01 Jan 2026 05:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 11:01:04 +0000</lastBuildDate>
     <item>
       <title>🗞️ Japanese firm Metaplanet announced that it acquired 4,279 BTC in the fourth quarter of 2025. The ...</title>
       <link>https://t.me/news_cryptod/4355</link>
@@ -358,6 +351,13 @@
       <description>🌟 BNB Chain has unveiled its 2026 roadmap. Predictions indicate that while 2025 was noteworthy, 2026 is set to be even more extraordinary.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4408</guid>
       <pubDate>Sat, 03 Jan 2026 09:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇨🇳 Alibaba and the Abu Dhabi Investment Authority (ADIA) are poised to play significant roles as inv...</title>
+      <link>https://t.me/news_cryptod/4409</link>
+      <description>🇨🇳 Alibaba and the Abu Dhabi Investment Authority (ADIA) are poised to play significant roles as investors in the upcoming IPO of AI startup MiniMax, according to BBG reports. Earlier reports indicated that Chinese AI companies MiniMax and Zhipu AI are preparing to go public.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4409</guid>
+      <pubDate>Sat, 03 Jan 2026 10:42:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
