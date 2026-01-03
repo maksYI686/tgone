@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 03 Jan 2026 02:30:18 +0000</lastBuildDate>
-    <item>
-      <title>✴️ The Russian Ministry of Justice has suggested penalties for illegal cryptocurrency mining, which ...</title>
-      <link>https://t.me/news_cryptod/4343</link>
-      <description>✴️ The Russian Ministry of Justice has suggested penalties for illegal cryptocurrency mining, which could include fines of up to 1.5 million rubles or two years of forced labor. In cases of substantial earnings or participation in organized groups, the punishment may increase to a maximum of five years in prison. For further details, click here. Additional updates can be found at mt in max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4343</guid>
-      <pubDate>Wed, 31 Dec 2025 18:32:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 03:48:17 +0000</lastBuildDate>
     <item>
       <title>A subsidiary of Freedom Holding has obtained a brokerage license in Abu Dhabi. You can find more det...</title>
       <link>https://t.me/news_cryptod/4344</link>
@@ -358,6 +351,13 @@
       <description>🛢🇷🇺 In December, gasoline prices for AI-92 in Russia dropped by more than 10% on the stock exchange, while AI-95 prices saw a nearly 20% decline.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4398</guid>
       <pubDate>Sat, 03 Jan 2026 00:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 To assist companies experiencing temporary difficulties, the Bank of Russia has prolonged its rec...</title>
+      <link>https://t.me/news_cryptod/4401</link>
+      <description>🇷🇺 To assist companies experiencing temporary difficulties, the Bank of Russia has prolonged its recommendations for banks to provide support to these borrowers for another six months. — release</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4401</guid>
+      <pubDate>Sat, 03 Jan 2026 02:56:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
