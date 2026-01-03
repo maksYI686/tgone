@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 03 Jan 2026 18:01:05 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺🇺🇸 The Moscow Exchange has introduced two additional securities to its over-the-counter trading pl...</title>
-      <link>https://t.me/news_cryptod/4363</link>
-      <description>🇷🇺🇺🇸 The Moscow Exchange has introduced two additional securities to its over-the-counter trading platform for non-listed stocks, featuring settlements via a central counterparty (CCP).</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4363</guid>
-      <pubDate>Thu, 01 Jan 2026 13:59:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 18:47:14 +0000</lastBuildDate>
     <item>
       <title>⚠️🇺🇦 According to Politico, the European Union has modest expectations for the upcoming meetings bet...</title>
       <link>https://t.me/news_cryptod/4364</link>
@@ -358,6 +351,13 @@
       <description>🪙 Silver prices on Comex have skyrocketed by 8% in a flash.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4416</guid>
       <pubDate>Sat, 03 Jan 2026 17:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Coming Up: The minutes from the most recent FOMC meeting will be released at 10:00 PM MSK.</title>
+      <link>https://t.me/news_cryptod/4417</link>
+      <description>⚠️ Coming Up: The minutes from the most recent FOMC meeting will be released at 10:00 PM MSK.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4417</guid>
+      <pubDate>Sat, 03 Jan 2026 18:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
