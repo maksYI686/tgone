@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 03 Jan 2026 03:48:17 +0000</lastBuildDate>
-    <item>
-      <title>A subsidiary of Freedom Holding has obtained a brokerage license in Abu Dhabi. You can find more det...</title>
-      <link>https://t.me/news_cryptod/4344</link>
-      <description>A subsidiary of Freedom Holding has obtained a brokerage license in Abu Dhabi. You can find more details here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4344</guid>
-      <pubDate>Wed, 31 Dec 2025 19:31:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 03 Jan 2026 04:21:15 +0000</lastBuildDate>
     <item>
       <title>📰 In December, Russia's economic indicators revealed a slight increase in the Services PMI, which ro...</title>
       <link>https://t.me/news_cryptod/4345</link>
@@ -358,6 +351,13 @@
       <description>🇷🇺 To assist companies experiencing temporary difficulties, the Bank of Russia has prolonged its recommendations for banks to provide support to these borrowers for another six months. — release</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4401</guid>
       <pubDate>Sat, 03 Jan 2026 02:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 Developer Samolet has reported remarkable milestones for 2025, having commissioned over 1.2 milli...</title>
+      <link>https://t.me/news_cryptod/4402</link>
+      <description>🇷🇺 Developer Samolet has reported remarkable milestones for 2025, having commissioned over 1.2 million square meters of residential space across 131 buildings, with more than 31,000 keys delivered to customers in Moscow and other regions. The company has also ventured into new cities, including Kazan, Ufa, Yekaterinburg, Rostov-on-Don, and Nizhny Novgorod. A detailed report on the achievements of 2025 and the objectives for 2026 will be unveiled at the Big Day event on January 29.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4402</guid>
+      <pubDate>Sat, 03 Jan 2026 03:54:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
