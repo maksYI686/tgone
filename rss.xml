@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 04 Jan 2026 19:31:28 +0000</lastBuildDate>
-    <item>
-      <title>🇨🇳 China has required chip manufacturers to use at least 50% domestic equipment. — RTRS</title>
-      <link>https://t.me/news_cryptod/4391</link>
-      <description>🇨🇳 China has required chip manufacturers to use at least 50% domestic equipment. — RTRS</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4391</guid>
-      <pubDate>Fri, 02 Jan 2026 17:12:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 20:01:04 +0000</lastBuildDate>
     <item>
       <title>🚨 The Unleash Protocol has experienced a security breach, leading to a loss of $3.9 million.</title>
       <link>https://t.me/news_cryptod/4392</link>
@@ -371,6 +364,13 @@
       <description>📊 Australia's Manufacturing PMI for December remained steady at 51.6, consistent with the prior reading.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4445</guid>
       <pubDate>Sun, 04 Jan 2026 18:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>📉 India's Manufacturing PMI for December dropped to 55, down from 56.6 in the previous month.</title>
+      <link>https://t.me/news_cryptod/4446</link>
+      <description>📉 India's Manufacturing PMI for December dropped to 55, down from 56.6 in the previous month.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4446</guid>
+      <pubDate>Sun, 04 Jan 2026 19:46:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
