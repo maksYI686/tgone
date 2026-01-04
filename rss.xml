@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 04 Jan 2026 08:01:42 +0000</lastBuildDate>
-    <item>
-      <title>🎄 According to the Kremlin, Russian President Vladimir Putin has sent New Year wishes to former U.S....</title>
-      <link>https://t.me/news_cryptod/4378</link>
-      <description>🎄 According to the Kremlin, Russian President Vladimir Putin has sent New Year wishes to former U.S. President Donald Trump.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4378</guid>
-      <pubDate>Fri, 02 Jan 2026 04:34:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 08:45:36 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 Meta has purchased the AI startup Manus for $2 billion to strengthen its artificial intelligence ...</title>
       <link>https://t.me/news_cryptod/4379</link>
@@ -358,6 +351,13 @@
       <description>✴️🇺🇸🇨🇳 Coinbase has alerted the U.S. Senate that China's initiative to permit banks to pay interest on the digital yuan could provide it with a competitive edge on the global stage. Beginning January 1, 2026, China plans to enable banks to offer interest on the digital yuan to encourage its use. Meanwhile, the U.S. has chosen not to introduce a central bank digital currency (CBDC), prioritizing the expansion of dollar-backed stablecoins to boost demand for the dollar.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4432</guid>
       <pubDate>Sun, 04 Jan 2026 07:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 The Russian government has greenlit the national initiative "Technological Support for the Bioeco...</title>
+      <link>https://t.me/news_cryptod/4433</link>
+      <description>🇷🇺 The Russian government has greenlit the national initiative "Technological Support for the Bioeconomy," which is designed to establish a strong foundation for various sectors, including chemistry, food production, energy, healthcare, environmental protection, and agriculture. Denis Manturov has revealed plans to increase bioeconomy production by 96% by 2030, aiming for 40% technological independence in the sector by that time. Earlier, President Putin had set the goal of advancing the bioeconomy by 2031.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4433</guid>
+      <pubDate>Sun, 04 Jan 2026 08:06:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
