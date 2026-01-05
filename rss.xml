@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Jan 2026 03:03:50 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 To assist companies experiencing temporary difficulties, the Bank of Russia has prolonged its rec...</title>
-      <link>https://t.me/news_cryptod/4401</link>
-      <description>🇷🇺 To assist companies experiencing temporary difficulties, the Bank of Russia has prolonged its recommendations for banks to provide support to these borrowers for another six months. — release</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4401</guid>
-      <pubDate>Sat, 03 Jan 2026 02:56:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>🇷🇺 Developer Samolet has reported remarkable milestones for 2025, having commissioned over 1.2 milli...</title>
-      <link>https://t.me/news_cryptod/4402</link>
-      <description>🇷🇺 Developer Samolet has reported remarkable milestones for 2025, having commissioned over 1.2 million square meters of residential space across 131 buildings, with more than 31,000 keys delivered to customers in Moscow and other regions. The company has also ventured into new cities, including Kazan, Ufa, Yekaterinburg, Rostov-on-Don, and Nizhny Novgorod. A detailed report on the achievements of 2025 and the objectives for 2026 will be unveiled at the Big Day event on January 29.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4402</guid>
-      <pubDate>Sat, 03 Jan 2026 03:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 04:37:23 +0000</lastBuildDate>
     <item>
       <title>✴️ In 2026, Sui is set to introduce a new feature for "private transactions." Details here</title>
       <link>https://t.me/news_cryptod/4403</link>
@@ -371,6 +357,20 @@
       <description>⚠️ Former U.S. President Trump declared that the United States stands ready to intervene if Iran resorts to violence against peaceful protesters, signaling a willingness to confront the situation. Protests in Iran, which began on December 28 due to economic hardship, have intensified into widespread unrest, leading to numerous casualties.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4453</guid>
       <pubDate>Mon, 05 Jan 2026 02:34:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 BBG reports that Donald Trump and his family's wealth grew by 70% while he was in office.</title>
+      <link>https://t.me/news_cryptod/4454</link>
+      <description>🇺🇸 BBG reports that Donald Trump and his family's wealth grew by 70% while he was in office.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4454</guid>
+      <pubDate>Mon, 05 Jan 2026 03:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔔 According to a report, Iran's Defense Export Center, Mindex, has suggested the possibility of acce...</title>
+      <link>https://t.me/news_cryptod/4455</link>
+      <description>🔔 According to a report, Iran's Defense Export Center, Mindex, has suggested the possibility of accepting cryptocurrencies as payment for the sale of advanced weaponry.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4455</guid>
+      <pubDate>Mon, 05 Jan 2026 04:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
