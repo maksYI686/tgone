@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Jan 2026 21:01:14 +0000</lastBuildDate>
-    <item>
-      <title>🎉 Germany, Switzerland, Japan, Brazil, and Argentina are celebrating a New Year holiday with no trad...</title>
-      <link>https://t.me/news_cryptod/4420</link>
-      <description>🎉 Germany, Switzerland, Japan, Brazil, and Argentina are celebrating a New Year holiday with no trading activity. Markets in Hong Kong, New Zealand, Australia, and Britain will have early closures. In Russia, trading is suspended on the Moscow Exchange, but the SPB Exchange continues operations. China's Services/Composite PMI for December will be released at 04:30 MSK, while the U.S. will announce Initial Jobless Claims at 16:30 MSK.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4420</guid>
-      <pubDate>Sat, 03 Jan 2026 21:24:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 21:39:59 +0000</lastBuildDate>
     <item>
       <title>📈 Recent economic data from China indicates a notable improvement, with the Composite PMI climbing t...</title>
       <link>https://t.me/news_cryptod/4421</link>
@@ -371,6 +364,13 @@
       <description>🔹 According to Polymarket, the majority of users foresee Bitcoin either climbing to $100,000 or falling to $75,000 by 2026. The probability of Bitcoin reaching $130,000 and exceeding its previous all-time high in 2026 is estimated by participants to be just 35%. For more details, visit Polymarket.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4471</guid>
       <pubDate>Mon, 05 Jan 2026 20:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇺🇸 Tesla has announced a 16% decline in Q4 2025 deliveries compared to the previous year, with a t...</title>
+      <link>https://t.me/news_cryptod/4472</link>
+      <description>⚠️🇺🇸 Tesla has announced a 16% decline in Q4 2025 deliveries compared to the previous year, with a total of 418,227 vehicles delivered, which is below the anticipated 440,907. Throughout 2025, Tesla's total vehicle deliveries reached 1.64 million, just shy of the projected 1.65 million. For more information, check out the report.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4472</guid>
+      <pubDate>Mon, 05 Jan 2026 21:02:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
