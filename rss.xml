@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Jan 2026 11:09:32 +0000</lastBuildDate>
-    <item>
-      <title>🇨🇳 Alibaba and the Abu Dhabi Investment Authority (ADIA) are poised to play significant roles as inv...</title>
-      <link>https://t.me/news_cryptod/4409</link>
-      <description>🇨🇳 Alibaba and the Abu Dhabi Investment Authority (ADIA) are poised to play significant roles as investors in the upcoming IPO of AI startup MiniMax, according to BBG reports. Earlier reports indicated that Chinese AI companies MiniMax and Zhipu AI are preparing to go public.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4409</guid>
-      <pubDate>Sat, 03 Jan 2026 10:42:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jan 2026 11:38:51 +0000</lastBuildDate>
     <item>
       <title>✴️ Cypherpunk has increased its holdings by purchasing an extra 56,400 ZEC tokens, bringing its tota...</title>
       <link>https://t.me/news_cryptod/4410</link>
@@ -371,6 +364,13 @@
       <description>🛢🇪🇺 In 2025, Europe achieved a historic high by importing 142 billion cubic meters of LNG, reflecting a 28% increase compared to the previous year, as reported by Gas Infrastructure Europe (GIE).</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4461</guid>
       <pubDate>Mon, 05 Jan 2026 10:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>In 2025, China imported 22 shipments of LNG from Russian projects that were under sanctions, as repo...</title>
+      <link>https://t.me/news_cryptod/4462</link>
+      <description>In 2025, China imported 22 shipments of LNG from Russian projects that were under sanctions, as reported by RTRS.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4462</guid>
+      <pubDate>Mon, 05 Jan 2026 11:19:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
