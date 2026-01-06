@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Jan 2026 23:38:43 +0000</lastBuildDate>
-    <item>
-      <title>🎄🇺🇸 Former President Donald Trump will be attending a New Year's Eve party tonight at 7:30 PM ET. Th...</title>
-      <link>https://t.me/news_cryptod/4424</link>
-      <description>🎄🇺🇸 Former President Donald Trump will be attending a New Year's Eve party tonight at 7:30 PM ET. This event is expected to draw considerable media attention, underscoring the ongoing public and political fascination with Trump's engagements.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4424</guid>
-      <pubDate>Sun, 04 Jan 2026 00:19:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 06 Jan 2026 00:44:35 +0000</lastBuildDate>
     <item>
       <title>⚠️ Israeli Prime Minister Netanyahu informed Fox News that Iran has restarted its ballistic missile ...</title>
       <link>https://t.me/news_cryptod/4426</link>
@@ -371,6 +364,13 @@
       <description>⚠️ Ukrainian President Zelensky has announced that he has appointed Budanov, the head of military intelligence, as the new head of the presidential office after Yermak's dismissal due to corruption allegations. Budanov has accepted the position.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4474</guid>
       <pubDate>Mon, 05 Jan 2026 22:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>📈 The S&amp;P Manufacturing PMI for December in the United States came in at 51.8, just under the antici...</title>
+      <link>https://t.me/news_cryptod/4475</link>
+      <description>📈 The S&amp;P Manufacturing PMI for December in the United States came in at 51.8, just under the anticipated 52.2.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4475</guid>
+      <pubDate>Mon, 05 Jan 2026 23:57:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
