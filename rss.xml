@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 08 Jan 2026 19:37:28 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇻🇪 Venezuela is at the forefront of discussions, with significant concerns being raised. According...</title>
-      <link>https://t.me/news_cryptod/4495</link>
-      <description>⚠️🇻🇪 Venezuela is at the forefront of discussions, with significant concerns being raised. According to Sky News, Maduro's departure was described as a "coordinated exit with the US."</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4495</guid>
-      <pubDate>Tue, 06 Jan 2026 19:24:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 08 Jan 2026 20:01:26 +0000</lastBuildDate>
     <item>
       <title>⚠️🇻🇪 In a New Year press conference, Trump announced that Maduro is no longer recognized as the pres...</title>
       <link>https://t.me/news_cryptod/4496</link>
@@ -358,6 +351,13 @@
       <description>🛢 Two prominent oil companies, Shell and BP, are said to be planning their return to Venezuela after the removal of Maduro. The Telegraph reports that both firms are developing strategies to tap into the country's abundant oil reserves.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4544</guid>
       <pubDate>Thu, 08 Jan 2026 19:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Russian stocks are experiencing volatility, with the IMOEX index falling by 1%. Meanwhile, oil pr...</title>
+      <link>https://t.me/news_cryptod/4545</link>
+      <description>⚠️ Russian stocks are experiencing volatility, with the IMOEX index falling by 1%. Meanwhile, oil prices are decreasing in response to U.S. actions in Venezuela. A proposed U.S. bill may enable Trump to impose tariffs on nations buying Russian oil. Furthermore, Trump has had discussions with Congress members regarding possible new sanctions against Russia. For more details, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4545</guid>
+      <pubDate>Thu, 08 Jan 2026 20:01:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
