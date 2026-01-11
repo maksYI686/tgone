@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 11 Jan 2026 10:01:02 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ A spokesperson has stated that the European Union sees a chance for democratic reforms in Venezue...</title>
-      <link>https://t.me/news_cryptod/4561</link>
-      <description>⚠️ A spokesperson has stated that the European Union sees a chance for democratic reforms in Venezuela. In related news, Switzerland has frozen assets associated with Maduro. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4561</guid>
-      <pubDate>Fri, 09 Jan 2026 11:34:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Jan 2026 10:42:11 +0000</lastBuildDate>
     <item>
       <title>⚠️🇬🇱 Europe and Britain have subtly endorsed the U.S. strategy regarding Venezuela, now asserting th...</title>
       <link>https://t.me/news_cryptod/4562</link>
@@ -358,6 +351,13 @@
       <description>🇺🇸 Discord has submitted its application for an IPO in the United States.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4610</guid>
       <pubDate>Sun, 11 Jan 2026 09:16:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢🇺🇸🇻🇪 According to Axios, citing sources from the White House, the United States is more focused on ...</title>
+      <link>https://t.me/news_cryptod/4611</link>
+      <description>🛢🇺🇸🇻🇪 According to Axios, citing sources from the White House, the United States is more focused on securing oil supplies from Venezuela and maintaining the loyalty of its leadership than on facilitating elections in the country.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4611</guid>
+      <pubDate>Sun, 11 Jan 2026 10:14:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
