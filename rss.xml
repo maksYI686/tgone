@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Jan 2026 02:58:35 +0000</lastBuildDate>
-    <item>
-      <title>📊 India's services sector activity has fallen to an 11-month low, with the Services PMI declining to...</title>
-      <link>https://t.me/news_cryptod/4579</link>
-      <description>📊 India's services sector activity has fallen to an 11-month low, with the Services PMI declining to 58 from a previous 59.8. Additionally, the Composite PMI has also decreased, currently at 58 compared to the earlier 59.7.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4579</guid>
-      <pubDate>Sat, 10 Jan 2026 04:06:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 04:08:05 +0000</lastBuildDate>
     <item>
       <title>⚠️✴️🇺🇸 The TD Cowen report suggests that the enactment of the CLARITY Act, which deals with the cryp...</title>
       <link>https://t.me/news_cryptod/4580</link>
@@ -367,6 +360,13 @@ Additionally, it's the final day for dividends for TATN.</description>
       <description>⚠️🇷🇺 Russian stocks experienced a downturn, with the IMOEX index decreasing by 0.8%. This decline comes in response to the potential imposition of new sanctions by the United States against Russia.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4628</guid>
       <pubDate>Mon, 12 Jan 2026 02:46:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇺🇸 Widespread protests break out across the U.S. in response to the fatal shooting of a woman by a...</title>
+      <link>https://t.me/news_cryptod/4629</link>
+      <description>⚠️🇺🇸 Widespread protests break out across the U.S. in response to the fatal shooting of a woman by an ICE officer during an operation conducted by U.S. Immigration and Customs Enforcement.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4629</guid>
+      <pubDate>Mon, 12 Jan 2026 03:44:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
