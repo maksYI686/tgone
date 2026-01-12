@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Jan 2026 04:08:05 +0000</lastBuildDate>
-    <item>
-      <title>⚠️✴️🇺🇸 The TD Cowen report suggests that the enactment of the CLARITY Act, which deals with the cryp...</title>
-      <link>https://t.me/news_cryptod/4580</link>
-      <description>⚠️✴️🇺🇸 The TD Cowen report suggests that the enactment of the CLARITY Act, which deals with the cryptocurrency market framework in the U.S., could be delayed until 2027, with complete implementation possibly pushed to 2029. This timeline depends on whether political hurdles are addressed within this year.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4580</guid>
-      <pubDate>Sat, 10 Jan 2026 05:04:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 05:02:54 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 AMD showcased its latest chips at the CES event in Las Vegas.</title>
       <link>https://t.me/news_cryptod/4581</link>
@@ -367,6 +360,13 @@ Additionally, it's the final day for dividends for TATN.</description>
       <description>⚠️🇺🇸 Widespread protests break out across the U.S. in response to the fatal shooting of a woman by an ICE officer during an operation conducted by U.S. Immigration and Customs Enforcement.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4629</guid>
       <pubDate>Mon, 12 Jan 2026 03:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌟 The Governor has announced that Wyoming is now offering its stablecoin, the Frontier Stable Token ...</title>
+      <link>https://t.me/news_cryptod/4630</link>
+      <description>🌟 The Governor has announced that Wyoming is now offering its stablecoin, the Frontier Stable Token (FRNT), to the public.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4630</guid>
+      <pubDate>Mon, 12 Jan 2026 04:42:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
