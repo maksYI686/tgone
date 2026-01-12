@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 12 Jan 2026 13:12:22 +0000</lastBuildDate>
-    <item>
-      <title>🌫 Nickel prices jumped 10% during trading in London, representing the biggest daily rise since Decem...</title>
-      <link>https://t.me/news_cryptod/4590</link>
-      <description>🌫 Nickel prices jumped 10% during trading in London, representing the biggest daily rise since December 2022.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4590</guid>
-      <pubDate>Sat, 10 Jan 2026 14:47:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 12 Jan 2026 13:55:34 +0000</lastBuildDate>
     <item>
       <title>🎄 Kazakhstan celebrates Christmas with markets closed. The Moscow Exchange in Russia is also closed,...</title>
       <link>https://t.me/news_cryptod/4591</link>
@@ -367,6 +360,13 @@ Additionally, it's the final day for dividends for TATN.</description>
       <description>🚨 Reminder: The EIA's US gas reserves report is anticipated to be released at 6:30 PM Moscow time.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4639</guid>
       <pubDate>Mon, 12 Jan 2026 12:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ According to CNBC, the Senate is set to vote today on a measure that would prevent former Preside...</title>
+      <link>https://t.me/news_cryptod/4640</link>
+      <description>⚠️ According to CNBC, the Senate is set to vote today on a measure that would prevent former President Trump from carrying out any additional military strikes on Venezuela.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4640</guid>
+      <pubDate>Mon, 12 Jan 2026 13:27:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
