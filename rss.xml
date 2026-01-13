@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 13 Jan 2026 09:46:31 +0000</lastBuildDate>
-    <item>
-      <title>✴️ Ripple has announced that it has no intention of pursuing an IPO, citing ample funds to support i...</title>
-      <link>https://t.me/news_cryptod/4613</link>
-      <description>✴️ Ripple has announced that it has no intention of pursuing an IPO, citing ample funds to support its activities and investments. In November 2025, the company successfully raised $500 million, bringing its valuation to $40 billion.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4613</guid>
-      <pubDate>Sun, 11 Jan 2026 12:11:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 10:01:31 +0000</lastBuildDate>
     <item>
       <title>📰 The most recent JOLTS report indicates that the number of job openings in the U.S. for November is...</title>
       <link>https://t.me/news_cryptod/4614</link>
@@ -360,6 +353,13 @@ Additionally, it's the final day for dividends for TATN.</description>
       <description>⚠️🇺🇸 According to BBG, traders have completely factored in a "pause" by the Federal Reserve during the January meeting, following a recent jobs report. For more information, visit mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4662</guid>
       <pubDate>Tue, 13 Jan 2026 08:54:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚖️ The US Supreme Court is anticipated to release a decision or make comments regarding Trump's tari...</title>
+      <link>https://t.me/news_cryptod/4663</link>
+      <description>⚖️ The US Supreme Court is anticipated to release a decision or make comments regarding Trump's tariffs shortly after 18:00 MSK. Polymarket estimates suggest there is only a 26% likelihood that the Court will uphold the tariffs. Bessent and others have argued that if the tariffs are ruled illegal, the Trump administration will explore other avenues to sustain existing tariffs and implement new ones. For more information, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4663</guid>
+      <pubDate>Tue, 13 Jan 2026 09:52:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
