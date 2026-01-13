@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 13 Jan 2026 22:01:29 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇷🇺 Russian stocks experienced a downturn, with the IMOEX index decreasing by 0.8%. This decline co...</title>
-      <link>https://t.me/news_cryptod/4628</link>
-      <description>⚠️🇷🇺 Russian stocks experienced a downturn, with the IMOEX index decreasing by 0.8%. This decline comes in response to the potential imposition of new sanctions by the United States against Russia.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4628</guid>
-      <pubDate>Mon, 12 Jan 2026 02:46:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Jan 2026 22:43:39 +0000</lastBuildDate>
     <item>
       <title>⚠️🇺🇸 Widespread protests break out across the U.S. in response to the fatal shooting of a woman by a...</title>
       <link>https://t.me/news_cryptod/4629</link>
@@ -351,6 +344,13 @@
       <description>🗞️ American startup Praxis has unveiled its vision to convert Greenland into a cryptocurrency state. Meanwhile, U.S. cryptocurrency specialists predict that the U.S. will establish Greenland as a key hub for cryptocurrency mining. In related news, Trump emphasized the inevitability of Greenland's annexation yesterday. Learn more</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4677</guid>
       <pubDate>Tue, 13 Jan 2026 21:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>✴️ Tether has partnered with the United Nations Office on Drugs and Crime to strengthen efforts agai...</title>
+      <link>https://t.me/news_cryptod/4678</link>
+      <description>✴️ Tether has partnered with the United Nations Office on Drugs and Crime to strengthen efforts against cybercrime in Africa and improve awareness of digital asset security. For further information, check out the official announcement on Tether's website.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4678</guid>
+      <pubDate>Tue, 13 Jan 2026 22:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
