@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 15 Jan 2026 09:15:46 +0000</lastBuildDate>
-    <item>
-      <title>⚖️ The US Supreme Court is anticipated to release a decision or make comments regarding Trump's tari...</title>
-      <link>https://t.me/news_cryptod/4663</link>
-      <description>⚖️ The US Supreme Court is anticipated to release a decision or make comments regarding Trump's tariffs shortly after 18:00 MSK. Polymarket estimates suggest there is only a 26% likelihood that the Court will uphold the tariffs. Bessent and others have argued that if the tariffs are ruled illegal, the Trump administration will explore other avenues to sustain existing tariffs and implement new ones. For more information, click here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4663</guid>
-      <pubDate>Tue, 13 Jan 2026 09:52:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 15 Jan 2026 09:45:54 +0000</lastBuildDate>
     <item>
       <title>🛢 According to media reports and expert analysts, the oil market is currently taking into account th...</title>
       <link>https://t.me/news_cryptod/4664</link>
@@ -358,6 +351,13 @@
       <description>⚠️ Scandinavian nations assert that Trump is misrepresenting the situation, as there are no Russian or Chinese vessels in proximity to Greenland, according to the Financial Times. Nevertheless, concerns linger in Denmark. Trump had earlier claimed that Greenland requires safeguarding from Russia and China. Find out more.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4713</guid>
       <pubDate>Thu, 15 Jan 2026 08:32:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚀 According to Santiment, crypto projects focused on tokenization are experiencing the most signific...</title>
+      <link>https://t.me/news_cryptod/4714</link>
+      <description>🚀 According to Santiment, crypto projects focused on tokenization are experiencing the most significant developer activity at present. Bitwise highlights that tokenization is becoming increasingly tangible, with real assets such as stocks and bonds being moved onto the blockchain. They predict this will lead to the emergence of a multi-trillion-dollar industry in the future.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4714</guid>
+      <pubDate>Thu, 15 Jan 2026 09:31:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
