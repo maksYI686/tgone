@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 16 Jan 2026 12:01:25 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ According to reports from The Wall Street Journal, Israeli officials are gearing up for a signifi...</title>
-      <link>https://t.me/news_cryptod/4693</link>
-      <description>⚠️ According to reports from The Wall Street Journal, Israeli officials are gearing up for a significant military operation in Gaza due to Hamas's ongoing refusal to fully disarm under the ceasefire agreement established for 2025. The Times of Israel suggests that this offensive in the Gaza Strip could begin as soon as March. In earlier statements on Fox News, Netanyahu emphasized the necessity of eliminating Hamas. Additionally, Trump issued a warning in late 2025, stating that Hamas would face serious repercussions if it did not comply with disarmament. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4693</guid>
-      <pubDate>Wed, 14 Jan 2026 13:06:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 13:09:38 +0000</lastBuildDate>
     <item>
       <title>⚠️🇬🇱 In light of escalating geopolitical tensions, President Trump has allegedly instructed the mili...</title>
       <link>https://t.me/news_cryptod/4694</link>
@@ -358,6 +351,13 @@
       <description>💥 Alphabet's market capitalization has surpassed the $4 trillion milestone.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4743</guid>
       <pubDate>Fri, 16 Jan 2026 11:46:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸🇹🇼 According to The New York Times, the United States and Taiwan are close to finalizing a trade a...</title>
+      <link>https://t.me/news_cryptod/4744</link>
+      <description>🇺🇸🇹🇼 According to The New York Times, the United States and Taiwan are close to finalizing a trade agreement. TSMC plans to construct factories in the U.S., and American tariffs on Taiwanese products could be reduced to 15%.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4744</guid>
+      <pubDate>Fri, 16 Jan 2026 12:44:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
