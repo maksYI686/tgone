@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 16 Jan 2026 03:56:17 +0000</lastBuildDate>
-    <item>
-      <title>🇬🇧 According to The Guardian, the UK achieved its highest-ever sales of Bibles in 2025 since records...</title>
-      <link>https://t.me/news_cryptod/4684</link>
-      <description>🇬🇧 According to The Guardian, the UK achieved its highest-ever sales of Bibles in 2025 since records started. mt в max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4684</guid>
-      <pubDate>Wed, 14 Jan 2026 04:21:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 16 Jan 2026 04:31:45 +0000</lastBuildDate>
     <item>
       <title>🔔 According to Fox News, the United States is carrying out strikes against ISIS targets in Syria, a ...</title>
       <link>https://t.me/news_cryptod/4685</link>
@@ -358,6 +351,13 @@
       <description>🛢️ Gazprom has achieved a historic milestone by delivering the highest daily gas supplies to China via the Power of Siberia pipeline.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4733</guid>
       <pubDate>Fri, 16 Jan 2026 03:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚫🇷🇺🇺🇸 According to Roskomnadzor, Roblox will not be unblocked in Russia in the near future, as there...</title>
+      <link>https://t.me/news_cryptod/4734</link>
+      <description>🚫🇷🇺🇺🇸 According to Roskomnadzor, Roblox will not be unblocked in Russia in the near future, as there are no justifiable reasons for doing so, as reported by RT.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4734</guid>
+      <pubDate>Fri, 16 Jan 2026 03:59:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
