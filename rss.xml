@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 16 Jan 2026 23:38:00 +0000</lastBuildDate>
-    <item>
-      <title>⚠️✴️ According to SoSoValue data, there are currently no stable inflows into spot BTC ETFs. Inflows ...</title>
-      <link>https://t.me/news_cryptod/4706</link>
-      <description>⚠️✴️ According to SoSoValue data, there are currently no stable inflows into spot BTC ETFs. Inflows into these ETFs are seen as a crucial bullish factor for BTC. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4706</guid>
-      <pubDate>Thu, 15 Jan 2026 01:44:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 17 Jan 2026 00:42:42 +0000</lastBuildDate>
     <item>
       <title>✴️ Binance founder CZ hints that a crypto supercycle could be on the horizon. mt в max</title>
       <link>https://t.me/news_cryptod/4707</link>
@@ -360,6 +353,13 @@ Lukoil is set to review its results for 2025. In the U.S., the "official" earnin
       <description>🇷🇺 MTS Bank has purchased RNKB Insurance. For more information, click here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4756</guid>
       <pubDate>Fri, 16 Jan 2026 23:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 In late January, the U.S. Senate Banking Committee is set to vote on the CLARITY Act, a pivotal p...</title>
+      <link>https://t.me/news_cryptod/4757</link>
+      <description>🇺🇸 In late January, the U.S. Senate Banking Committee is set to vote on the CLARITY Act, a pivotal piece of legislation regarding cryptocurrency regulation. SEC Chief Paul Atkins highlighted its significance, asserting that the bipartisan bill would safeguard against unethical regulatory practices. The legislation seeks to clarify the classification of cryptocurrencies as either securities or commodities, thereby alleviating ambiguity in U.S. crypto regulation. Learn more.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4757</guid>
+      <pubDate>Sat, 17 Jan 2026 00:24:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
