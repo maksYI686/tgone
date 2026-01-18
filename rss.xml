@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 18 Jan 2026 05:13:32 +0000</lastBuildDate>
-    <item>
-      <title>📈 In December, the trading volume on the Moscow Exchange rose year-on-year to 194.4 trillion rubles,...</title>
-      <link>https://t.me/news_cryptod/4741</link>
-      <description>📈 In December, the trading volume on the Moscow Exchange rose year-on-year to 194.4 trillion rubles, up from 142.3 trillion rubles in the previous year. Read the report</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4741</guid>
-      <pubDate>Fri, 16 Jan 2026 09:49:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 18 Jan 2026 05:43:22 +0000</lastBuildDate>
     <item>
       <title>🇲🇽 In a recent statement, President Sheinbaum emphasized that a U.S. invasion of Mexico is not a pos...</title>
       <link>https://t.me/news_cryptod/4742</link>
@@ -360,6 +353,13 @@ Lukoil is set to review its results for 2025. In the U.S., the "official" earnin
       <description>⚠️🇺🇦 Lavrov states that Macron is focused on public relations rather than offering substantial proposals for dialogue.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4790</guid>
       <pubDate>Sun, 18 Jan 2026 04:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Former President Trump forecasts substantial economic growth for the United States, projecting th...</title>
+      <link>https://t.me/news_cryptod/4791</link>
+      <description>🇺🇸 Former President Trump forecasts substantial economic growth for the United States, projecting that the GDP will increase by over 5%.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4791</guid>
+      <pubDate>Sun, 18 Jan 2026 05:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
