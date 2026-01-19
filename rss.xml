@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Jan 2026 22:01:14 +0000</lastBuildDate>
-    <item>
-      <title>📈 In December, SPB Exchange announced an all-time high in trading volume for Russian securities, tot...</title>
-      <link>https://t.me/news_cryptod/4787</link>
-      <description>📈 In December, SPB Exchange announced an all-time high in trading volume for Russian securities, totaling 193.5 billion rubles. This represents a 33.56% increase compared to the previous month and an impressive 59-fold surge year-over-year. Additionally, the number of active investor accounts reached 1.86 million, showcasing a 14.66% month-over-month growth and a remarkable 37-fold increase compared to the same period last year.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4787</guid>
-      <pubDate>Sun, 18 Jan 2026 01:41:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 22:42:28 +0000</lastBuildDate>
     <item>
       <title>💥✴️ Analysts report that developer activity for BTC in 2025 has risen by 20% compared to the previou...</title>
       <link>https://t.me/news_cryptod/4788</link>
@@ -365,6 +358,13 @@
       <description>⚠️🇬🇱 The French Finance Minister warns that any effort to annex Greenland would cross a "red line" and jeopardize economic relations between the U.S. and Europe.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4836</guid>
       <pubDate>Mon, 19 Jan 2026 21:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>💥 Russian stocks experienced a significant boost as RUAL rose by 5% during trading in Hong Kong.</title>
+      <link>https://t.me/news_cryptod/4837</link>
+      <description>💥 Russian stocks experienced a significant boost as RUAL rose by 5% during trading in Hong Kong.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4837</guid>
+      <pubDate>Mon, 19 Jan 2026 22:24:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
