@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Jan 2026 16:13:14 +0000</lastBuildDate>
-    <item>
-      <title>💥 The Nikkei 225 Index in Japan has reached an all-time high, exceeding 54,000 points.</title>
-      <link>https://t.me/news_cryptod/4781</link>
-      <description>💥 The Nikkei 225 Index in Japan has reached an all-time high, exceeding 54,000 points.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4781</guid>
-      <pubDate>Sat, 17 Jan 2026 20:49:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 16:52:16 +0000</lastBuildDate>
     <item>
       <title>🇯🇵 The Japanese yen has depreciated against the dollar, reaching its lowest level since July 2024, a...</title>
       <link>https://t.me/news_cryptod/4782</link>
@@ -365,6 +358,13 @@
       <description>⚠️🇬🇧 The UK has put forward a proposal for NATO to create a special mission called "Arctic Sentinel" aimed at bolstering security in the region, including the safeguarding of Greenland. This was announced by UK Foreign Secretary Yvette Cooper during an interview with The Daily Mirror. Cooper highlighted the Arctic's strategic significance as a potential pathway for Russia's Northern Fleet, which could pose risks to both the UK and transatlantic security.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4830</guid>
       <pubDate>Mon, 19 Jan 2026 15:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ According to Politico, the UK is against France and Italy's attempts to engage in negotiations wi...</title>
+      <link>https://t.me/news_cryptod/4831</link>
+      <description>⚠️ According to Politico, the UK is against France and Italy's attempts to engage in negotiations with Russia.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4831</guid>
+      <pubDate>Mon, 19 Jan 2026 16:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
