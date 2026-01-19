@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Jan 2026 06:20:14 +0000</lastBuildDate>
-    <item>
-      <title>📰 Former President Trump is set to deliver a statement about Iran today.</title>
-      <link>https://t.me/news_cryptod/4770</link>
-      <description>📰 Former President Trump is set to deliver a statement about Iran today.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4770</guid>
-      <pubDate>Sat, 17 Jan 2026 11:06:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 07:00:03 +0000</lastBuildDate>
     <item>
       <title>⚠️ President Trump has advised Americans to think about evacuating from Iran. When questioned about ...</title>
       <link>https://t.me/news_cryptod/4771</link>
@@ -358,6 +351,13 @@
       <description>⚠️ The U.S. Supreme Court has dismissed Russia's appeal in the Yukos case, which concerns $50 billion. Learn more.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4819</guid>
       <pubDate>Mon, 19 Jan 2026 05:52:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>✴️ The CEO of Bank of America has suggested that as much as $6 trillion, roughly one-third of total ...</title>
+      <link>https://t.me/news_cryptod/4820</link>
+      <description>✴️ The CEO of Bank of America has suggested that as much as $6 trillion, roughly one-third of total U.S. bank deposits, could shift into stablecoins. These stablecoins are anticipated to begin providing interest rates comparable to those of traditional bank deposits.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4820</guid>
+      <pubDate>Mon, 19 Jan 2026 06:51:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
