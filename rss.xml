@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Jan 2026 11:40:07 +0000</lastBuildDate>
-    <item>
-      <title>✴️ This week, Cryptorank showcases important events in the cryptocurrency space.</title>
-      <link>https://t.me/news_cryptod/4775</link>
-      <description>✴️ This week, Cryptorank showcases important events in the cryptocurrency space.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4775</guid>
-      <pubDate>Sat, 17 Jan 2026 15:57:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 12:19:29 +0000</lastBuildDate>
     <item>
       <title>⚠️ Former US President Donald Trump urged Iran to act appropriately, calling on its leaders to demon...</title>
       <link>https://t.me/news_cryptod/4776</link>
@@ -358,6 +351,13 @@
       <description>🔔 The United States and Taiwan have finalized a trade agreement, which includes the US lowering tariffs on Taiwanese goods to 15%. In exchange, Taiwan will invest $250 billion in the United States.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4824</guid>
       <pubDate>Mon, 19 Jan 2026 10:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Advisors have cautioned Trump that a major military strike on Iran is unlikely to lead to regime ...</title>
+      <link>https://t.me/news_cryptod/4825</link>
+      <description>⚠️ Advisors have cautioned Trump that a major military strike on Iran is unlikely to lead to regime change and could trigger a wider conflict in the region. To execute a substantial attack and safeguard American forces and allies such as Israel in the event of Iranian retaliation, the U.S. would require an increased military presence in the Middle East. Trump is currently assessing Tehran's reaction to ongoing protests before making any decisions regarding a potential strike. — WSJ</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4825</guid>
+      <pubDate>Mon, 19 Jan 2026 11:42:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
