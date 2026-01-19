@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Jan 2026 14:19:55 +0000</lastBuildDate>
-    <item>
-      <title>🌎 In the most recent foreign exchange update, the US dollar is valued at 6.97 against the Chinese Yu...</title>
-      <link>https://t.me/news_cryptod/4778</link>
-      <description>🌎 In the most recent foreign exchange update, the US dollar is valued at 6.97 against the Chinese Yuan (USDCNY) and at 79.90 against the Russian Ruble (USDTRUB).</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4778</guid>
-      <pubDate>Sat, 17 Jan 2026 18:52:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 14:50:04 +0000</lastBuildDate>
     <item>
       <title>🌟 China's trade data shows an impressive year-on-year export growth of 6.6% in December, outpacing t...</title>
       <link>https://t.me/news_cryptod/4779</link>
@@ -365,6 +358,13 @@
       <description>🌎 In the forex market, the US dollar is currently valued at 6.96 against the Chinese yuan and 79.10 against the Russian ruble.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4827</guid>
       <pubDate>Mon, 19 Jan 2026 13:39:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Venezuelan opposition leader Maria Machado presented her Nobel Peace Prize to Trump.</title>
+      <link>https://t.me/news_cryptod/4828</link>
+      <description>🇺🇸 Venezuelan opposition leader Maria Machado presented her Nobel Peace Prize to Trump.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4828</guid>
+      <pubDate>Mon, 19 Jan 2026 14:37:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
