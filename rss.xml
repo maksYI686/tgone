@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Jan 2026 13:14:48 +0000</lastBuildDate>
-    <item>
-      <title>🗓 Important happenings on January 14, 2026, feature a U.S. Supreme Court ruling regarding Trump's ta...</title>
-      <link>https://t.me/news_cryptod/4777</link>
-      <description>🗓 Important happenings on January 14, 2026, feature a U.S. Supreme Court ruling regarding Trump's tariffs and a U.S.-Denmark meeting in Greenland. Throughout the day, China will release its trade data, while the U.S. will unveil its Producer Price Index (PPI), retail sales, and home sales figures. Additionally, the BNB Chain upgrade and Russian financial activities, including CPI data and bond auctions, are scheduled. Notable corporate earnings reports will come from GloraX, Wells Fargo, Bank of America, and Citigroup.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4777</guid>
-      <pubDate>Sat, 17 Jan 2026 17:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 13:57:11 +0000</lastBuildDate>
     <item>
       <title>🌎 In the most recent foreign exchange update, the US dollar is valued at 6.97 against the Chinese Yu...</title>
       <link>https://t.me/news_cryptod/4778</link>
@@ -365,6 +358,13 @@
 - Walmart will be added to the Nasdaq 100, while AstraZeneca will be removed; these changes will take effect before the market opens on January 20.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4826</guid>
       <pubDate>Mon, 19 Jan 2026 12:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌎 In the forex market, the US dollar is currently valued at 6.96 against the Chinese yuan and 79.10 ...</title>
+      <link>https://t.me/news_cryptod/4827</link>
+      <description>🌎 In the forex market, the US dollar is currently valued at 6.96 against the Chinese yuan and 79.10 against the Russian ruble.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4827</guid>
+      <pubDate>Mon, 19 Jan 2026 13:39:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
