@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 19 Jan 2026 08:16:38 +0000</lastBuildDate>
-    <item>
-      <title>🚗 President Trump is expected to make a statement about Ford, according to the White House. This ann...</title>
-      <link>https://t.me/news_cryptod/4772</link>
-      <description>🚗 President Trump is expected to make a statement about Ford, according to the White House. This announcement comes as he visits the Ford plant in Detroit today.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4772</guid>
-      <pubDate>Sat, 17 Jan 2026 13:02:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Jan 2026 08:53:22 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 Former President Trump is scheduled to deliver another speech, highlighting the U.S. economy, pos...</title>
       <link>https://t.me/news_cryptod/4773</link>
@@ -358,6 +351,13 @@
       <description>🇺🇸🇨🇳 Ford and BYD are currently negotiating a potential agreement for battery supply for hybrid vehicles. Should the deal be finalized, Ford will source BYD batteries for its facilities located outside of the United States. For more information, check out the article on WSJ.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4821</guid>
       <pubDate>Mon, 19 Jan 2026 07:49:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 In 2025, the six biggest American banks allocated more than $140 billion toward dividends and buy...</title>
+      <link>https://t.me/news_cryptod/4822</link>
+      <description>🇺🇸 In 2025, the six biggest American banks allocated more than $140 billion toward dividends and buybacks, exceeding the previous record established in 2019 during Trump's first term.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4822</guid>
+      <pubDate>Mon, 19 Jan 2026 08:47:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
