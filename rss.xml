@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 21 Jan 2026 07:22:33 +0000</lastBuildDate>
-    <item>
-      <title>✴️ The CEO of Bank of America has suggested that as much as $6 trillion, roughly one-third of total ...</title>
-      <link>https://t.me/news_cryptod/4820</link>
-      <description>✴️ The CEO of Bank of America has suggested that as much as $6 trillion, roughly one-third of total U.S. bank deposits, could shift into stablecoins. These stablecoins are anticipated to begin providing interest rates comparable to those of traditional bank deposits.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4820</guid>
-      <pubDate>Mon, 19 Jan 2026 06:51:07 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Jan 2026 07:46:49 +0000</lastBuildDate>
     <item>
       <title>🇺🇸🇨🇳 Ford and BYD are currently negotiating a potential agreement for battery supply for hybrid vehi...</title>
       <link>https://t.me/news_cryptod/4821</link>
@@ -365,6 +358,13 @@
       <description>⚠️ Former President Trump has advocated for a leadership change in Iran. The U.S. State Department has issued a warning of a "very, very powerful" response to any attacks on American bases. Reports from Israel's Channel 12 suggest that an assault on Iran is viewed as imminent, with the U.S. allegedly gearing up for military action.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4870</guid>
       <pubDate>Wed, 21 Jan 2026 06:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Today, the EU held an emergency meeting in Brussels in response to Trump's threats to impose tari...</title>
+      <link>https://t.me/news_cryptod/4871</link>
+      <description>⚠️ Today, the EU held an emergency meeting in Brussels in response to Trump's threats to impose tariffs related to Greenland. A coalition of U.S. Republican lawmakers has voiced their opposition to Trump's decision to introduce these tariffs in light of the ongoing situation involving Greenland.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4871</guid>
+      <pubDate>Wed, 21 Jan 2026 07:27:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
