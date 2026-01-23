@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 23 Jan 2026 16:14:26 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ According to a report by the Washington Post, the Pentagon is said to be readying 1,500 troops fo...</title>
-      <link>https://t.me/news_cryptod/4881</link>
-      <description>⚠️ According to a report by the Washington Post, the Pentagon is said to be readying 1,500 troops for possible deployment to Minnesota to address protests.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4881</guid>
-      <pubDate>Wed, 21 Jan 2026 17:11:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 16:53:04 +0000</lastBuildDate>
     <item>
       <title>🌎 Experts indicate that Trump is likely driving the final nail into the coffin of the post-World War...</title>
       <link>https://t.me/news_cryptod/4882</link>
@@ -358,6 +351,13 @@
       <description>⚠️🇬🇱 According to representatives from the Danish armed forces, a significant contingent of Danish military personnel is scheduled to arrive in Greenland on January 19, as reported by TV2.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4930</guid>
       <pubDate>Fri, 23 Jan 2026 15:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇲🇩 Moldova is making plans to completely withdraw from the Commonwealth of Independent States (CIS),...</title>
+      <link>https://t.me/news_cryptod/4931</link>
+      <description>🇲🇩 Moldova is making plans to completely withdraw from the Commonwealth of Independent States (CIS), as stated by Foreign Minister Mihai Popșoi.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4931</guid>
+      <pubDate>Fri, 23 Jan 2026 16:49:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
