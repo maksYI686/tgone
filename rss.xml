@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 23 Jan 2026 04:38:58 +0000</lastBuildDate>
-    <item>
-      <title>🔥🇬🇱 President Trump has announced a 10% tariff on nations that have deployed military personnel to G...</title>
-      <link>https://t.me/news_cryptod/4868</link>
-      <description>🔥🇬🇱 President Trump has announced a 10% tariff on nations that have deployed military personnel to Greenland, impacting Denmark, Norway, Sweden, France, Germany, Britain, the Netherlands, and Finland. This tariff will take effect on February 1 and will stay in place until an agreement on Greenland is achieved. Trump cautioned that these countries are playing a "very dangerous game" and expressed the U.S.'s readiness to engage in immediate discussions with Denmark and other European nations about Greenland.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4868</guid>
-      <pubDate>Wed, 21 Jan 2026 04:32:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Jan 2026 05:17:35 +0000</lastBuildDate>
     <item>
       <title>📰 The European Union has finalized a trade deal with the member nations of the South American Common...</title>
       <link>https://t.me/news_cryptod/4869</link>
@@ -358,6 +351,13 @@
       <description>🇷🇺 Russia's Roskomnadzor has reported a 100% rise in DDoS attacks throughout 2025.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4917</guid>
       <pubDate>Fri, 23 Jan 2026 04:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 In 2025, trading volume in the Moscow Exchange's derivatives market surged by 45% compared to the...</title>
+      <link>https://t.me/news_cryptod/4918</link>
+      <description>🇷🇺 In 2025, trading volume in the Moscow Exchange's derivatives market surged by 45% compared to the previous year, hitting 145.2 trillion rubles. Notably, private investors accounted for half of this total, according to the latest report.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4918</guid>
+      <pubDate>Fri, 23 Jan 2026 05:09:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
