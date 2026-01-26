@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 26 Jan 2026 04:36:31 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 NOVATEK has published its preliminary production results for the year 2025. For complete informat...</title>
-      <link>https://t.me/news_cryptod/4947</link>
-      <description>🇷🇺 NOVATEK has published its preliminary production results for the year 2025. For complete information, you can view the report.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4947</guid>
-      <pubDate>Sat, 24 Jan 2026 07:24:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 26 Jan 2026 05:24:14 +0000</lastBuildDate>
     <item>
       <title>🇺🇦 An official stated that Ukraine is ready to sign a security or prosperity agreement with Trump at...</title>
       <link>https://t.me/news_cryptod/4948</link>
@@ -360,6 +353,13 @@ He refers to it as "a fantastic opportunity for all," indicating a mutual consen
       <description>🌍 Former President Trump signed the charter for the "Peace Council" in Davos. This council will focus on promoting peace not just in the Gaza region, but also in other areas.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/4998</guid>
       <pubDate>Mon, 26 Jan 2026 04:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 European gas exchange prices are rapidly rising due to notable decreases in underground storage re...</title>
+      <link>https://t.me/news_cryptod/4999</link>
+      <description>🛢 European gas exchange prices are rapidly rising due to notable decreases in underground storage reserves, expected cooling temperatures across the continent, and a sharp increase in U.S. gas prices, as reported by Gazprom, the leading LNG supplier to the European market.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/4999</guid>
+      <pubDate>Mon, 26 Jan 2026 05:06:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
