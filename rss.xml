@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 27 Jan 2026 06:17:11 +0000</lastBuildDate>
-    <item>
-      <title>🌍 Europe is increasingly reliant on the United States for its gas supply, with projections indicatin...</title>
-      <link>https://t.me/news_cryptod/4976</link>
-      <description>🌍 Europe is increasingly reliant on the United States for its gas supply, with projections indicating that 92% of all LNG delivered to German terminals in 2025 will originate from the U.S. This shift—replacing one major supplier (Russia) with another (the U.S.)—is often misinterpreted as a successful effort at diversification. However, there are no assurances that Washington won’t leverage gas supplies against Europe, according to Handelsblatt. For further details, check out mt in max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/4976</guid>
-      <pubDate>Sun, 25 Jan 2026 07:42:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 27 Jan 2026 06:57:02 +0000</lastBuildDate>
     <item>
       <title>💥 U.S. stocks rallied after Trump's assurance that he would not resort to force in acquiring Greenla...</title>
       <link>https://t.me/news_cryptod/4977</link>
@@ -360,6 +353,13 @@ He refers to it as "a fantastic opportunity for all," indicating a mutual consen
       <description>⚠️🇺🇸 Severe winter storms have led U.S. airlines to cancel hundreds of flights, according to CNBC.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5025</guid>
       <pubDate>Tue, 27 Jan 2026 04:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇷🇺 Russian inflation expectations are still unstable. Zabotkin notes that fluctuations in expected...</title>
+      <link>https://t.me/news_cryptod/5027</link>
+      <description>⚠️🇷🇺 Russian inflation expectations are still unstable. Zabotkin notes that fluctuations in expected inflation influence the trajectory of the key interest rate. Monitoring data shows an increasing number of investment firms predicting a "pause" from the Central Bank during the February meeting. Read more</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5027</guid>
+      <pubDate>Tue, 27 Jan 2026 06:22:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
