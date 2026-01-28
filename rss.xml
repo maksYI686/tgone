@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 28 Jan 2026 13:25:28 +0000</lastBuildDate>
-    <item>
-      <title>📰 A meeting has begun involving Putin, Witkoff, and Kushner. In attendance are Yuri Ushakov and Kiri...</title>
-      <link>https://t.me/news_cryptod/5008</link>
-      <description>📰 A meeting has begun involving Putin, Witkoff, and Kushner. In attendance are Yuri Ushakov and Kirill Dmitriev, along with newcomer Josh Gruenbaum, who serves as the U.S. Federal Acquisition Service Commissioner and is also a senior advisor at the Peace Council.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5008</guid>
-      <pubDate>Mon, 26 Jan 2026 12:52:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jan 2026 13:59:31 +0000</lastBuildDate>
     <item>
       <title>📰 Today marks the fourth day of the World Economic Forum in Davos. In Japan, early parliamentary ele...</title>
       <link>https://t.me/news_cryptod/5009</link>
@@ -358,6 +351,13 @@
       <description>🇺🇸 A severe snowstorm has impacted over 40 states in the U.S., endangering 240 million individuals with heavy snowfall and ice, as reported by Fox News. This storm poses a risk of substantial damage, including power outages and major traffic disruptions on highways. Meteorologists caution that the destruction, especially in regions affected by ice, could be comparable to that of a hurricane. Additionally, the storm has led to more than 13,000 flight cancellations. Read more here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5058</guid>
       <pubDate>Wed, 28 Jan 2026 12:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚛️ Uranium prices have reached their highest point in seven months, as reported by mt in max.</title>
+      <link>https://t.me/news_cryptod/5059</link>
+      <description>⚛️ Uranium prices have reached their highest point in seven months, as reported by mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5059</guid>
+      <pubDate>Wed, 28 Jan 2026 13:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
