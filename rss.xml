@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 29 Jan 2026 06:30:11 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇷🇺 Russian inflation expectations are still unstable. Zabotkin notes that fluctuations in expected...</title>
-      <link>https://t.me/news_cryptod/5027</link>
-      <description>⚠️🇷🇺 Russian inflation expectations are still unstable. Zabotkin notes that fluctuations in expected inflation influence the trajectory of the key interest rate. Monitoring data shows an increasing number of investment firms predicting a "pause" from the Central Bank during the February meeting. Read more</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5027</guid>
-      <pubDate>Tue, 27 Jan 2026 06:22:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Jan 2026 07:13:22 +0000</lastBuildDate>
     <item>
       <title>🛢🇺🇸 Today, gas prices in the US have varied, showing a 5% drop to a 6% rise after experiencing an 85...</title>
       <link>https://t.me/news_cryptod/5028</link>
@@ -358,6 +351,13 @@
       <description>⚠️🇻🇪 In an interview with TASS, Ryabkov affirmed Russia's demand for Maduro's release.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5076</guid>
       <pubDate>Thu, 29 Jan 2026 06:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🦠 Epidemiologist Alexander Gintsburg warns that the Nipah virus poses a significant threat due to th...</title>
+      <link>https://t.me/news_cryptod/5077</link>
+      <description>🦠 Epidemiologist Alexander Gintsburg warns that the Nipah virus poses a significant threat due to the absence of a cure, meaning recovery relies heavily on the individual's immune system. Rospotrebnadzor is keeping a close watch on the outbreak in India, and so far, there have been no reported cases of the virus entering Russia. mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5077</guid>
+      <pubDate>Thu, 29 Jan 2026 06:59:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
