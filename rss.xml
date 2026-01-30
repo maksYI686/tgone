@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 30 Jan 2026 15:30:37 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Meta is accused of accessing and storing the chat messages of WhatsApp users, with employees repo...</title>
-      <link>https://t.me/news_cryptod/5065</link>
-      <description>⚠️ Meta is accused of accessing and storing the chat messages of WhatsApp users, with employees reportedly able to access this information. An international group of plaintiffs has initiated a lawsuit against the company, as reported by BBG.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5065</guid>
-      <pubDate>Wed, 28 Jan 2026 19:19:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 30 Jan 2026 16:22:38 +0000</lastBuildDate>
     <item>
       <title>🌐 Recent reports indicate a marked rise in restricted internet access to foreign sources in Russia. ...</title>
       <link>https://t.me/news_cryptod/5066</link>
@@ -358,6 +351,15 @@
       <description>🇮🇷 The United States has declared that Washington is "open for business" if Iran decides to make contact. mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5114</guid>
       <pubDate>Fri, 30 Jan 2026 15:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ U.S. officials informed Axios that any agreement with Iran must entail the elimination of all enr...</title>
+      <link>https://t.me/news_cryptod/5115</link>
+      <description>⚠️ U.S. officials informed Axios that any agreement with Iran must entail the elimination of all enriched uranium, limitations on long-range ballistic missile inventories, a cessation of support for regional proxy organizations, and a prohibition on domestic uranium enrichment. However, Iran has consistently asserted that it will not agree to these terms.
+
+mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5115</guid>
+      <pubDate>Fri, 30 Jan 2026 16:02:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
