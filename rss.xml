@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Feb 2026 23:15:13 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ According to The New York Times, a strike on Iran is anticipated within the next 48 hours. Presid...</title>
-      <link>https://t.me/news_cryptod/5146</link>
-      <description>⚠️ According to The New York Times, a strike on Iran is anticipated within the next 48 hours. President Trump has revealed that a significant fleet of U.S. ships is being deployed towards Iran, while expressing optimism for a potential agreement. Lieutenant General Yahya Rahim Safavi, a senior military advisor to Iran's Supreme Leader Khamenei, indicated that Iran is gearing up for a critical confrontation with Israel. Find out more.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5146</guid>
-      <pubDate>Sat, 31 Jan 2026 20:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Feb 2026 23:48:00 +0000</lastBuildDate>
     <item>
       <title>🇺🇦 In a Fox News interview, Donald Trump expressed his optimism about resolving the conflict in Ukra...</title>
       <link>https://t.me/news_cryptod/5147</link>
@@ -358,6 +351,13 @@
       <description>⚛️ Uranium futures have crossed the $100 threshold for the first time since February 2024. Click here for more information</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5199</guid>
       <pubDate>Mon, 02 Feb 2026 22:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌕 Individuals in Russia may face restrictions on gold exports beginning September 1, as reported by ...</title>
+      <link>https://t.me/news_cryptod/5200</link>
+      <description>🌕 Individuals in Russia may face restrictions on gold exports beginning September 1, as reported by TASS. Deputy Finance Minister Alexei Moiseev stated that a draft decree addressing this issue is currently under government consideration. Read more</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5200</guid>
+      <pubDate>Mon, 02 Feb 2026 23:46:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
