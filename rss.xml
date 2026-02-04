@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Feb 2026 23:47:20 +0000</lastBuildDate>
-    <item>
-      <title>🗓 Important events scheduled for January 30, 2026, include the deadline for the U.S. government shut...</title>
-      <link>https://t.me/news_cryptod/5175</link>
-      <description>🗓 Important events scheduled for January 30, 2026, include the deadline for the U.S. government shutdown and GDP reports from Germany and the Eurozone. Canada’s GDP data will be published at 16:30 MSK, alongside the U.S. Producer Price Index (PPI) figures. Chicago’s Purchasing Managers' Index (PMI) for January will be announced at 17:45 MSK. Key earnings reports to watch for are from RusHydro and Chevron at 14:15 MSK, followed by Exxon Mobil, Regeneron, and Verizon at 14:30 MSK, Colgate-Palmolive at 14:55 MSK, and American Express at 15:00 MSK.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5175</guid>
-      <pubDate>Sun, 01 Feb 2026 23:27:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 04 Feb 2026 00:53:21 +0000</lastBuildDate>
     <item>
       <title>🌏 The US dollar is currently valued at 6.94 against the Chinese yuan and 75.8 against the Russian ru...</title>
       <link>https://t.me/news_cryptod/5176</link>
@@ -360,6 +353,13 @@ Today at 4:30 PM Moscow time, the United States will release its Producer Price 
       <description>🔍 According to The Times, the U.S. Justice Department has rejected the latest compromising information about Trump found in the Epstein dossier as untrue. mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5225</guid>
       <pubDate>Tue, 03 Feb 2026 23:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚫🛢 The Russian government has implemented a temporary ban on the export of gasoline, diesel, and oth...</title>
+      <link>https://t.me/news_cryptod/5226</link>
+      <description>🚫🛢 The Russian government has implemented a temporary ban on the export of gasoline, diesel, and other fuels until July 31, according to TASS. While the authorities have lifted the export ban on gasoline for producers until the end of July, they are still enforcing the existing restrictions on gasoline and diesel exports by non-producers, as reported by RIA.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5226</guid>
+      <pubDate>Wed, 04 Feb 2026 00:04:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
