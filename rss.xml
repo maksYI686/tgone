@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Feb 2026 10:03:37 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇺🇸 Chaos erupts in the U.S. as Trump reveals that federal forces will cease support for Democrat-l...</title>
-      <link>https://t.me/news_cryptod/5241</link>
-      <description>⚠️🇺🇸 Chaos erupts in the U.S. as Trump reveals that federal forces will cease support for Democrat-led cities in managing protests. He has officially announced the withdrawal of federal assistance to these areas. Read more here</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5241</guid>
-      <pubDate>Wed, 04 Feb 2026 12:42:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 11:04:29 +0000</lastBuildDate>
     <item>
       <title>🇷🇺🇨🇳 Russian Defense Minister Sergei Shoigu has landed in China for an official visit.</title>
       <link>https://t.me/news_cryptod/5242</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>📰 In the United States, the ISM Manufacturing PMI for January increased to 52.6, a notable rise from the previous figure of 47.9.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5290</guid>
       <pubDate>Fri, 06 Feb 2026 09:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️✴️ According to multiple monitoring services, BlackRock is once again moving BTC to exchanges, sug...</title>
+      <link>https://t.me/news_cryptod/5291</link>
+      <description>⚠️✴️ According to multiple monitoring services, BlackRock is once again moving BTC to exchanges, suggesting that clients are offloading their BTC ETFs. mt в max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5291</guid>
+      <pubDate>Fri, 06 Feb 2026 10:24:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
