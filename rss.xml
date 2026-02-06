@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Feb 2026 09:05:56 +0000</lastBuildDate>
-    <item>
-      <title>🔔 Media reports indicate that a new round of peace talks concerning the Ukrainian crisis is set to t...</title>
-      <link>https://t.me/news_cryptod/5240</link>
-      <description>🔔 Media reports indicate that a new round of peace talks concerning the Ukrainian crisis is set to take place in Abu Dhabi on Sunday, February 1. A working group from Russia and Ukraine is anticipated to meet to discuss security issues. Learn more</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5240</guid>
-      <pubDate>Wed, 04 Feb 2026 11:44:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 10:03:37 +0000</lastBuildDate>
     <item>
       <title>⚠️🇺🇸 Chaos erupts in the U.S. as Trump reveals that federal forces will cease support for Democrat-l...</title>
       <link>https://t.me/news_cryptod/5241</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>🍫 Cocoa bean prices have fallen to a three-year low due to excess unsold supplies putting strain on the market. BBG reports on the increasing inventories impacting the industry. For additional insights, check out mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5289</guid>
       <pubDate>Fri, 06 Feb 2026 08:27:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 In the United States, the ISM Manufacturing PMI for January increased to 52.6, a notable rise from...</title>
+      <link>https://t.me/news_cryptod/5290</link>
+      <description>📰 In the United States, the ISM Manufacturing PMI for January increased to 52.6, a notable rise from the previous figure of 47.9.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5290</guid>
+      <pubDate>Fri, 06 Feb 2026 09:26:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
