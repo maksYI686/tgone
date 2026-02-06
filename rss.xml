@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Feb 2026 20:54:42 +0000</lastBuildDate>
-    <item>
-      <title>⚠️✴️🇺🇸 In light of the downturn in the cryptocurrency market, Tom Lee's company, BitMine, has report...</title>
-      <link>https://t.me/news_cryptod/5252</link>
-      <description>⚠️✴️🇺🇸 In light of the downturn in the cryptocurrency market, Tom Lee's company, BitMine, has reported a $6 billion loss on its ETH holdings. Learn more</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5252</guid>
-      <pubDate>Wed, 04 Feb 2026 23:24:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 21:18:27 +0000</lastBuildDate>
     <item>
       <title>⚠️✴️ Binance has announced that it is not accountable for the significant daily crash and margin cal...</title>
       <link>https://t.me/news_cryptod/5253</link>
@@ -362,6 +355,13 @@ mt in max</description>
       <description>🇺🇸🇨🇳 Former President Trump expects that Chinese leader Xi Jinping will visit Washington before the end of the year.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5301</guid>
       <pubDate>Fri, 06 Feb 2026 20:07:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 According to RSPP head Shokhin, the Bank of Russia is expected to gradually lower its key rate by...</title>
+      <link>https://t.me/news_cryptod/5302</link>
+      <description>🇷🇺 According to RSPP head Shokhin, the Bank of Russia is expected to gradually lower its key rate by around 0.5% at each meeting until April. The market does not anticipate any drastic changes. mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5302</guid>
+      <pubDate>Fri, 06 Feb 2026 21:06:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
