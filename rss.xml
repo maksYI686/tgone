@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Feb 2026 23:44:45 +0000</lastBuildDate>
-    <item>
-      <title>⚠️✴️ Hyperliquid experienced a historic liquidation yesterday when a long ETH position valued at $70...</title>
-      <link>https://t.me/news_cryptod/5254</link>
-      <description>⚠️✴️ Hyperliquid experienced a historic liquidation yesterday when a long ETH position valued at $700 million belonging to prominent trader Garrett Jin was liquidated in mere seconds, resulting in a $128 million loss. Once considered one of the top traders on Hyperliquid, Garrett had previously amassed $142 million through leveraged trading but has now lost everything over the past two weeks, totaling losses of $270 million—echoing the tale of James Wynn. mt</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5254</guid>
-      <pubDate>Thu, 05 Feb 2026 01:21:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Feb 2026 00:53:09 +0000</lastBuildDate>
     <item>
       <title>⚠️ Former President Trump has declared intentions to take "significant" measures against Canada if a...</title>
       <link>https://t.me/news_cryptod/5255</link>
@@ -362,6 +355,13 @@ mt in max</description>
       <description>⚠️ 🇷🇺 Experts observe that weekly inflation in Russia has stayed high for four consecutive weeks. Read more</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5304</guid>
       <pubDate>Fri, 06 Feb 2026 23:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Russian airlines are worried about the growing competition from international carriers. A report ...</title>
+      <link>https://t.me/news_cryptod/5305</link>
+      <description>⚠️ Russian airlines are worried about the growing competition from international carriers. A report from Ъ reveals that the proportion of foreign airlines operating on Russian international routes increased from 30% to 47% in 2025. For additional information, visit mt в max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5305</guid>
+      <pubDate>Sat, 07 Feb 2026 00:01:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
