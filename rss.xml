@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 08 Feb 2026 19:42:48 +0000</lastBuildDate>
-    <item>
-      <title>🔔 Bitcoin's price has dipped below $71,000, signaling an important development for the cryptocurrenc...</title>
-      <link>https://t.me/news_cryptod/5298</link>
-      <description>🔔 Bitcoin's price has dipped below $71,000, signaling an important development for the cryptocurrency markets.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5298</guid>
-      <pubDate>Fri, 06 Feb 2026 17:12:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Feb 2026 20:01:33 +0000</lastBuildDate>
     <item>
       <title>⚠️ Precious metals experience a downturn: Gold decreased by 2%, silver plummeted by 13%, platinum fe...</title>
       <link>https://t.me/news_cryptod/5299</link>
@@ -358,6 +351,13 @@
       <description>⚠️ Dates for upcoming meetings regarding Ukraine, part of the ongoing discussions in the UAE, will be organized by the respective capitals, as reported by a source from TASS. mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5349</guid>
       <pubDate>Sun, 08 Feb 2026 18:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢🇮🇳 India has started importing oil from Venezuela. Reports indicate that Reliance Industries, an In...</title>
+      <link>https://t.me/news_cryptod/5350</link>
+      <description>🛢🇮🇳 India has started importing oil from Venezuela. Reports indicate that Reliance Industries, an Indian firm, has purchased 2 million barrels of Venezuelan oil. For more details, visit RTRS. You can also check out mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5350</guid>
+      <pubDate>Sun, 08 Feb 2026 19:46:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
