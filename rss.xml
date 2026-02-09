@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 09 Feb 2026 06:39:04 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 As of 2025, Severstal has surpassed MMK to emerge as the top supplier of flat steel products in t...</title>
-      <link>https://t.me/news_cryptod/5310</link>
-      <description>🇷🇺 As of 2025, Severstal has surpassed MMK to emerge as the top supplier of flat steel products in the Russian market, achieving a market share of 33%. The domestic market offers greater profitability than exports, and competition is becoming increasingly fierce. For further information, you can read the complete article here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5310</guid>
-      <pubDate>Sat, 07 Feb 2026 04:52:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 07:45:06 +0000</lastBuildDate>
     <item>
       <title>📈 According to data from the Central Bank, the proportion of ruble deposits in Russian banks rose to...</title>
       <link>https://t.me/news_cryptod/5311</link>
@@ -358,6 +351,13 @@
       <description>📰 Russian retailer Lenta will announce its operational results for the year 2025 on February 9.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5360</guid>
       <pubDate>Mon, 09 Feb 2026 05:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 Bitcoin drops below $70,000.</title>
+      <link>https://t.me/news_cryptod/5362</link>
+      <description>📰 Bitcoin drops below $70,000.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5362</guid>
+      <pubDate>Mon, 09 Feb 2026 07:26:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
