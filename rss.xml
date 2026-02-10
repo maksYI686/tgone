@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 10 Feb 2026 18:46:22 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Dates for upcoming meetings regarding Ukraine, part of the ongoing discussions in the UAE, will b...</title>
-      <link>https://t.me/news_cryptod/5349</link>
-      <description>⚠️ Dates for upcoming meetings regarding Ukraine, part of the ongoing discussions in the UAE, will be organized by the respective capitals, as reported by a source from TASS. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5349</guid>
-      <pubDate>Sun, 08 Feb 2026 18:47:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Feb 2026 19:52:24 +0000</lastBuildDate>
     <item>
       <title>🛢🇮🇳 India has started importing oil from Venezuela. Reports indicate that Reliance Industries, an In...</title>
       <link>https://t.me/news_cryptod/5350</link>
@@ -351,6 +344,13 @@
       <description>✴️ BTC has entered a historic "oversold" zone based on the Mayer Multiple Z-Score metrics. For more information, visit mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5399</guid>
       <pubDate>Tue, 10 Feb 2026 18:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 The United States and Ukraine are exploring the possibility of reaching a peace agreement with Rus...</title>
+      <link>https://t.me/news_cryptod/5400</link>
+      <description>📰 The United States and Ukraine are exploring the possibility of reaching a peace agreement with Russia by March 2026. However, this timeline could face delays due to ongoing disputes over territorial matters. Kyiv is looking for security assurances from the U.S. and other nations prior to agreeing to any settlement. Both sides are also contemplating elections and a referendum in Ukraine by May. The U.S. is advocating for a prompt referendum, especially as Trump shifts his attention to domestic concerns ahead of the upcoming mid-term elections.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5400</guid>
+      <pubDate>Tue, 10 Feb 2026 19:24:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
