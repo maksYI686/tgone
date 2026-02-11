@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Feb 2026 06:45:50 +0000</lastBuildDate>
-    <item>
-      <title>📰 Bitcoin drops below $70,000.</title>
-      <link>https://t.me/news_cryptod/5362</link>
-      <description>📰 Bitcoin drops below $70,000.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5362</guid>
-      <pubDate>Mon, 09 Feb 2026 07:26:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 07:43:43 +0000</lastBuildDate>
     <item>
       <title>⚠️✴️ According to various monitoring services, BlackRock is said to be moving BTC to exchanges. This...</title>
       <link>https://t.me/news_cryptod/5363</link>
@@ -353,6 +346,13 @@ mt in max</description>
       <description>⚠️🇺🇸 According to BBG, corporate insiders have been offloading U.S. stocks at the quickest rate in five years since the beginning of 2026. Read more</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5411</guid>
       <pubDate>Wed, 11 Feb 2026 06:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ The US Central Command has announced the deployment of a carrier strike group to the Arabian Sea....</title>
+      <link>https://t.me/news_cryptod/5412</link>
+      <description>⚠️ The US Central Command has announced the deployment of a carrier strike group to the Arabian Sea. Former President Donald Trump revealed that discussions between the US and Iran will resume early next week. However, The Wall Street Journal has reported that Iran is unwilling to suspend its uranium enrichment during the negotiations. mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5412</guid>
+      <pubDate>Wed, 11 Feb 2026 07:04:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
