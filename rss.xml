@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Feb 2026 08:32:28 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Current estimates suggest that the probability of a ceasefire between Russia and Ukraine by the e...</title>
-      <link>https://t.me/news_cryptod/5365</link>
-      <description>⚠️ Current estimates suggest that the probability of a ceasefire between Russia and Ukraine by the end of 2026 stands at 45% on Polymarket, a decline from its peak of 71% in August 2025. Witkoff emphasized that significant efforts remain necessary in the negotiation process, according to Max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5365</guid>
-      <pubDate>Mon, 09 Feb 2026 10:21:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 09:38:53 +0000</lastBuildDate>
     <item>
       <title>🔍 President Zelensky has announced that the upcoming round of discussions with Russia is set to occu...</title>
       <link>https://t.me/news_cryptod/5366</link>
@@ -353,6 +346,13 @@ mt in max</description>
       <description>⚠️ Jared Kushner and Witkoff visited the USS Abraham Lincoln aircraft carrier in the Arabian Sea, close to Iran. According to Axios, the carrier and its strike group are poised to lead a U.S. military response against Iran if diplomatic efforts do not succeed. In the meantime, Iran's Foreign Minister Abbas Araghchi has dismissed the possibility of negotiations regarding the country's missile program or the cessation of its nuclear activities. Prime Minister Netanyahu is scheduled to meet with President Trump on February 11 in Washington to address issues related to Iran.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5414</guid>
       <pubDate>Wed, 11 Feb 2026 08:02:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>📅 Saturday</title>
+      <link>https://t.me/news_cryptod/5415</link>
+      <description>📅 Saturday</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5415</guid>
+      <pubDate>Wed, 11 Feb 2026 09:01:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
