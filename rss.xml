@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 14 Feb 2026 23:11:53 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ According to RBC's consensus forecast, the Central Bank of Russia is expected to keep its key int...</title>
-      <link>https://t.me/news_cryptod/5455</link>
-      <description>⚠️ According to RBC's consensus forecast, the Central Bank of Russia is expected to keep its key interest rate at 16% during the meeting on February 13. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5455</guid>
-      <pubDate>Thu, 12 Feb 2026 23:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 23:43:11 +0000</lastBuildDate>
     <item>
       <title>🇬🇧 Reports from BBG indicate that Britain's Starmer could resign within a week due to the Epstein fi...</title>
       <link>https://t.me/news_cryptod/5456</link>
@@ -358,6 +351,13 @@
       <description>⚠️ Russia's Foreign Minister Lavrov emphasized that the goals of the special military operation are non-negotiable. He announced that Ukrainian forces will be expelled from the Donbas region. Furthermore, Lavrov claimed that Russia has not been presented with any 20-point document related to Ukraine and criticized Europe for misrepresenting the U.S.-led peace initiative. For further information, visit mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5506</guid>
       <pubDate>Sat, 14 Feb 2026 22:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚫 Experts indicate that the removal of YouTube's domain from Roskomnadzor's DNS servers implies a mo...</title>
+      <link>https://t.me/news_cryptod/5507</link>
+      <description>🚫 Experts indicate that the removal of YouTube's domain from Roskomnadzor's DNS servers implies a move to restrict access to such platforms in Russia. This may lead to a total service blockade, rendering it unreachable without a VPN. For more information, visit this link: RBC. You can find additional insights on mt at max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5507</guid>
+      <pubDate>Sat, 14 Feb 2026 23:32:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
