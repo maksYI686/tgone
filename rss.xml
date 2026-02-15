@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 15 Feb 2026 12:19:47 +0000</lastBuildDate>
-    <item>
-      <title>✴️According to data from Glassnode, crypto whales have accumulated 40,000 BTC amid the recent market...</title>
-      <link>https://t.me/news_cryptod/5472</link>
-      <description>✴️According to data from Glassnode, crypto whales have accumulated 40,000 BTC amid the recent market downturn, reflecting a significant increase in buying activity. Find out more here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5472</guid>
-      <pubDate>Fri, 13 Feb 2026 16:26:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Feb 2026 13:23:31 +0000</lastBuildDate>
     <item>
       <title>🗞️🇺🇸 Tether has emerged as the 17th largest holder of US government debt worldwide. In January 2025,...</title>
       <link>https://t.me/news_cryptod/5473</link>
@@ -358,6 +351,13 @@
       <description>⚠️ Former President Trump shared his thoughts on his meeting with Netanyahu, noting that no conclusive decisions were reached concerning Iran. He stressed the need to keep negotiations ongoing to assess the possibility of an agreement, which he considers the best outcome. Trump expressed optimism that Iran might adopt a more reasonable and responsible approach this time. mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5524</guid>
       <pubDate>Sun, 15 Feb 2026 12:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 The average daily trading volume of U.S. stocks has hit an all-time high. According to BofA, its ...</title>
+      <link>https://t.me/news_cryptod/5525</link>
+      <description>🇺🇸 The average daily trading volume of U.S. stocks has hit an all-time high. According to BofA, its institutional clients, including large hedge funds and asset managers, have been purchasing U.S. stocks for three weeks in a row. Notably, these acquisitions are primarily made via stock ETFs rather than individual stocks. mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5525</guid>
+      <pubDate>Sun, 15 Feb 2026 13:09:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
