@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 Feb 2026 23:16:17 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ A recent analysis by BofA indicates that, by the 2026 fiscal year, only Microsoft is expected to ...</title>
-      <link>https://t.me/news_cryptod/5538</link>
-      <description>⚠️ A recent analysis by BofA indicates that, by the 2026 fiscal year, only Microsoft is expected to generate cash flow that surpasses its capital expenditures among major tech companies. Analysts and markets are growing increasingly concerned about the rising levels of borrowing needed to fund AI ventures. For more details, click here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5538</guid>
-      <pubDate>Mon, 16 Feb 2026 00:49:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Feb 2026 23:49:25 +0000</lastBuildDate>
     <item>
       <title>⚠️🌍 The global economic uncertainty index continues to reach unprecedented levels, highlighting pers...</title>
       <link>https://t.me/news_cryptod/5539</link>
@@ -360,6 +353,13 @@ Coinbase has reportedly paused its operations, with margin calls being the sole 
       <description>⚠️ New protests have erupted in Tehran. MT in MAX</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5588</guid>
       <pubDate>Tue, 17 Feb 2026 22:31:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 Cloud provider Selectel has revealed plans to issue bonds totaling 5 billion rubles. The fixed co...</title>
+      <link>https://t.me/news_cryptod/5589</link>
+      <description>🇷🇺 Cloud provider Selectel has revealed plans to issue bonds totaling 5 billion rubles. The fixed coupon rate will be capped at 16.60% per annum, translating to an effective yield of 17.92%. The bond placement will span a three-year period, featuring monthly coupon payments. The proceeds will be allocated towards refinancing the fourth bond issuance and supporting the company's investment initiatives.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5589</guid>
+      <pubDate>Tue, 17 Feb 2026 23:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
