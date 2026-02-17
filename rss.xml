@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 Feb 2026 20:22:29 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 According to MT in MAX, consumer inflation in Russia has decreased to its lowest point since the ...</title>
-      <link>https://t.me/news_cryptod/5535</link>
-      <description>🇷🇺 According to MT in MAX, consumer inflation in Russia has decreased to its lowest point since the start of the year.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5535</guid>
-      <pubDate>Sun, 15 Feb 2026 21:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Feb 2026 20:59:33 +0000</lastBuildDate>
     <item>
       <title>📈🇺🇸 Tether has revealed its intention to boost its acquisitions of U.S. government bonds by 2026. Cu...</title>
       <link>https://t.me/news_cryptod/5536</link>
@@ -360,6 +353,13 @@ Coinbase has reportedly paused its operations, with margin calls being the sole 
       <description>🎉 The White House has unveiled its Valentine's Day cards, showcasing Greenland and Maduro, as reported by MT in MAX.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5585</guid>
       <pubDate>Tue, 17 Feb 2026 19:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 In a Bloomberg interview, Rubio dismissed allegations that Trump could step back from efforts to ...</title>
+      <link>https://t.me/news_cryptod/5586</link>
+      <description>🇺🇦 In a Bloomberg interview, Rubio dismissed allegations that Trump could step back from efforts to address the Ukrainian conflict in the near future. At the same time, Witkoff and Kushner are scheduled to join negotiations regarding Ukraine in Geneva on February 17. MT in MAX</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5586</guid>
+      <pubDate>Tue, 17 Feb 2026 20:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
