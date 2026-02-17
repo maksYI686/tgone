@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 Feb 2026 07:29:45 +0000</lastBuildDate>
-    <item>
-      <title>📰 Coming Soon: The Russian Federation is set to announce the weekly Consumer Price Index (CPI) figur...</title>
-      <link>https://t.me/news_cryptod/5521</link>
-      <description>📰 Coming Soon: The Russian Federation is set to announce the weekly Consumer Price Index (CPI) figures at 19:00 Moscow time.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5521</guid>
-      <pubDate>Sun, 15 Feb 2026 09:16:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Feb 2026 08:04:17 +0000</lastBuildDate>
     <item>
       <title>🔔 Enhancing the financial market is a key priority for the Russian Ministry of Finance. The Ministry...</title>
       <link>https://t.me/news_cryptod/5522</link>
@@ -362,6 +355,13 @@ Coinbase has reportedly paused its operations, with margin calls being the sole 
       <description>🇺🇸 The stocks in the U.S. Magnificent Seven ETF (MAGS) are currently testing their 200-day moving average for the first time in a year. MT in MAX</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5571</guid>
       <pubDate>Tue, 17 Feb 2026 06:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>✴️ Binance has rejected the allegations from leading investigators who reported uncovering evidence ...</title>
+      <link>https://t.me/news_cryptod/5572</link>
+      <description>✴️ Binance has rejected the allegations from leading investigators who reported uncovering evidence of violations related to Iranian sanctions, according to Fortune. For further information, check out MT in MAX.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5572</guid>
+      <pubDate>Tue, 17 Feb 2026 07:56:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
