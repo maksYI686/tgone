@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 18 Feb 2026 05:17:19 +0000</lastBuildDate>
-    <item>
-      <title>📰 According to a Bloomberg report, Russia is contemplating a return to the dollar system as part of ...</title>
-      <link>https://t.me/news_cryptod/5544</link>
-      <description>📰 According to a Bloomberg report, Russia is contemplating a return to the dollar system as part of a proposal linked to former President Trump. The memo details collaborative initiatives in sectors such as energy, minerals, and fossil fuels. Previously, Kirill Dmitriev advocated for cooperation agreements valued at up to $12 trillion during discussions between the US and Russia, as highlighted by MT at MAX.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5544</guid>
-      <pubDate>Mon, 16 Feb 2026 05:41:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚠️ The "Pancake Index" for Maslenitsa has increased by 4% compared to last year. MT in MAX</title>
-      <link>https://t.me/news_cryptod/5545</link>
-      <description>⚠️ The "Pancake Index" for Maslenitsa has increased by 4% compared to last year. MT in MAX</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5545</guid>
-      <pubDate>Mon, 16 Feb 2026 06:39:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 06:34:27 +0000</lastBuildDate>
     <item>
       <title>⚠️🇮🇷 Israeli Prime Minister Netanyahu expressed that while former President Trump could potentially ...</title>
       <link>https://t.me/news_cryptod/5546</link>
@@ -360,6 +346,20 @@ Coinbase has reportedly paused its operations, with margin calls being the sole 
       <description>🌐 Starting February 16, transactions involving the "US dollar - Russian ruble" currency pair will transition from the OTCM over-the-counter mode to the anonymous trading mode CETS on the exchange. — Moscow Exchange MT at MAX</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5594</guid>
       <pubDate>Wed, 18 Feb 2026 04:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>✨ Last week, crypto products saw ongoing outflows totaling -$173 million, though the volume remained...</title>
+      <link>https://t.me/news_cryptod/5595</link>
+      <description>✨ Last week, crypto products saw ongoing outflows totaling -$173 million, though the volume remained relatively low, as reported by Coinshares. For more information, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5595</guid>
+      <pubDate>Wed, 18 Feb 2026 05:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 China's imports of Russian oil are projected to hit a record high in February, coinciding with a d...</title>
+      <link>https://t.me/news_cryptod/5596</link>
+      <description>🛢 China's imports of Russian oil are projected to hit a record high in February, coinciding with a decrease in purchases from India. Read more.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5596</guid>
+      <pubDate>Wed, 18 Feb 2026 06:17:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
