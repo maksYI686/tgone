@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 18 Feb 2026 07:40:50 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 The Russian government has postponed the payment of the utilization fee for major automobile and ...</title>
-      <link>https://t.me/news_cryptod/5547</link>
-      <description>🇷🇺 The Russian government has postponed the payment of the utilization fee for major automobile and specialized equipment manufacturers, according to TASS. For further information, check out MT in MAX.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5547</guid>
-      <pubDate>Mon, 16 Feb 2026 08:36:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 18 Feb 2026 08:29:53 +0000</lastBuildDate>
     <item>
       <title>🚨✴️ Operations Suspended at Coinbase</title>
       <link>https://t.me/news_cryptod/5548</link>
@@ -360,6 +353,13 @@ Coinbase has reportedly paused its operations, with margin calls being the sole 
       <description>📰 According to the U.S. Department of Energy, the United States plans to increase its gas production to unprecedented levels by 2026-2027. mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5597</guid>
       <pubDate>Wed, 18 Feb 2026 07:16:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇩🇪 The Christian Democratic Union (CDU) congress will depart from tradition by omitting the serving ...</title>
+      <link>https://t.me/news_cryptod/5598</link>
+      <description>🇩🇪 The Christian Democratic Union (CDU) congress will depart from tradition by omitting the serving of beer and wine to attendees on the first day, a decision made by Merz, according to Tagesspiegel. For further information, visit mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5598</guid>
+      <pubDate>Wed, 18 Feb 2026 08:14:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
