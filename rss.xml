@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 19 Feb 2026 22:55:25 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ At the Munich Security Conference, Ukrainian President Volodymyr Zelensky stated that he is open ...</title>
-      <link>https://t.me/news_cryptod/5587</link>
-      <description>⚠️ At the Munich Security Conference, Ukrainian President Volodymyr Zelensky stated that he is open to discussions regarding a free economic zone, but emphasized that territorial compromise is not an option. "This is our territory, and it must stay ours. We cannot simply abandon it," Zelensky asserted. Regarding elections, he proposed a two-month ceasefire to facilitate infrastructure preparations and ensure that military personnel can cast their votes. MT in MAX</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5587</guid>
-      <pubDate>Tue, 17 Feb 2026 21:32:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Feb 2026 23:18:10 +0000</lastBuildDate>
     <item>
       <title>⚠️ New protests have erupted in Tehran. MT in MAX</title>
       <link>https://t.me/news_cryptod/5588</link>
@@ -358,6 +351,13 @@
       <description>✴️🇺🇸 Crypto lender Nexo has officially announced its re-entry into the US market. mt в max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5638</guid>
       <pubDate>Thu, 19 Feb 2026 22:09:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇷🇺 Reports reveal that Russia's business activity experienced a decline in February, falling to 0....</title>
+      <link>https://t.me/news_cryptod/5639</link>
+      <description>⚠️🇷🇺 Reports reveal that Russia's business activity experienced a decline in February, falling to 0.2 points from 1.5 points the previous month, according to the Central Bank. Although monetary and credit conditions were relaxed in December and January, they still remained tight, as reported by the Central Bank. For more details, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5639</guid>
+      <pubDate>Thu, 19 Feb 2026 23:07:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
