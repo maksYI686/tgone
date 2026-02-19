@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 19 Feb 2026 05:15:24 +0000</lastBuildDate>
-    <item>
-      <title>📰 The U.S. Supreme Court is scheduled to announce its decision on Trump's tariffs on February 20, wi...</title>
-      <link>https://t.me/news_cryptod/5570</link>
-      <description>📰 The U.S. Supreme Court is scheduled to announce its decision on Trump's tariffs on February 20, with alternative dates of February 24 and 25. For further information, visit MT in MAX.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5570</guid>
-      <pubDate>Tue, 17 Feb 2026 05:59:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Feb 2026 06:33:13 +0000</lastBuildDate>
     <item>
       <title>🇺🇸 The stocks in the U.S. Magnificent Seven ETF (MAGS) are currently testing their 200-day moving av...</title>
       <link>https://t.me/news_cryptod/5571</link>
@@ -358,6 +351,13 @@
       <description>⚠️🇷🇺 LNZL has dropped by 22%, and LNZLp has seen a decline of 15%.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5620</guid>
       <pubDate>Thu, 19 Feb 2026 04:39:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🛢 In February, the discounts on Urals oil from Russia are rising by $0.50 to $2.30 per barrel comp...</title>
+      <link>https://t.me/news_cryptod/5621</link>
+      <description>⚠️🛢 In February, the discounts on Urals oil from Russia are rising by $0.50 to $2.30 per barrel compared to January.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5621</guid>
+      <pubDate>Thu, 19 Feb 2026 05:37:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
