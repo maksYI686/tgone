@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 20 Feb 2026 09:03:02 +0000</lastBuildDate>
-    <item>
-      <title>🇩🇪 The Christian Democratic Union (CDU) congress will depart from tradition by omitting the serving ...</title>
-      <link>https://t.me/news_cryptod/5598</link>
-      <description>🇩🇪 The Christian Democratic Union (CDU) congress will depart from tradition by omitting the serving of beer and wine to attendees on the first day, a decision made by Merz, according to Tagesspiegel. For further information, visit mt in max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5598</guid>
-      <pubDate>Wed, 18 Feb 2026 08:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 20 Feb 2026 10:00:29 +0000</lastBuildDate>
     <item>
       <title>⚠️🇬🇧 Starmer urges a substantial increase in UK defense spending due to rising geopolitical tensions...</title>
       <link>https://t.me/news_cryptod/5599</link>
@@ -358,6 +351,13 @@
       <description>🌍 According to BBG, global electricity demand from data centers is projected to hit a record 1,596 terawatt-hours by 2035, which would more than double current consumption levels. mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5649</guid>
       <pubDate>Fri, 20 Feb 2026 08:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌍 Currency Update: The US dollar is currently valued at 6.90 against the Chinese yuan and 77.50 agai...</title>
+      <link>https://t.me/news_cryptod/5650</link>
+      <description>🌍 Currency Update: The US dollar is currently valued at 6.90 against the Chinese yuan and 77.50 against the Russian ruble.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5650</guid>
+      <pubDate>Fri, 20 Feb 2026 09:49:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
