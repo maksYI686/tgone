@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 21 Feb 2026 16:51:37 +0000</lastBuildDate>
-    <item>
-      <title>📰 The board of Gazprom is scheduled to convene on February 24 to deliberate on the future of gas exp...</title>
-      <link>https://t.me/news_cryptod/5633</link>
-      <description>📰 The board of Gazprom is scheduled to convene on February 24 to deliberate on the future of gas exports to the Asia-Pacific area.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5633</guid>
-      <pubDate>Thu, 19 Feb 2026 17:17:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Feb 2026 17:14:37 +0000</lastBuildDate>
     <item>
       <title>⚠️🇷🇺 The State Duma committee has endorsed the proposal to implement VAT on imported goods sold in m...</title>
       <link>https://t.me/news_cryptod/5634</link>
@@ -362,6 +355,13 @@ mt in max</description>
       <description>⚠️🇺🇸 According to a report from BBG, the U.S. experienced one of its largest annual trade deficits since 1960.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5682</guid>
       <pubDate>Sat, 21 Feb 2026 15:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Aston Martin has raised another alert about a possible decline in profits, attributing it primari...</title>
+      <link>https://t.me/news_cryptod/5683</link>
+      <description>⚠️ Aston Martin has raised another alert about a possible decline in profits, attributing it primarily to U.S. tariffs.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5683</guid>
+      <pubDate>Sat, 21 Feb 2026 16:56:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
