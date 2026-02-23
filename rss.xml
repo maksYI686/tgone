@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Feb 2026 15:34:51 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇺🇸 According to a report from BBG, the U.S. experienced one of its largest annual trade deficits s...</title>
-      <link>https://t.me/news_cryptod/5682</link>
-      <description>⚠️🇺🇸 According to a report from BBG, the U.S. experienced one of its largest annual trade deficits since 1960.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5682</guid>
-      <pubDate>Sat, 21 Feb 2026 15:57:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚠️ Aston Martin has raised another alert about a possible decline in profits, attributing it primari...</title>
-      <link>https://t.me/news_cryptod/5683</link>
-      <description>⚠️ Aston Martin has raised another alert about a possible decline in profits, attributing it primarily to U.S. tariffs.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5683</guid>
-      <pubDate>Sat, 21 Feb 2026 16:56:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 16:38:49 +0000</lastBuildDate>
     <item>
       <title>🛢 Oil prices have increased this year, even with a global oversupply. This rise can be attributed in...</title>
       <link>https://t.me/news_cryptod/5684</link>
@@ -365,6 +351,20 @@ mt in max</description>
 🇺🇸 USA - Inflation - PCE Price Index (December) - 16:30 MSK</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5731</guid>
       <pubDate>Mon, 23 Feb 2026 14:37:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ The Russian shareholders of Mosenergo have yet to reach a decision on dividends for 2024.</title>
+      <link>https://t.me/news_cryptod/5732</link>
+      <description>⚠️ The Russian shareholders of Mosenergo have yet to reach a decision on dividends for 2024.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5732</guid>
+      <pubDate>Mon, 23 Feb 2026 15:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥🇺🇸 The U.S. GDP for Q4 2025 experienced a quarter-on-quarter growth of 1.4%, which is below the exp...</title>
+      <link>https://t.me/news_cryptod/5733</link>
+      <description>🔥🇺🇸 The U.S. GDP for Q4 2025 experienced a quarter-on-quarter growth of 1.4%, which is below the expected 2.8% and the prior 4.4%.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5733</guid>
+      <pubDate>Mon, 23 Feb 2026 16:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
