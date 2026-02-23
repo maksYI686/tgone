@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Feb 2026 07:44:35 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 Yuri Maksimov, the co-founder of Positive Technologies, conducted an analysis of the company's 18...</title>
-      <link>https://t.me/news_cryptod/5674</link>
-      <description>🇷🇺 Yuri Maksimov, the co-founder of Positive Technologies, conducted an analysis of the company's 18-year growth trajectory, focusing on adjusted revenue figures. Over this period, the average annual growth rate has surpassed 48 percent. The backward compound annual growth rate (CAGR) falls between 32 and 49 percent, reflecting steady average annual growth within this range, irrespective of the starting point.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5674</guid>
-      <pubDate>Sat, 21 Feb 2026 08:11:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 08:32:39 +0000</lastBuildDate>
     <item>
       <title>🔹 This week, Michael Saylor shared that he had meetings with all the sovereign wealth funds in the M...</title>
       <link>https://t.me/news_cryptod/5675</link>
@@ -362,6 +355,13 @@ mt in max</description>
       <description>⚠️🇮🇷 The USS Gerald R. Ford aircraft carrier has arrived in the Mediterranean Sea. mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5723</guid>
       <pubDate>Mon, 23 Feb 2026 06:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇮🇷 In a recent geopolitical development, Araghchi stated that Iran plans to refine its nuclear propo...</title>
+      <link>https://t.me/news_cryptod/5724</link>
+      <description>🇮🇷 In a recent geopolitical development, Araghchi stated that Iran plans to refine its nuclear proposal over the next two to three days before submitting it for review by the US. mt в max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5724</guid>
+      <pubDate>Mon, 23 Feb 2026 07:49:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
