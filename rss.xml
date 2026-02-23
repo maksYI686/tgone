@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 23 Feb 2026 16:38:49 +0000</lastBuildDate>
-    <item>
-      <title>🛢 Oil prices have increased this year, even with a global oversupply. This rise can be attributed in...</title>
-      <link>https://t.me/news_cryptod/5684</link>
-      <description>🛢 Oil prices have increased this year, even with a global oversupply. This rise can be attributed in part to a considerable amount of the surplus being oil that is under sanctions, which is currently stored on ships at sea. Goldman Sachs has provided insights into why oil prices are climbing despite this surplus. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5684</guid>
-      <pubDate>Sat, 21 Feb 2026 17:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 23 Feb 2026 17:51:08 +0000</lastBuildDate>
     <item>
       <title>🇪🇺 ECB President Christine Lagarde has stated that she has no plans to resign early from her role at...</title>
       <link>https://t.me/news_cryptod/5685</link>
@@ -365,6 +358,13 @@ mt in max</description>
       <description>🔥🇺🇸 The U.S. GDP for Q4 2025 experienced a quarter-on-quarter growth of 1.4%, which is below the expected 2.8% and the prior 4.4%.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5733</guid>
       <pubDate>Mon, 23 Feb 2026 16:34:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🔥🇺🇸 Recent U.S. inflation data shows that the Personal Consumption Expenditures (PCE) Price Index in...</title>
+      <link>https://t.me/news_cryptod/5734</link>
+      <description>🔥🇺🇸 Recent U.S. inflation data shows that the Personal Consumption Expenditures (PCE) Price Index increased by 0.4% month-over-month in December, outpacing the anticipated 0.3% and rising from the previous 0.2%. On a year-over-year basis, the index climbed 2.9%, slightly above the forecasted 2.8% and consistent with the earlier figure of 2.8%. Additionally, the core PCE saw a year-over-year rise of 3%, exceeding expectations of 2.9% and up from the prior 2.8%.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5734</guid>
+      <pubDate>Mon, 23 Feb 2026 17:32:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
