@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 Feb 2026 11:29:58 +0000</lastBuildDate>
-    <item>
-      <title>🌕 According to BBG reports, Russia has sold a limited quantity of gold to take advantage of the incr...</title>
-      <link>https://t.me/news_cryptod/5753</link>
-      <description>🌕 According to BBG reports, Russia has sold a limited quantity of gold to take advantage of the increasing prices. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5753</guid>
-      <pubDate>Tue, 24 Feb 2026 12:01:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Feb 2026 11:59:42 +0000</lastBuildDate>
     <item>
       <title>⚠️ The German Foreign Ministry has advised its citizens to exit Iran. Read more</title>
       <link>https://t.me/news_cryptod/5754</link>
@@ -358,6 +351,13 @@
       <description>🚨 The European Union is considering pausing the approval of a trade deal with the United States in light of the "chaos" surrounding tariffs following a court ruling that deemed Trump's tariffs illegal, according to a report by Bloomberg. The chair of the European Parliament's trade committee intends to suggest delaying the ratification of the agreement until comprehensive information on U.S. trade policy is provided by the Trump administration.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5802</guid>
       <pubDate>Thu, 26 Feb 2026 10:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚖️ The U.S. Supreme Court has dismissed Trump's assertion of unlimited authority to impose and revok...</title>
+      <link>https://t.me/news_cryptod/5803</link>
+      <description>⚖️ The U.S. Supreme Court has dismissed Trump's assertion of unlimited authority to impose and revoke tariffs, establishing new constraints on presidential power. In a 6-3 decision, three judges appointed by Republican presidents underscored the importance of constitutional limits, criticizing Trump's efforts to broaden his authority. This ruling may foreshadow future legal challenges for Trump, including attempts to dismiss Fed official Lisa Cook and eliminate birthright citizenship. BBG mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5803</guid>
+      <pubDate>Thu, 26 Feb 2026 11:39:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
