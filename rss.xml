@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 28 Feb 2026 16:45:34 +0000</lastBuildDate>
-    <item>
-      <title>⚠️🇺🇸 The United States Secret Service has shot an individual who was trying to breach Trump’s Mar-a-...</title>
-      <link>https://t.me/news_cryptod/5804</link>
-      <description>⚠️🇺🇸 The United States Secret Service has shot an individual who was trying to breach Trump’s Mar-a-Lago residence. He was discovered with a pistol, shotgun, and a gasoline canister. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5804</guid>
-      <pubDate>Thu, 26 Feb 2026 12:37:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Feb 2026 17:09:05 +0000</lastBuildDate>
     <item>
       <title>🔍 According to a statement from the European Commission, the European Union does not plan to withdra...</title>
       <link>https://t.me/news_cryptod/5805</link>
@@ -358,6 +351,13 @@
       <description>🇷🇺 Volodin announced that the Russian Central Bank's report to the State Duma will take place in exactly one month. mt в max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5858</guid>
       <pubDate>Sat, 28 Feb 2026 16:09:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>✴️ Starting in March, Hong Kong will begin issuing licenses for the release of stablecoins. mt in ma...</title>
+      <link>https://t.me/news_cryptod/5859</link>
+      <description>✴️ Starting in March, Hong Kong will begin issuing licenses for the release of stablecoins. mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5859</guid>
+      <pubDate>Sat, 28 Feb 2026 17:07:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
