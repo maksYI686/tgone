@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 01 Mar 2026 15:10:40 +0000</lastBuildDate>
-    <item>
-      <title>📰 According to a report from Barclays, the correlation among U.S. Big Tech stocks has dropped to its...</title>
-      <link>https://t.me/news_cryptod/5823</link>
-      <description>📰 According to a report from Barclays, the correlation among U.S. Big Tech stocks has dropped to its lowest level in ten years. Some analysts suggest this trend may indicate increasing market vulnerability. The current U.S. market is characterized by its heterogeneity, with several stocks hitting new highs while others are experiencing new lows, a pattern often seen before significant market declines. For further information, visit mt in max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5823</guid>
-      <pubDate>Fri, 27 Feb 2026 07:06:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>✴️ Players on Polymarket currently estimate a 72% probability that Bitcoin (BTC) will reach a "botto...</title>
-      <link>https://t.me/news_cryptod/5824</link>
-      <description>✴️ Players on Polymarket currently estimate a 72% probability that Bitcoin (BTC) will reach a "bottom" at the $55,000 level. For further updates, visit mt in max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5824</guid>
-      <pubDate>Fri, 27 Feb 2026 08:04:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 15:41:31 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 Russian property management firms and homeowners associations could incur fines of up to 300,000 ...</title>
       <link>https://t.me/news_cryptod/5825</link>
@@ -364,6 +350,20 @@ mt in max</description>
       <description>💥 Bitcoin surpasses $67,000.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5881</guid>
       <pubDate>Sun, 01 Mar 2026 14:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 According to Bloomberg, Russia is considering lowering the budget rule oil price to between $45 an...</title>
+      <link>https://t.me/news_cryptod/5882</link>
+      <description>📰 According to Bloomberg, Russia is considering lowering the budget rule oil price to between $45 and $50 per barrel. This reduction could result in the Ministry of Finance increasing its currency purchases. For more information, visit mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5882</guid>
+      <pubDate>Sun, 01 Mar 2026 15:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Amazon, Google, and Oracle are set to finalize agreements concerning data centers in the United S...</title>
+      <link>https://t.me/news_cryptod/5883</link>
+      <description>🇺🇸 Amazon, Google, and Oracle are set to finalize agreements concerning data centers in the United States. According to a White House official quoted by Fox News, these commitments will facilitate the establishment of data centers across the country.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5883</guid>
+      <pubDate>Sun, 01 Mar 2026 15:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
