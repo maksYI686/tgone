@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Mar 2026 20:20:08 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 Volodin announced that the Russian Central Bank's report to the State Duma will take place in exa...</title>
-      <link>https://t.me/news_cryptod/5858</link>
-      <description>🇷🇺 Volodin announced that the Russian Central Bank's report to the State Duma will take place in exactly one month. mt в max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5858</guid>
-      <pubDate>Sat, 28 Feb 2026 16:09:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 20:56:32 +0000</lastBuildDate>
     <item>
       <title>✴️ Starting in March, Hong Kong will begin issuing licenses for the release of stablecoins. mt in ma...</title>
       <link>https://t.me/news_cryptod/5859</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>⚠️🇺🇸 JPMorgan warns that a significant rise in oil prices could result in increased inflation in the United States. mt в max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5915</guid>
       <pubDate>Mon, 02 Mar 2026 19:41:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ 🇺🇸 U.S. stock futures, particularly the S&amp;P 500, are sharply declining. Attempts to address the s...</title>
+      <link>https://t.me/news_cryptod/5916</link>
+      <description>⚠️ 🇺🇸 U.S. stock futures, particularly the S&amp;P 500, are sharply declining. Attempts to address the situation in Iran over the weekend were unsuccessful. For further information, check out mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5916</guid>
+      <pubDate>Mon, 02 Mar 2026 20:39:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
