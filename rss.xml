@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Mar 2026 19:09:37 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 President Putin is scheduled to give a speech during the plenary session of the Future Technologi...</title>
-      <link>https://t.me/news_cryptod/5857</link>
-      <description>🇷🇺 President Putin is scheduled to give a speech during the plenary session of the Future Technologies Forum and will also conduct a meeting. mt в max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5857</guid>
-      <pubDate>Sat, 28 Feb 2026 15:11:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 19:53:59 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 Volodin announced that the Russian Central Bank's report to the State Duma will take place in exa...</title>
       <link>https://t.me/news_cryptod/5858</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>💥 The Russian state oil company, ROSN, reports a 5.5% increase.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5914</guid>
       <pubDate>Mon, 02 Mar 2026 18:42:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️🇺🇸 JPMorgan warns that a significant rise in oil prices could result in increased inflation in the...</title>
+      <link>https://t.me/news_cryptod/5915</link>
+      <description>⚠️🇺🇸 JPMorgan warns that a significant rise in oil prices could result in increased inflation in the United States. mt в max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5915</guid>
+      <pubDate>Mon, 02 Mar 2026 19:41:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
