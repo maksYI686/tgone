@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 02 Mar 2026 09:04:12 +0000</lastBuildDate>
-    <item>
-      <title>💥🇪🇺 European stocks hit an all-time high as the STOXX 600 achieves a new milestone. For in-depth ana...</title>
-      <link>https://t.me/news_cryptod/5846</link>
-      <description>💥🇪🇺 European stocks hit an all-time high as the STOXX 600 achieves a new milestone. For in-depth analysis, click here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5846</guid>
-      <pubDate>Sat, 28 Feb 2026 04:29:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 02 Mar 2026 10:08:57 +0000</lastBuildDate>
     <item>
       <title>📰 Ozon's GMV surged by 30% to reach 1.2 trillion RUB in the fourth quarter, while adjusted EBITDA ex...</title>
       <link>https://t.me/news_cryptod/5847</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>🇮🇳 In February, India's Manufacturing PMI increased to 56.9, up from the previous figure of 55.4.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5903</guid>
       <pubDate>Mon, 02 Mar 2026 08:59:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>📊 The Manufacturing PMI for the Russian Federation in February is recorded at 49.5, up from the prio...</title>
+      <link>https://t.me/news_cryptod/5904</link>
+      <description>📊 The Manufacturing PMI for the Russian Federation in February is recorded at 49.5, up from the prior figure of 49.4.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5904</guid>
+      <pubDate>Mon, 02 Mar 2026 09:57:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
