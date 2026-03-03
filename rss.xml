@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Mar 2026 21:52:07 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇸 Salesforce announced earnings per share of $3.81, exceeding expectations of $3.05. The company's ...</title>
-      <link>https://t.me/news_cryptod/5887</link>
-      <description>🇺🇸 Salesforce announced earnings per share of $3.81, exceeding expectations of $3.05. The company's revenue reached $11.20 billion, slightly above the anticipated $11.19 billion. For the first quarter, Salesforce forecasts revenue between $11.03 billion and $11.08 billion, surpassing the estimate of $10.99 billion. Additionally, the company is increasing its quarterly dividend to $0.44 and raising its share buyback authorization to $50 billion.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5887</guid>
-      <pubDate>Sun, 01 Mar 2026 19:22:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 22:15:22 +0000</lastBuildDate>
     <item>
       <title>🌍 In the foreign exchange market, USDCNY is currently at 6.83, and USDTRUB is at 77.80.</title>
       <link>https://t.me/news_cryptod/5888</link>
@@ -362,6 +355,13 @@ Gas prices in Europe have exceeded $490, reflecting a 20% rise since the beginni
       <description>🇷🇺🇺🇸 The Kremlin reports that discussions between Russia and the U.S. in the working group focused on economic matters are advancing as anticipated, with efforts ongoing. Read more here</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5941</guid>
       <pubDate>Tue, 03 Mar 2026 20:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 The Kremlin has refrained from commenting on the specifics of the negotiations concerning Ukraine...</title>
+      <link>https://t.me/news_cryptod/5942</link>
+      <description>🇺🇦 The Kremlin has refrained from commenting on the specifics of the negotiations concerning Ukraine. However, security guarantees and territorial matters continue to be key topics on the agenda, as stated by the Kremlin, according to a report by mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5942</guid>
+      <pubDate>Tue, 03 Mar 2026 21:56:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
