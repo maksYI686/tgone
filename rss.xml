@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 03 Mar 2026 19:30:25 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇦 According to TASS sources, the trilateral meeting involving Russia, Ukraine, and the USA aimed at...</title>
-      <link>https://t.me/news_cryptod/5885</link>
-      <description>🇺🇦 According to TASS sources, the trilateral meeting involving Russia, Ukraine, and the USA aimed at resolving the Ukrainian conflict has been rescheduled for early March. mt в max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5885</guid>
-      <pubDate>Sun, 01 Mar 2026 17:26:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Mar 2026 20:19:20 +0000</lastBuildDate>
     <item>
       <title>⚠️ A coalition of Democrats, headed by Senator Jeanne Shaheen, is raising concerns about the effecti...</title>
       <link>https://t.me/news_cryptod/5886</link>
@@ -362,6 +355,13 @@ Gas prices in Europe have exceeded $490, reflecting a 20% rise since the beginni
       <description>⚠️🇺🇸 Reports from RTRS indicate that an Iranian missile targeted Amazon's data center in the UAE. mt в max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5939</guid>
       <pubDate>Tue, 03 Mar 2026 19:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 "Samolyot" is at the forefront of housing construction volume in Russia, as reported by RIA.</title>
+      <link>https://t.me/news_cryptod/5940</link>
+      <description>🇷🇺 "Samolyot" is at the forefront of housing construction volume in Russia, as reported by RIA.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5940</guid>
+      <pubDate>Tue, 03 Mar 2026 19:59:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
