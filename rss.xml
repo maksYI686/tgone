@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 04 Mar 2026 23:48:37 +0000</lastBuildDate>
-    <item>
-      <title>💥 The Russian state oil company, ROSN, reports a 5.5% increase.</title>
-      <link>https://t.me/news_cryptod/5914</link>
-      <description>💥 The Russian state oil company, ROSN, reports a 5.5% increase.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5914</guid>
-      <pubDate>Mon, 02 Mar 2026 18:42:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 00:56:38 +0000</lastBuildDate>
     <item>
       <title>⚠️🇺🇸 JPMorgan warns that a significant rise in oil prices could result in increased inflation in the...</title>
       <link>https://t.me/news_cryptod/5915</link>
@@ -364,6 +357,13 @@ The SPB Exchange revealed that its trading volume for February reached ₽183.83
       <description>⚠️ Iran's Security Council has announced the country's readiness for an extended conflict, highlighting its preparedness in the face of ongoing geopolitical tensions. For further details, visit mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5970</guid>
       <pubDate>Wed, 04 Mar 2026 23:12:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 Oil prices are once again on the rise following a phase of stabilization, as observed in recent mo...</title>
+      <link>https://t.me/news_cryptod/5971</link>
+      <description>🛢 Oil prices are once again on the rise following a phase of stabilization, as observed in recent monitoring. For further details, visit mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5971</guid>
+      <pubDate>Thu, 05 Mar 2026 00:11:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
