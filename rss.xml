@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 05 Mar 2026 20:02:23 +0000</lastBuildDate>
-    <item>
-      <title>💥 The ACRA agency has lifted the "Under Observation" status from Samolet's credit rating and its bon...</title>
-      <link>https://t.me/news_cryptod/5937</link>
-      <description>💥 The ACRA agency has lifted the "Under Observation" status from Samolet's credit rating and its bond issues. The credit rating remains at A-(RU) with a "Stable" outlook. For further details, check out the ACRA press release.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5937</guid>
-      <pubDate>Tue, 03 Mar 2026 17:04:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 20:56:29 +0000</lastBuildDate>
     <item>
       <title>⚠️☢️ The Iranian ambassador to the IAEA stated that the United States and Israel launched attacks on...</title>
       <link>https://t.me/news_cryptod/5938</link>
@@ -362,6 +355,13 @@ QatarEnergy has declared a force majeure situation that will affect its liquefie
       <description>🇺🇸 The U.S. defense and oil industries are leading the growth in the S&amp;P 500, based on recent monitoring data. Meanwhile, Bitcoin (BTC) remains steady. To learn more, visit mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5991</guid>
       <pubDate>Thu, 05 Mar 2026 19:37:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ The U.S. Embassy in Beirut strongly advises citizens to exit Lebanon without delay. This alert co...</title>
+      <link>https://t.me/news_cryptod/5992</link>
+      <description>⚠️ The U.S. Embassy in Beirut strongly advises citizens to exit Lebanon without delay. This alert comes in light of Al-Hadath reports suggesting that Israel may initiate an invasion into Lebanon. Find out more.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/5992</guid>
+      <pubDate>Thu, 05 Mar 2026 20:36:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
