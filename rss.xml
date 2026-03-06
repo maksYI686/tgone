@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Mar 2026 20:52:04 +0000</lastBuildDate>
-    <item>
-      <title>🛢️ Gas prices in Europe have exceeded $500.</title>
-      <link>https://t.me/news_cryptod/5963</link>
-      <description>🛢️ Gas prices in Europe have exceeded $500.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5963</guid>
-      <pubDate>Wed, 04 Mar 2026 17:22:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 21:17:10 +0000</lastBuildDate>
     <item>
       <title>🚫🛢 QatarEnergy has ceased LNG production at its Ras Laffan facility following an attack, according t...</title>
       <link>https://t.me/news_cryptod/5964</link>
@@ -360,6 +353,13 @@ QatarEnergy has declared a force majeure situation that will affect its liquefie
       <description>📬 Today's key events: India observes Holi with a trading halt. Former German Chancellor Merkel is slated to meet Trump in Washington. The leaders of the central banks of Australia and Japan are scheduled to speak. Turkey and the Eurozone will release their consumer inflation rates. Brazil's GDP figures for Q4 2025 are anticipated. The API will report on US oil reserves. In the courts, a hearing is taking place involving Russian fuel trader "Algorithm Fuel Integrator" against Eurotrans for $500 million. Earnings reports are expected from Target, Best Buy, Ross Stores, and Crowdstrike.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6016</guid>
       <pubDate>Fri, 06 Mar 2026 19:56:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🌎 According to the most recent currency updates, the exchange rate for the US dollar to the Chinese ...</title>
+      <link>https://t.me/news_cryptod/6017</link>
+      <description>🌎 According to the most recent currency updates, the exchange rate for the US dollar to the Chinese Yuan is currently 6.88. Additionally, the exchange rate for the US dollar to the Russian Ruble is at 78.50.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6017</guid>
+      <pubDate>Fri, 06 Mar 2026 20:54:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
