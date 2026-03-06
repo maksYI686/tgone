@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Mar 2026 03:37:15 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Russian President Vladimir Putin is preparing for an international phone conversation regarding t...</title>
-      <link>https://t.me/news_cryptod/5943</link>
-      <description>⚠️ Russian President Vladimir Putin is preparing for an international phone conversation regarding the situation in Iran. According to spokesperson Dmitry Peskov, the Kremlin has no additional comments beyond the Russian Foreign Ministry's position on Iran. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5943</guid>
-      <pubDate>Tue, 03 Mar 2026 22:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 05:03:48 +0000</lastBuildDate>
     <item>
       <title>🇬🇧 The UK's economy experiences a minor decline in its manufacturing sector, with the Manufacturing ...</title>
       <link>https://t.me/news_cryptod/5944</link>
@@ -362,6 +355,13 @@ QatarEnergy has declared a force majeure situation that will affect its liquefie
       <description>⚠️🇪🇺 President Macron has unveiled initiatives to bolster France's nuclear deterrence capabilities, marking the beginning of a new phase of "advanced deterrence." He reaffirmed France's dedication to enhancing its nuclear deterrent as the nation transitions into this new era. Find out more at mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/5999</guid>
       <pubDate>Fri, 06 Mar 2026 03:24:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇨🇦 Canada's Manufacturing PMI for February rose to 51, up from the previous reading of 50.4.</title>
+      <link>https://t.me/news_cryptod/6000</link>
+      <description>🇨🇦 Canada's Manufacturing PMI for February rose to 51, up from the previous reading of 50.4.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6000</guid>
+      <pubDate>Fri, 06 Mar 2026 04:22:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
