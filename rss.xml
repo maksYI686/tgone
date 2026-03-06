@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Mar 2026 10:59:00 +0000</lastBuildDate>
-    <item>
-      <title>🛢 According to economists, Iran, which accounts for around 5% of global oil supply, could trigger a ...</title>
-      <link>https://t.me/news_cryptod/5951</link>
-      <description>🛢 According to economists, Iran, which accounts for around 5% of global oil supply, could trigger a roughly 20% increase in crude prices if its exports were completely stopped. For further information, check out this Bloomberg article. Additional insights can be found on mt in max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5951</guid>
-      <pubDate>Wed, 04 Mar 2026 06:41:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 11:25:48 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 According to DOM.RF, mortgage rates have dropped by 1% since the start of the year. For further i...</title>
       <link>https://t.me/news_cryptod/5954</link>
@@ -362,6 +355,13 @@ QatarEnergy has declared a force majeure situation that will affect its liquefie
       <description>📰 The S&amp;P Manufacturing PMI for February in the United States has seen a modest uptick, climbing to 51.6 from the prior reading of 51.2.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6006</guid>
       <pubDate>Fri, 06 Mar 2026 10:12:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 The ISM Manufacturing PMI for the United States in February is recorded at 52.4, showing a modest ...</title>
+      <link>https://t.me/news_cryptod/6007</link>
+      <description>📰 The ISM Manufacturing PMI for the United States in February is recorded at 52.4, showing a modest decline from the prior figure of 52.6.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6007</guid>
+      <pubDate>Fri, 06 Mar 2026 11:11:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
