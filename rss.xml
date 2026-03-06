@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 06 Mar 2026 07:10:01 +0000</lastBuildDate>
-    <item>
-      <title>📈 The Russian Ministry of Finance is set to assist companies in their efforts to pursue Initial Publ...</title>
-      <link>https://t.me/news_cryptod/5947</link>
-      <description>📈 The Russian Ministry of Finance is set to assist companies in their efforts to pursue Initial Public Offerings (IPOs) and Secondary Public Offerings (SPOs). There is anticipated growth in interest for IPOs among Russian firms, as this avenue facilitates capital acquisition for expansion. Taking the step to go public is a crucial decision, necessitating that businesses enhance their transparency and showcase operational efficiency to attract investors, which in turn can lead to heightened interest and increased stock value. — Siluanov in an interview with IS “Vesti” (mt in max)</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5947</guid>
-      <pubDate>Wed, 04 Mar 2026 02:47:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Mar 2026 07:54:48 +0000</lastBuildDate>
     <item>
       <title>🔍 Analysts caution that a U.S. strike on Iran might disrupt supply chains, affecting China, India, E...</title>
       <link>https://t.me/news_cryptod/5948</link>
@@ -362,6 +355,13 @@ QatarEnergy has declared a force majeure situation that will affect its liquefie
       <description>🚫🛢 The volume of shipping through the Strait of Hormuz has significantly decreased following recent U.S. and Israeli strikes on Iran. Insurers are beginning to increase war premiums and reevaluate coverage due to escalating security concerns, according to reports from Maritime News. mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6002</guid>
       <pubDate>Fri, 06 Mar 2026 06:19:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 Analysts from TASS warn that prolonged disruptions in LNG supplies from Gulf nations, especially i...</title>
+      <link>https://t.me/news_cryptod/6003</link>
+      <description>🛢 Analysts from TASS warn that prolonged disruptions in LNG supplies from Gulf nations, especially if the Strait of Hormuz is obstructed, could lead to a gas shortage in Europe and trigger a price spike reminiscent of the 2022 crisis. mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6003</guid>
+      <pubDate>Fri, 06 Mar 2026 07:17:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
