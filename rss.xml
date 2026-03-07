@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 07 Mar 2026 11:08:54 +0000</lastBuildDate>
-    <item>
-      <title>⚠️ Pete Hegseth, the head of the U.S. Department of Defense, is currently delivering a briefing outl...</title>
-      <link>https://t.me/news_cryptod/5981</link>
-      <description>⚠️ Pete Hegseth, the head of the U.S. Department of Defense, is currently delivering a briefing outlining several justifications for the bombing of Iran. He asserts that this conflict is not an indefinite war, differentiating it from the situations in Iraq and Afghanistan. Hegseth emphasizes that the resolution of the conflict will be on U.S. terms. For further details, click here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/5981</guid>
-      <pubDate>Thu, 05 Mar 2026 09:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 11:38:51 +0000</lastBuildDate>
     <item>
       <title>❗️🛢🇪🇺 European leaders are holding an emergency meeting to discuss gas supplies. RTRS reports: EU TO...</title>
       <link>https://t.me/news_cryptod/5982</link>
@@ -358,6 +351,13 @@
       <description>🛢 Trump forecasts a decline in oil prices following the resolution of the Iran conflict, as reported by mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6036</guid>
       <pubDate>Sat, 07 Mar 2026 10:31:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Russian stocks are displaying signs of stabilization, with the IMOEX showing an upward trend sinc...</title>
+      <link>https://t.me/news_cryptod/6037</link>
+      <description>⚠️ Russian stocks are displaying signs of stabilization, with the IMOEX showing an upward trend since December 2025, as observed in recent monitoring. mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6037</guid>
+      <pubDate>Sat, 07 Mar 2026 11:29:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
