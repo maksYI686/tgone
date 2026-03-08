@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 08 Mar 2026 19:13:38 +0000</lastBuildDate>
-    <item>
-      <title>🌎 According to the most recent currency updates, the exchange rate for the US dollar to the Chinese ...</title>
-      <link>https://t.me/news_cryptod/6017</link>
-      <description>🌎 According to the most recent currency updates, the exchange rate for the US dollar to the Chinese Yuan is currently 6.88. Additionally, the exchange rate for the US dollar to the Russian Ruble is at 78.50.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6017</guid>
-      <pubDate>Fri, 06 Mar 2026 20:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 19:41:01 +0000</lastBuildDate>
     <item>
       <title>📰 U.S. Central Command (CENTCOM) has reported to Fox News that the Strait of Hormuz is still open, c...</title>
       <link>https://t.me/news_cryptod/6018</link>
@@ -364,6 +357,13 @@ Throughout the day, notable financial reports are anticipated from various compa
       <description>🇮🇷 The Kurdistan Democratic Party has refuted allegations of an offensive in Iran, emphasizing its position of remaining neutral in the ongoing conflict. For further details, click here.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6073</guid>
       <pubDate>Sun, 08 Mar 2026 18:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ China has pledged to take "decisive action" against those supporting Taiwan's independence, as st...</title>
+      <link>https://t.me/news_cryptod/6074</link>
+      <description>⚠️ China has pledged to take "decisive action" against those supporting Taiwan's independence, as stated in a report from the 4th session of the 14th National People's Congress. Find out more in the report</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6074</guid>
+      <pubDate>Sun, 08 Mar 2026 19:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
