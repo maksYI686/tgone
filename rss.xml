@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 08 Mar 2026 07:46:50 +0000</lastBuildDate>
-    <item>
-      <title>❗️ Former President Trump will address the situation in Iran today at 7:00 PM Moscow time. His remar...</title>
-      <link>https://t.me/news_cryptod/6005</link>
-      <description>❗️ Former President Trump will address the situation in Iran today at 7:00 PM Moscow time. His remarks could carry substantial geopolitical weight, given the current tensions and heightened international attention on the region. Stay tuned for updates on this evolving story.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6005</guid>
-      <pubDate>Fri, 06 Mar 2026 09:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 08:15:39 +0000</lastBuildDate>
     <item>
       <title>📰 The S&amp;P Manufacturing PMI for February in the United States has seen a modest uptick, climbing to ...</title>
       <link>https://t.me/news_cryptod/6006</link>
@@ -360,6 +353,13 @@ mt in max</description>
       <description>🛢 U.S. Oil Inventory Update: The Energy Information Administration (EIA) reported a rise in crude oil inventories by 3.475 million barrels, exceeding the anticipated increase of 3 million barrels. This comes on the heels of a prior increase of 15.989 million barrels.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6060</guid>
       <pubDate>Sun, 08 Mar 2026 06:56:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚀✨ Bitcoin rises by 7%, and Ethereum climbs by 8%.</title>
+      <link>https://t.me/news_cryptod/6061</link>
+      <description>🚀✨ Bitcoin rises by 7%, and Ethereum climbs by 8%.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6061</guid>
+      <pubDate>Sun, 08 Mar 2026 07:54:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
