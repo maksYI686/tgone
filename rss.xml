@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Mar 2026 23:13:17 +0000</lastBuildDate>
-    <item>
-      <title>🚨 The Russian Ministry of Finance has announced a suspension of all foreign currency and gold transa...</title>
-      <link>https://t.me/news_cryptod/6102</link>
-      <description>🚨 The Russian Ministry of Finance has announced a suspension of all foreign currency and gold transactions on the domestic market for a period of one month. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6102</guid>
-      <pubDate>Mon, 09 Mar 2026 18:54:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 23:45:08 +0000</lastBuildDate>
     <item>
       <title>🚫 Maersk has decided to suspend two shipping services in response to the ongoing crisis in the Middl...</title>
       <link>https://t.me/news_cryptod/6103</link>
@@ -358,6 +351,13 @@
       <description>✴️ According to Coinglass data, the number of short positions on ETH has now surpassed long positions by more than 12 times. mt in max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6156</guid>
       <pubDate>Wed, 11 Mar 2026 22:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️✴️According to data from SoSoValue, spot BTC ETF outflows have restarted. Check out mt in max for ...</title>
+      <link>https://t.me/news_cryptod/6157</link>
+      <description>⚠️✴️According to data from SoSoValue, spot BTC ETF outflows have restarted. Check out mt in max for more information.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6157</guid>
+      <pubDate>Wed, 11 Mar 2026 23:24:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
