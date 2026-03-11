@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Mar 2026 21:19:16 +0000</lastBuildDate>
-    <item>
-      <title>📰 The board of HeadHunter has declared dividends of 233 rubles per share for 2025, representing 116%...</title>
-      <link>https://t.me/news_cryptod/6100</link>
-      <description>📰 The board of HeadHunter has declared dividends of 233 rubles per share for 2025, representing 116% of the adjusted net profit. The annual shareholders' meeting is set to take place on April 27.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6100</guid>
-      <pubDate>Mon, 09 Mar 2026 18:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 21:51:33 +0000</lastBuildDate>
     <item>
       <title>🇷🇺 Bank Saint Petersburg announced its earnings for 2025, reporting a profit of 37.8 billion rubles ...</title>
       <link>https://t.me/news_cryptod/6101</link>
@@ -358,6 +351,13 @@
       <description>🗞️ According to "BCS World of Investments," female investors are becoming more active in the stock market. For further information, check out the article on mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6154</guid>
       <pubDate>Wed, 11 Mar 2026 20:29:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️✴️ Culper Research, a firm specializing in short-selling, has taken a significant short position i...</title>
+      <link>https://t.me/news_cryptod/6155</link>
+      <description>⚠️✴️ Culper Research, a firm specializing in short-selling, has taken a significant short position in both ETH and Tom Lee's Bitmine stocks. They argue that the tokenomics of ETH have deteriorated following the Fusaka update, leading to lower fee income and a rise in spam transactions. Additionally, Vitalik Buterin is reportedly selling, and Bitmine, the largest corporate buyer of ETH, is dealing with $7.4 billion in unrealized losses. For more information, visit mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6155</guid>
+      <pubDate>Wed, 11 Mar 2026 21:27:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
