@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 11 Mar 2026 22:15:03 +0000</lastBuildDate>
-    <item>
-      <title>🇷🇺 Bank Saint Petersburg announced its earnings for 2025, reporting a profit of 37.8 billion rubles ...</title>
-      <link>https://t.me/news_cryptod/6101</link>
-      <description>🇷🇺 Bank Saint Petersburg announced its earnings for 2025, reporting a profit of 37.8 billion rubles in accordance with IFRS standards. This figure represents a decline from the previous year's profit of 50.77 billion rubles. Find out more here.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6101</guid>
-      <pubDate>Mon, 09 Mar 2026 18:54:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 22:45:29 +0000</lastBuildDate>
     <item>
       <title>🚨 The Russian Ministry of Finance has announced a suspension of all foreign currency and gold transa...</title>
       <link>https://t.me/news_cryptod/6102</link>
@@ -358,6 +351,13 @@
       <description>⚠️✴️ Culper Research, a firm specializing in short-selling, has taken a significant short position in both ETH and Tom Lee's Bitmine stocks. They argue that the tokenomics of ETH have deteriorated following the Fusaka update, leading to lower fee income and a rise in spam transactions. Additionally, Vitalik Buterin is reportedly selling, and Bitmine, the largest corporate buyer of ETH, is dealing with $7.4 billion in unrealized losses. For more information, visit mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6155</guid>
       <pubDate>Wed, 11 Mar 2026 21:27:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>✴️ According to Coinglass data, the number of short positions on ETH has now surpassed long position...</title>
+      <link>https://t.me/news_cryptod/6156</link>
+      <description>✴️ According to Coinglass data, the number of short positions on ETH has now surpassed long positions by more than 12 times. mt in max</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6156</guid>
+      <pubDate>Wed, 11 Mar 2026 22:26:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
