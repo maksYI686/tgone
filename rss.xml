@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 12 Mar 2026 21:24:02 +0000</lastBuildDate>
-    <item>
-      <title>📰 A new study conducted by the crypto exchange Grinex shows that the percentage of women participati...</title>
-      <link>https://t.me/news_cryptod/6126</link>
-      <description>📰 A new study conducted by the crypto exchange Grinex shows that the percentage of women participating in the cryptocurrency market in Russia has climbed to 29%. Find out more</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6126</guid>
-      <pubDate>Tue, 10 Mar 2026 18:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Mar 2026 21:51:56 +0000</lastBuildDate>
     <item>
       <title>🛢🇺🇸 According to the NYT, gasoline prices in the U.S. have jumped 14% within a week due to the initi...</title>
       <link>https://t.me/news_cryptod/6127</link>
@@ -358,6 +351,13 @@
       <description>⚠️ During an interview with the Times of Israel, Trump mentioned that any decision to resolve the conflict with Iran would be made in partnership with Netanyahu, but ultimately, the final call would be his. Read more here</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6180</guid>
       <pubDate>Thu, 12 Mar 2026 20:47:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 Saudi Arabia successfully intercepted a drone that was approaching the Shaybah oil field, accordin...</title>
+      <link>https://t.me/news_cryptod/6181</link>
+      <description>🛢 Saudi Arabia successfully intercepted a drone that was approaching the Shaybah oil field, according to a report from SPA. Learn more</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6181</guid>
+      <pubDate>Thu, 12 Mar 2026 21:46:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
