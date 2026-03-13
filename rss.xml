@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 13 Mar 2026 22:48:19 +0000</lastBuildDate>
-    <item>
-      <title>❗️🛢 The United States is considering the option of taking control of Kharg Island, a crucial oil ter...</title>
-      <link>https://t.me/news_cryptod/6160</link>
-      <description>❗️🛢 The United States is considering the option of taking control of Kharg Island, a crucial oil terminal that accounts for around 90% of Iran's oil exports, as reported by Axios. mt in max</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6160</guid>
-      <pubDate>Thu, 12 Mar 2026 02:19:26 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 13 Mar 2026 23:15:06 +0000</lastBuildDate>
     <item>
       <title>⚠️ According to Hegset, the United States is said to be ramping up its strikes on Iran. For more det...</title>
       <link>https://t.me/news_cryptod/6161</link>
@@ -360,6 +353,13 @@ mt in max</description>
       <description>🌊 Rheinmetall has revealed its intention to manufacture hundreds of maritime drones each year.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6212</guid>
       <pubDate>Fri, 13 Mar 2026 22:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 Russians will have the option to decline AI-based services. In these instances, companies must con...</title>
+      <link>https://t.me/news_cryptod/6213</link>
+      <description>📰 Russians will have the option to decline AI-based services. In these instances, companies must continue to provide services to the client without utilizing AI, according to Izvestia.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6213</guid>
+      <pubDate>Fri, 13 Mar 2026 23:02:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
