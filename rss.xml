@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 14 Mar 2026 03:17:18 +0000</lastBuildDate>
-    <item>
-      <title>🗓 Important events this week: The US has transitioned to daylight saving time, resulting in markets ...</title>
-      <link>https://t.me/news_cryptod/6162</link>
-      <description>🗓 Important events this week: The US has transitioned to daylight saving time, resulting in markets now opening an hour earlier at 4:30 p.m. MSC. On March 9, attention will be on China's consumer inflation data and Germany's industrial production figures. March 10 will showcase Japan's GDP as well as key US economic indicators, including ADP employment data. Energy reports will take center stage on March 11. March 12 will feature significant economic forecasts, while March 13 will present GDP figures along with various US financial indicators.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6162</guid>
-      <pubDate>Thu, 12 Mar 2026 04:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>⚠️ According to U.S. Energy Secretary Chris Wright, the United States continues to uphold its sancti...</title>
-      <link>https://t.me/news_cryptod/6163</link>
-      <description>⚠️ According to U.S. Energy Secretary Chris Wright, the United States continues to uphold its sanctions policy towards Russia, even with a brief relaxation of restrictions permitting India to acquire Russian oil. Read more.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6163</guid>
-      <pubDate>Thu, 12 Mar 2026 05:14:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Mar 2026 04:54:51 +0000</lastBuildDate>
     <item>
       <title>⚠️🛢️🇺🇸🇮🇷 U.S. Energy Secretary Chris Wright announced that the United States does not intend to targ...</title>
       <link>https://t.me/news_cryptod/6164</link>
@@ -360,6 +346,20 @@ mt in max</description>
       <description>🛢 The CEO of Aramco has confirmed that projects will proceed as planned, but a reassessment will take place if the conflict lasts longer than six months. Read more</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6216</guid>
       <pubDate>Sat, 14 Mar 2026 01:57:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇷🇺 For the first time in two years, average interest rates on deposits at the top 20 banks in Russia...</title>
+      <link>https://t.me/news_cryptod/6218</link>
+      <description>🇷🇺 For the first time in two years, average interest rates on deposits at the top 20 banks in Russia have dropped below 14%. For more information, check out mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6218</guid>
+      <pubDate>Sat, 14 Mar 2026 03:54:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 President Putin has indicated that 15-17% of the Donetsk People's Republic (DNR) is still under t...</title>
+      <link>https://t.me/news_cryptod/6219</link>
+      <description>🇺🇦 President Putin has indicated that 15-17% of the Donetsk People's Republic (DNR) is still under the control of Kyiv, a reduction from the prior figure of 25%. For further information, you can read the article here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6219</guid>
+      <pubDate>Sat, 14 Mar 2026 04:52:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
