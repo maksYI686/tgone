@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 15 Mar 2026 11:44:09 +0000</lastBuildDate>
-    <item>
-      <title>🛢 Western media often highlight that former President Trump is keen on maintaining oil prices under ...</title>
-      <link>https://t.me/news_cryptod/6197</link>
-      <description>🛢 Western media often highlight that former President Trump is keen on maintaining oil prices under $100. Although it’s uncertain whether Trump is personally aware of this goal, it continues to be a prevalent subject in various publications. For additional insights, check out mt at max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6197</guid>
-      <pubDate>Fri, 13 Mar 2026 09:26:06 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 12:22:27 +0000</lastBuildDate>
     <item>
       <title>🇺🇸🇮🇷 Trump is set to hold an "unexpected" press conference regarding Iran today at 5:30 PM ET, which...</title>
       <link>https://t.me/news_cryptod/6198</link>
@@ -364,6 +357,13 @@ mt in max</description>
       <description>🚨 The Trump administration is set to unveil new tariff investigations, which could result in higher tariffs on various countries perceived to be engaging in unfair trade practices. For further information, check out the WSJ. Additional updates can be found on mt in max.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6251</guid>
       <pubDate>Sun, 15 Mar 2026 11:01:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 According to Goldman, hedge funds and asset managers are holding substantial long positions in in...</title>
+      <link>https://t.me/news_cryptod/6252</link>
+      <description>🇺🇸 According to Goldman, hedge funds and asset managers are holding substantial long positions in individual stocks while simultaneously hedging through short positions in ETFs and index futures. The volume of these shorts has surged to its highest point since September 2022. This strategy could trigger a significant short squeeze and lead to a dramatic rally in the S&amp;P 500, as noted by mt in max.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6252</guid>
+      <pubDate>Sun, 15 Mar 2026 11:59:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
