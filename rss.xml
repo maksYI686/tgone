@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 16 Mar 2026 16:46:45 +0000</lastBuildDate>
-    <item>
-      <title>📈 Bitwise is optimistic about Bitcoin, forecasting it could reach $1,000,000. For more information, ...</title>
-      <link>https://t.me/news_cryptod/6228</link>
-      <description>📈 Bitwise is optimistic about Bitcoin, forecasting it could reach $1,000,000. For more information, visit mt in max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6228</guid>
-      <pubDate>Sat, 14 Mar 2026 12:39:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 16 Mar 2026 17:49:59 +0000</lastBuildDate>
     <item>
       <title>🌎 In the foreign exchange market, the USDCNY is trading at 6.86, while the USDTRUB stands at 79.50.</title>
       <link>https://t.me/news_cryptod/6229</link>
@@ -358,6 +351,13 @@
       <description>🌎 The exchange rate for USD to CNY is currently 6.88, and the rate for USD to RUB is 80.20.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6281</guid>
       <pubDate>Mon, 16 Mar 2026 16:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🚨 Breaking News: Sources suggest that a U.S. arms package for Taiwan could be approved following for...</title>
+      <link>https://t.me/news_cryptod/6282</link>
+      <description>🚨 Breaking News: Sources suggest that a U.S. arms package for Taiwan could be approved following former President Trump's trip to China. Beijing maintains that Taiwan is a "red line," a stance emphasized by Chinese Foreign Minister Wang Yi on March 8. For more information, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6282</guid>
+      <pubDate>Mon, 16 Mar 2026 17:09:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
