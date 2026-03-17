@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 17 Mar 2026 12:36:37 +0000</lastBuildDate>
-    <item>
-      <title>🇺🇸 According to Goldman, hedge funds and asset managers are holding substantial long positions in in...</title>
-      <link>https://t.me/news_cryptod/6252</link>
-      <description>🇺🇸 According to Goldman, hedge funds and asset managers are holding substantial long positions in individual stocks while simultaneously hedging through short positions in ETFs and index futures. The volume of these shorts has surged to its highest point since September 2022. This strategy could trigger a significant short squeeze and lead to a dramatic rally in the S&amp;P 500, as noted by mt in max.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6252</guid>
-      <pubDate>Sun, 15 Mar 2026 11:59:25 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Mar 2026 14:09:31 +0000</lastBuildDate>
     <item>
       <title>⚠️🇪🇺 European Commissioner for Economy Valdis Dombrovskis warned that sustained high oil prices coul...</title>
       <link>https://t.me/news_cryptod/6253</link>
@@ -358,6 +351,13 @@
       <description>🚨 Iran is resolute in its ongoing conflict with the U.S., intending to maintain hostilities until the U.S. feels regret for its actions. Tehran has communicated to Arab nations in the region its commitment to continue targeting U.S. military bases throughout the Middle East, regardless of whether the conflict concludes, according to Axios. For additional details, check out the mt in max article.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6305</guid>
       <pubDate>Tue, 17 Mar 2026 12:36:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>⚠️ S&amp;P forecasts that supply disruptions stemming from the conflict in the Middle East will hinder U...</title>
+      <link>https://t.me/news_cryptod/6306</link>
+      <description>⚠️ S&amp;P forecasts that supply disruptions stemming from the conflict in the Middle East will hinder U.S. GDP growth and drive inflation higher. Source.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6306</guid>
+      <pubDate>Tue, 17 Mar 2026 13:34:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
