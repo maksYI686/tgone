@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 22 Mar 2026 17:46:45 +0000</lastBuildDate>
-    <item>
-      <title>🌎 Today, the foreign exchange market recorded the US dollar trading at 6.88 against the Chinese yuan...</title>
-      <link>https://t.me/news_cryptod/6388</link>
-      <description>🌎 Today, the foreign exchange market recorded the US dollar trading at 6.88 against the Chinese yuan and 81.80 against the Russian ruble.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6388</guid>
-      <pubDate>Fri, 20 Mar 2026 15:27:45 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 18:18:09 +0000</lastBuildDate>
     <item>
       <title>📈 The Reserve Bank of Australia has raised the interest rate to 4.1%, meeting expectations and up fr...</title>
       <link>https://t.me/news_cryptod/6389</link>
@@ -358,6 +351,13 @@
       <description>🛢🇯🇵 According to Kyodo News, gasoline prices in Japan have hit an all-time high of 190.8 yen ($1.20) per liter. mt в max</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6442</guid>
       <pubDate>Sun, 22 Mar 2026 17:02:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>📰 Iran's Foreign Ministry announced that Iran will determine the terms for concluding the conflict w...</title>
+      <link>https://t.me/news_cryptod/6443</link>
+      <description>📰 Iran's Foreign Ministry announced that Iran will determine the terms for concluding the conflict with Israel and the United States. For further information, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6443</guid>
+      <pubDate>Sun, 22 Mar 2026 18:01:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
