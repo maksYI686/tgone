@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 22 Mar 2026 15:45:00 +0000</lastBuildDate>
-    <item>
-      <title>📰 March 17, 2026: Witkoff is scheduled to brief U.S. senators regarding the operation against Iran. ...</title>
-      <link>https://t.me/news_cryptod/6386</link>
-      <description>📰 March 17, 2026: Witkoff is scheduled to brief U.S. senators regarding the operation against Iran. In Australia, the central bank's interest rate announcement is anticipated at 5:00 AM MSK. Germany and the Eurozone will publish the March ZEW Economic Sentiment report at 1:00 PM MSK. In the U.S., ADP employment data will be released at 3:15 PM MSK, followed by pending home sales at 5:00 PM MSK. The U.S. API oil inventory data will be available at 11:30 PM MSK. Additionally, Tencent Music will report at 11:00 AM MSK, alongside reports from Russian firms such as Henderson.</description>
-      <guid isPermaLink="false">https://t.me/news_cryptod/6386</guid>
-      <pubDate>Fri, 20 Mar 2026 13:31:05 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 22 Mar 2026 16:14:06 +0000</lastBuildDate>
     <item>
       <title>🌍 Global markets are facing considerable volatility amid economic uncertainties and geopolitical ten...</title>
       <link>https://t.me/news_cryptod/6387</link>
@@ -358,6 +351,13 @@
       <description>🌍 According to the latest foreign exchange market reports, the exchange rate for USD to CNY is 6.89, while the USD to RUB rate is 84.3.</description>
       <guid isPermaLink="false">https://t.me/news_cryptod/6440</guid>
       <pubDate>Sun, 22 Mar 2026 15:06:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>🛢 The price of Brent crude oil has surpassed $112. For more information, click here.</title>
+      <link>https://t.me/news_cryptod/6441</link>
+      <description>🛢 The price of Brent crude oil has surpassed $112. For more information, click here.</description>
+      <guid isPermaLink="false">https://t.me/news_cryptod/6441</guid>
+      <pubDate>Sun, 22 Mar 2026 16:04:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
